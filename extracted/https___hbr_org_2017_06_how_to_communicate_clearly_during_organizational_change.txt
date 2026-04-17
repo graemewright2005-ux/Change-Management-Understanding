@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -74,6 +73,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Summary
@@ -84,6 +84,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 A former colleague liked to remind leaders of their impact by telling them, “There are children you’ve never met who know your name.” The point was simple: Their followers were also moms or dads who were going home and talking about their day in front of their children. And you, their leader, had a starring role in that story. As leaders, we are far more visible than we realize, and we are sending signals to followers all the time — even when we don’t realize it.
@@ -95,6 +96,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -149,7 +151,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -194,7 +195,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -217,5 +217,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.

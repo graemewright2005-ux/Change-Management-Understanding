@@ -6,6 +6,8 @@ Personal
 Business
 Foundation
 Close
+Select Region
+Select your region below to see curated info.
 Global
 India
 MENA
@@ -22,35 +24,36 @@ Professional
 Student
 Global
 Executive
-Enterprise
+Business
 Membership Benefits
 Learning
-SHRM Certification
-Demonstrate your ability to apply HR principles to real-life situations.
+Certification
+Validate your skills with the gold standard in HR
 Choosing Your Certification
 SHRM-CP
 SHRM-SCP
 How to Get Certified
 Prepare for the Exam
 Recertification
-Seminars
-Stand out from among your HR peers with the skills obtained from a SHRM Seminar.
-Specialty Credentials
-Demonstrate targeted competence and enhance your HR credibility.
-Educational Programs
-Designed and delivered by HR experts to empower you with the knowledge and tools you need to drive lasting change in the workplace.
-Essentials of HR
+Education Programs
+Expert-led training for real workplace change
 eLearning
-Qualifications
-Gain a deeper understanding and develop critical skills.
-Events
+Essentials of HR
+Seminars
+Specialty Credentials
+Go deep in your niche. Stand out in your field.
+AI + HI Specialty Credential
+People Manager Qualification (PMQ)
+Executive Voices
+Bring our experts to your stage.
+Attend
 Events
 Demonstrate your ability to apply HR principles to real-life situations.
 SHRM26 Annual Conference & Expo
-The AI+HI Project 2026
+The AI+HI Project 2027
 Talent 2026
 Linkage Institute 2026
-BLUEPRINT 2025
+BLUEPRINT 2026
 State Conferences
 Attend a SHRM state event to network with other HR professionals and learn more about the future of work.
 Seminars
@@ -106,7 +109,7 @@ Become a Member
 Renew
 Rejoin Now
 Renew
-Book a Speaker
+Ask an HR Advisor
 Close
 Personal
 Business
@@ -121,39 +124,40 @@ Professional
 Student
 Global
 Executive
-Enterprise
+Business
 Membership Benefits
 Learning
 back
 Learning
-SHRM Certification
-Demonstrate your ability to apply HR principles to real-life situations.
+Certification
+Validate your skills with the gold standard in HR
 Choosing Your Certification
 SHRM-CP
 SHRM-SCP
 How to Get Certified
 Prepare for the Exam
 Recertification
-Seminars
-Stand out from among your HR peers with the skills obtained from a SHRM Seminar.
-Specialty Credentials
-Demonstrate targeted competence and enhance your HR credibility.
-Educational Programs
-Designed and delivered by HR experts to empower you with the knowledge and tools you need to drive lasting change in the workplace.
-Essentials of HR
+Education Programs
+Expert-led training for real workplace change
 eLearning
-Qualifications
-Gain a deeper understanding and develop critical skills.
-Events
+Essentials of HR
+Seminars
+Specialty Credentials
+Go deep in your niche. Stand out in your field.
+AI + HI Specialty Credential
+People Manager Qualification (PMQ)
+Executive Voices
+Bring our experts to your stage.
+Attend
 back
-Events
+Attend
 Events
 Demonstrate your ability to apply HR principles to real-life situations.
 SHRM26 Annual Conference & Expo
-The AI+HI Project 2026
+The AI+HI Project 2027
 Talent 2026
 Linkage Institute 2026
-BLUEPRINT 2025
+BLUEPRINT 2026
 State Conferences
 Attend a SHRM state event to network with other HR professionals and learn more about the future of work.
 Seminars
@@ -215,7 +219,9 @@ Become a Member
 Renew
 Rejoin Now
 Renew
-Book a Speaker
+Ask an HR Advisor
+Select Region
+Select your region below to see curated info.
 Global
 India
 MENA
@@ -252,11 +258,45 @@ Bookmark
 i
 Reuse
                             Permissions
+﻿
+​What happens when a company replaces a merit-based bonus system with a lottery that doles out awards based on chance?
+Nothing good, if the experience of United Airlines is any indication.
+After the company said earlier this month that it was replacing its bonuses with a lottery system offering large rewards to a few workers at random, furious employees signed an online petition condemning the idea.
+As a result, the airline announced that it would not introduce the new bonus program until after conducting a "listening session" with its workers.
+Traditionally, companies award employee bonuses based on performance or on calculations that reflect a percentage of each worker's salary. United announced that it was getting rid of its performance incentive program that awarded workers up to $375 for each quarter that the airline met operational goals. Instead, the company said employees would be entered into a lottery system that gave out large prizes, including $100,000 in cash and a Mercedes-Benz C-Class sedan. Only workers with perfect attendance records for the quarter would be eligible.
+[SHRM members-only toolkit:
+Developing and Sustaining Employee Engagement
+]
+A Way to Save Money?
+Swapping a merit-based bonus program for a lottery based on chance may strike some as a way for United to save money—a move that may be viewed as especially greedy at a time when the economy and stock markets are humming. Paying out bonuses to rank-and-file workers and executives costs United tens of millions of dollars a year. Some experts speculated that the lottery system that United envisioned would award far less.
+"When United announced its lottery bonus program, it broke its promise to employees," said Deb Gabor, CEO of Sol Marketing, a brand strategy consultancy based in Austin, Texas. "But more importantly, it broke its promise to its customers by creating a system that rewards randomness and variability, rather than consistency and caring, creating a condition in which employees aren't incentivized to deliver experiences that reinforce the company's promise to customers."
+United Airlines spokeswoman Maddie King referred
+SHRM Online
+to a message that United President Scott Kirby sent to employees indicating that he was putting the new bonus program on hold "to review your feedback and consider the right way to move ahead." He explained in the message that the new bonus approach was designed to "introduce a better, more exciting program, but we misjudged how these changes would be received by many of you."
+"We will begin a series of listening sessions across our system to get feedback on how we should structure the new incentive program," King told
+SHRM Online
+. "We want to create confidence across our employee base in the new program that will help build morale, as we continue running a great operation and providing excellent customer service."
+Claire Bissot is managing director of Cleveland-based CBIZ HR Services, which offers financial and employee business services. She noted that before making a proposal as bold as United's, it's advisable to convene focus groups to gauge what employee reaction might be.
+"This is why there are focus groups," she said. "No matter how hard leadership tries to know the people and think like the people, it's very important to understand, especially in large organizations, that you are an executive. You aren't the people. Get opinions and feedback, let employees submit ideas, and start with small changes."
+Affecting Employee Engagement
+Kirby has said that he wants United to solidify its reputation as the "most caring airline in a highly competitive industry."
+Those comments came after a highly publicized incident last year in which Dr. David Dao was one of four passengers asked to leave an oversold flight so airline employees could board the plane. When he refused, according to passengers' videos, airline officials dragged Dao through the aisle of the aircraft.
+That alone may have been enough to risk customer trust. The recent news about the change to workers' bonuses may risk employee trust and morale, Bissot said
+"Which athlete would train harder?" she asked. "One who tries out for the Olympics and is judged on their own performance? Or one that qualifies to go into a raffle with others in their similar skill set and possibly gets a chance? Employees want to know if they work hard, they will be recognized."
+United's move, she said, may also leave workers questioning and even distrusting their leaders. "This approach would make most question: Are we in good hands? Do they know what they are doing? Are they really this removed from reality? Do they understand us? Do they care about us?"
+Bissot acknowledged that United may have simply been trying to "think outside the box" to compete for talent.
+"Creativity in employee engagement and development strategies is a significant challenge for employers today in order to attract and retain employees," she said. "Employers are now faced with differentiating themselves in their approach. We've seen the rise of free food in the office, flexible work schedules, sabbaticals and more. Unfortunately for United, not all ideas are good ones, and the adverse effects should be considered."
+Was this article useful? SHRM offers thousands of tools, templates and other exclusive member benefits, including compliance updates, sample policies, HR expert advice, education discounts, a growing online member community and much more.
+Join/Renew Now
+and let SHRM help you work smarter.
 HR Function Strategy
 Labor & Employee Relations
 Total Rewards
-Artificial Intelligence in the Workplace
-​An organization run by AI is not a futuristic concept. Such technology is already a part of many workplaces and will continue to shape the labor market and HR. Here's how employers and employees can successfully manage generative AI and other AI-powered systems.
+Was this resource helpful?
+Leave Feedback
+Validate your HR expertise
+Earning your SHRM-CP credential makes you a recognized expert and leader in the HR field.
+Get Certified
 Related Content
 (opens in a new tab)
 News
@@ -282,24 +322,20 @@ About SHRM
 Careers at SHRM
 Press Room
 Contact SHRM
-Book a SHRM Executive Speaker
-Advertise with Us
-Post a Job
+Post an HR Job
 Advocacy
 SHRM Advocacy
-Workforce Development
-Workplace Inclusion
-Workplace Flexibility & Leave
-Workplace Governance
-Workplace Health Care
-Workplace Immigration
+Federal Policies
 State Affairs
 Global Policy
-Advocacy Team
 Take Action
 SHRM E2 Initiative
-Generation Cares
-The Section 127 Coalition
+Brand Partnership
+Partnership Opportunities
+Advertise with Us
+Exhibit & Sponsorship
+Recertification Providers
+Book a Speaker
 Member Resources
 Ask an HR Advisor
 SHRM Newsletters
@@ -307,43 +343,65 @@ SHRM Flagships
 Topics & Tools
 Find an HR Job
 Vendor Directory
-© 2025 SHRM. All Rights Reserved
+© 2026 SHRM. All Rights Reserved
 SHRM provides content as a service to its readers and members. It does not offer legal advice, and cannot guarantee the accuracy or suitability of its content for a particular purpose.
 Disclaimer
 Follow Us
 Feedback
-Privacy Policy
+Your Privacy Choices
 Terms of Use
 Accessibility
-Join SHRM for Exclusive Access to Member Content
-SHRM Members enjoy unlimited access to articles and exclusive member resources.
-Join / Renew Today
+Privacy Policy
+Join SHRM for Exclusive Access to Professional Content
+SHRM Members enjoy unlimited access to articles and exclusive professional content resources.
+Join Today
+Return to Homepage
 Already a member?
 Login
 Free Article
+Login to unlock unlimited access or join SHRM today to get unlimited access to articles and member-exclusive resources.
+Join Today
+Already a member?
+Login
 Limit Reached
-Get unlimited access to articles and member-exclusive resources.
 You've reached the limit of 1 free article this month. Join to access unlimited articles and member-only resources.
-Join/Renew
+Join Today
+Return to Homepage
 Already a member?
 Login
 Free Article
-Exclusive Executive-Level Content
-This content is for the SHRM Executive Network and Executive Content Subscription members only.
+Login to unlock unlimited access or join SHRM today to get unlimited access articles and member-exclusive resources.
+Join Today
+Already a member?
+Login
+Limit Reached
 You've reached the limit of 1 free article this month. Join the Executive Network and enjoy unlimited content.
-Learn about Executive Network Membership
-Already a member?
-Login
-Free Article
-Exclusive Executive-Level Content
-This content is for the SHRM Executive Network and Executive Content Subscription members only.
-You've reached the limit of 1 free article this month. Join and enjoy unlimited access to SHRM Executive Network Content.
-Learn about Executive Network Membership
+Join Today
+Return to Homepage
 Already a member?
 Login
 Unlock Your Career with SHRM Membership
 Please enjoy this free resource! Join SHRM for unlimited access to exclusive articles and tools.
 Join / Renew
+Return to Homepage
+Already a member?
+Login
+Join SHRM for Exclusive Access to Professional Premium Content
+SHRM Members enjoy unlimited access to articles and exclusive professional premium resources.
+Join Today
+Return to Homepage
+Already a member?
+Login
+Join SHRM for Exclusive Access to Student Content
+SHRM Members enjoy unlimited access to articles and exclusive member resources.
+Join Today
+Return to Homepage
+Already a member?
+Login
+Join SHRM for Exclusive Access to Executive Network Content
+SHRM member enjoys unlimited access to articles and exclusive executive member resources.
+Join Today
+Return to Homepage
 Already a member?
 Login
 Your membership is almost expired! Renew today for unlimited access to member content.

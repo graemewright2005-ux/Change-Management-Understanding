@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -83,6 +82,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 When Brian Jensen told his
@@ -104,7 +104,6 @@ Peter Cappelli
 is the George W. Taylor Professor of Management at the Wharton School and the director of its Center for Human Resources. He is the coauthor of
 In Praise of the Office: The Limits to Hybrid and Remote Work
 (Wharton School Press, 2025).
-AT
 Anna Tavis
 is a clinical associate professor of human capital management at New York University and the Perspectives editor at
 People + Strategy,
@@ -113,6 +112,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -167,7 +167,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -212,7 +211,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -235,5 +233,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.

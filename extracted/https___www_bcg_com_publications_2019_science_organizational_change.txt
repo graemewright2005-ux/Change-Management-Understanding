@@ -55,11 +55,10 @@ BCG helps global and regional financial institutions build for the future using 
 Visit Page
 Within Financial Institutions
 Asset Management
+Banking
 Fintech
 Payments and Transaction Banking
-Retail Banking
 Wealth Management
-Wholesale Banking
 Health Care Industry
 Health Care Industry
 Health Care Industry
@@ -246,7 +245,7 @@ Augmented and Virtual Reality
 Blockchain
 Build-Operate-Transfer
 Cloud Computing
-Cybersecurity and Digital Risk Strategy
+Cybersecurity and Digital Risk
 Data and Analytics
 Data and Digital Platform
 Deep Tech
@@ -320,7 +319,7 @@ Operations
 We help clients unlock value from every aspect of their operations, maximizing efficiency and effectiveness in procurement, service operations, supply chains, and beyond.
 Visit Page
 Within Operations
-Capital Project Management Strategy
+Capital Projects Excellence
 Digital Support Functions and Shared Services
 Operational Excellence
 Procurement
@@ -452,9 +451,7 @@ Careers
 Offices
 Offices
 Offices
-Offices
-Offices
-Find BCG offices around the world.
+With offices in more than 100 cities in over 50 countries, we have a truly global perspective.
 Visit Page
 Corporate Newsroom
 Corporate Newsroom
@@ -694,7 +691,7 @@ Authors
 Lars Fæste
 Alumnus
 Martin Reeves
-Managing Director & Senior Partner, Chairman of the BCG Henderson Institute
+Senior Advisor, Former Chairman of the BCG Henderson Institute
 San Francisco - Bay Area
 Kevin Whitaker
 Alumnus
@@ -738,7 +735,7 @@ Learn More
 ABOUT BOSTON CONSULTING GROUP
 Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.
 Our diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.
-© Boston Consulting Group 2025. All rights reserved.
+© Boston Consulting Group 2026. All rights reserved.
 For information or permission to reprint, please contact BCG at
 permissions@bcg.com
 . To find the latest BCG content and register to receive e-alerts on this topic or others, please visit
@@ -771,7 +768,7 @@ here
 to access required Machine Readable Files or
 here
 to access the Federal No Surprises Bill Act Disclosure.
-© 2025 Boston Consulting Group
+© 2026 Boston Consulting Group
 Hide
 Save It For Later
 Saved To

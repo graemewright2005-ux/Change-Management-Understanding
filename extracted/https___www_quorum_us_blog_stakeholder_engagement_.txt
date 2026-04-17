@@ -2,7 +2,7 @@ URL: https://www.quorum.us/blog/stakeholder-engagement/
 
 Stakeholder Engagement: Definition | Quorum
 Skip to main content
-Turn political giving into strategic insight with Campaign Finance data.
+Stop Losing the Details Between Meetings: Meet AI Interaction Logging
 Learn More
 Menu
 Why Quorum?
@@ -26,7 +26,7 @@ Customer Reviews
 Press
 Solutions
 AI for Public Affairs
-Analyze complex legislation, surface real-time policy insights, and draft personalized outreach with Copilot, Quorum’s AI-powered assistant.
+Analyze complex legislation, surface real-time policy insights, and draft personalized outreach with Quincy, Quorum’s AI-powered assistant.
 Legislative and Regulatory Tracking
 Stay ahead of emerging policy developments with access to legislation and dialogue across Congress, all 50 states, and the EU.
 Grassroots Advocacy
@@ -37,6 +37,8 @@ PAC Management
 Stay compliant, raise money, and report results with modern, easy-to-use tools.
 Social Media Tracking
 Be the first to know about key dialogue, from social media to committee hearings to newsletters and beyond.
+Policy Influencer Advertising
+Reach decision-makers and amplify constituent voices with precision advertising and verified, first-party influencer data.
 Government Contact Data
 The most accurate contact data for government elected officials, their staff, and influencers in the industry – powered by KnowWho.
 Public Sector
@@ -50,28 +52,31 @@ Track and triage legislation, align caucuses, and act faster with real-time inte
 Agencies and Law Firms
 Customizable AI workspace streamlines management across all your client portfolios.
 Products
+Quincy, AI Assistant
+Get instant policy intelligence in one AI connected workspace.
 Federal
-Track federal policy trends and stakeholders with AI-powered insights.
+AI intelligence to outpace the Hill.
 State
-Stay ahead of state bills and regulations with AI Bill Tracking.
+Bringing AI to your state government affairs team.
 Grassroots
-Turn advocate data into smarter, targeted advocacy with AI.
+Igniting policy change with AI advocacy.
 PAC
-Optimize PAC strategy with AI insights on donors and fundraising.
-Local
-Spot policy trends in city and county agendas with AI analysis.
-School Board
-Track education policy shifts from district agendas nationwide.
+Raise more PAC funds with AI precision.
+Local & School Board
+Navigate and influence policy across local governments and school boards nationwide.
 Stakeholder
-Manage and personalize stakeholder engagement with intelligent insights.
+Manage stakeholder engagement with AI insights.
 Professional Services
-Focus on strategy while our team of experts handle day-to-day tasks.
+Strategic execution backed by Quorum experts.
+Policy Influencer Advertising
 EU and International
 KnowWho
+Enterprise Data
 Mobile App
 Add-on
 Impact Reports
 Campaign Finance
+Grassroots Video Advertising
 Collaborator
 News Monitoring
 API & Data Integration
@@ -86,6 +91,8 @@ Data-Driven Insights
 In-depth analysis and trends shaping policy and advocacy.
 Reports
 Comprehensive research on key legislative and advocacy trends.
+Podcast
+Policy Wins is a practical podcast from Quorum about how modern public affairs teams operate
 Wonk Week 2025
 Check out the recordings to a dozen Wonk Week sessions with public affairs pros.
 Webinars
@@ -207,13 +214,13 @@ Our Social Networking Accounts
 Facebook
 LinkedIn
 Twitter
-Donor Look Up Tool
 Solutions
 Bill & Legislative Tracking Software
 Regulatory Tracking Software
 Grassroots Advocacy Software Solutions
 Stakeholder Management & Engagement Software
 PAC Management Software
+Policy Influencer Advertising
 Professional & Managed Services
 Visual Reporting Software
 Government Software Solutions
@@ -223,10 +230,10 @@ Federal
 State
 Grassroots
 PAC
-Copilot
 Local
 School Board
 Stakeholder
+Policy Influencer Advertising
 EU and International
 Professional Services
 KnowWho
@@ -239,6 +246,7 @@ Campaign Finance
 API & Data Integration
 Pricing
 Top Content
+The Premier Alternative to FiscalNote
 Government Relations Strategic Plan Template
 Advocacy Strategy Plan Template
 Public Affairs Strategy Template
@@ -247,7 +255,6 @@ Three Examples of Effective Government Relations Strategy
 Three Examples of Successful Public Affairs Strategy
 Seven Examples of Effective Grassroots Advocacy Campaigns
 Five Examples of Stakeholder Engagement Strategy
-10 Innovations For Your Public Affairs Strategy
 About
 Company
 Careers
@@ -255,7 +262,5 @@ Press
 Security
 Status
 Sign up to receive best practices and product announcements.
-© 2025 Quorum Analytics LLC. All Rights Reserved. Quorum Analytics is not affiliated with, licensed, endorsed, or sponsored by Leidos Innovations Technology or its affiliates.
+© 2026 Quorum Analytics LLC. All Rights Reserved. Quorum Analytics is not affiliated with, licensed, endorsed, or sponsored by Leidos Innovations Technology or its affiliates.
 Privacy Policy
-Search for:
-Search Button

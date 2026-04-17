@@ -5,6 +5,10 @@ CMI Single Sign On
 {{model.currentUser}}
 Logout
 Login With Different Account
+New to CMI?
+This is a legacy login form and new CMI logins will not work here. Please access the
+new login form
+via the CMI website.
 Error:
 {{model.errorMessage}}
 Username (email)

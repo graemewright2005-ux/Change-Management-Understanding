@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -81,6 +80,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Summary
@@ -91,6 +91,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Data science is
@@ -98,17 +99,13 @@ becoming
 a
 reality
 for change management, and although it may not have arrived yet, it is time for organizations to get ready. The companies best positioned to change in the next decade will be the ones that set themselves up well now, by collecting the right kind of data and investing in their analytics capacity.
-MT
 Michael L. Tushman
 is a senior fellow and a professor, emeritus, at Harvard Business School.
 @MichaelTushman
-AK
 Anna Kahn
 is a Partner in EY’s People Advisory Services.
-MP
 Mary Elizabeth Porray
 is a Partner/Principal at Ernst & Young LLP EY’s People Advisory Services.
-AB
 Andy Binns
 (
 andrew.binns@change-logic.com
@@ -117,6 +114,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -167,7 +165,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -212,7 +209,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -235,5 +231,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.

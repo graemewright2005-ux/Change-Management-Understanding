@@ -46,9 +46,10 @@ Hi,
 Guest
 Search Menu
 Close menu
-CLEAR
 Search
-SUGGESTED TOPICS
+Please enter a search term
+Submit
+Suggested Topics
 Explore HBR
 Latest
 The Magazine
@@ -156,7 +157,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -165,9 +165,13 @@ X Corp.
 LinkedIn
 Instagram
 Your Newsreader
-Copyright Policy
-Privacy Information
-Returns Policy
+About Us
+Careers
+Privacy Policy
+Cookie Policy
+Copyright Information
+Trademark Policy
+Terms of Use
 Harvard Business Publishing:
 Higher Education
 Corporate Learning
@@ -175,9 +179,13 @@ Harvard Business Review
 Harvard Business School
 Copyright ©
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
-Copyright Policy
-Privacy Information
-Returns Policy
+About Us
+Careers
+Privacy Policy
+Cookie Policy
+Copyright Information
+Trademark Policy
+Terms of Use
 Harvard Business Publishing:
 Higher Education
 Corporate Learning

@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -75,6 +74,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Summary
@@ -85,6 +85,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Aspiring leaders need more and better mentoring than they’re getting today.
@@ -96,6 +97,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -152,7 +154,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -197,7 +198,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -220,5 +220,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.

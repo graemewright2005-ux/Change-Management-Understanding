@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -74,6 +73,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Leer en español
@@ -82,6 +82,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Suppose you’re meeting with a group of managers and staff members to determine who your key stakeholders are. (It’s an important task, because with limited resources, your organization or unit can’t do everything for everyone.) People will submit their ideas, and in no time at all you’ll have a large list — and potentially a nightmare. If you don’t focus on the relationships that matter most, management and staff will be running in all directions, not meeting anyone’s needs very well.
@@ -95,6 +96,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -147,7 +149,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -192,7 +193,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -215,5 +215,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.

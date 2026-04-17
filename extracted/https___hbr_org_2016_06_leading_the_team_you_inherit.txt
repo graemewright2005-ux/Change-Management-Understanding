@@ -19,7 +19,6 @@ Data & Visuals
 Case Selections
 HBR Executive
 Search hbr.org
-CLEAR
 Subscribe
 Latest
 Podcasts
@@ -81,6 +80,7 @@ Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 David Benet had problems to
@@ -102,12 +102,13 @@ IMD
 , a cofounder of
 Genesis Advisers
 , and the author of
-The Six Disciplines of Strategic Thinking: Leading Your Organization
-(Harper Business, 2024).
+The First 90 Days
+(Harvard Business Press 2013).
 Post
 Post
 Share
 Save
+Get PDF
 Buy Copies
 Print
 Read more on
@@ -160,7 +161,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Explore HBR
@@ -205,7 +205,6 @@ Topic Feeds
 Orders
 Account Settings
 Email Preferences
-Account FAQ
 Help Center
 Contact Customer Service
 Follow HBR
@@ -228,5 +227,5 @@ Corporate Learning
 Harvard Business Review
 Harvard Business School
 Copyright ©
-2025
+2026
 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
