@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMI Level 5 – Change Management Understanding</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #1f2937;
+            background: #f9fafb;
+            padding: 2rem 1rem;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background: #111827;
+                color: #e5e7eb;
+            }
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 3rem;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 1.5rem;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            header {
+                border-bottom-color: #374151;
+            }
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-size: 1rem;
+            color: #6b7280;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .subtitle {
+                color: #9ca3af;
+            }
+        }
+
+        .assignments-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .assignment-card {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: box-shadow 0.2s, border-color 0.2s;
+        }
+
+        .assignment-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border-color: #d1d5db;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .assignment-card {
+                background: #1f2937;
+                border-color: #374151;
+            }
+
+            .assignment-card:hover {
+                border-color: #4b5563;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            }
+        }
+
+        .card-header {
+            background: #f3f4f6;
+            padding: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .card-header:hover {
+            background: #eff0f3;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .card-header {
+                background: #111827;
+                border-bottom-color: #374151;
+            }
+
+            .card-header:hover {
+                background: #1a202c;
+            }
+        }
+
+        .card-header h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin: 0;
+        }
+
+        .toggle-icon {
+            display: inline-block;
+            transition: transform 0.2s;
+            font-size: 1.2rem;
+            line-height: 1;
+        }
+
+        .assignment-card.expanded .toggle-icon {
+            transform: rotate(180deg);
+        }
+
+        .card-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .assignment-card.expanded .card-content {
+            max-height: 2000px;
+        }
+
+        .section {
+            padding: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .section {
+                border-bottom-color: #374151;
+            }
+        }
+
+        .section:last-child {
+            border-bottom: none;
+        }
+
+        .section-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.75rem;
+            display: block;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .section-title {
+                color: #9ca3af;
+            }
+        }
+
+        .file-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .file-item {
+            margin-bottom: 0.5rem;
+        }
+
+        .file-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #0891b2;
+            text-decoration: none;
+            font-size: 0.95rem;
+            word-break: break-word;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .file-link {
+                color: #06b6d4;
+            }
+        }
+
+        .file-link:hover {
+            text-decoration: underline;
+        }
+
+        .icon {
+            font-size: 1rem;
+            flex-shrink: 0;
+        }
+
+        .empty-section {
+            font-size: 0.9rem;
+            color: #9ca3af;
+            font-style: italic;
+        }
+
+        .root-materials {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e5e7eb;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .root-materials {
+                border-top-color: #374151;
+            }
+        }
+
+        .root-materials h3 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        .materials-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        .material-item {
+            padding: 1rem;
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            transition: box-shadow 0.2s;
+        }
+
+        .material-item:hover {
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .material-item {
+                background: #1f2937;
+                border-color: #374151;
+            }
+
+            .material-item:hover {
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+            }
+        }
+
+        .material-item a {
+            color: #0891b2;
+            text-decoration: none;
+            font-weight: 500;
+            word-break: break-word;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .material-item a {
+                color: #06b6d4;
+            }
+        }
+
+        .material-item a:hover {
+            text-decoration: underline;
+        }
+
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        @media (max-width: 640px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .assignments-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .materials-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 class="sr-only">CMI Level 5 Change Management Understanding Material Index</h1>
+
+    <div class="container">
+        <header>
+            <h1>CMI Level 5 – Change Management Understanding</h1>
+            <p class="subtitle">Complete material index for assignments, lesson materials, and references</p>
+        </header>
+
+        <main>
+            <h2 class="sr-only">Assignment folders</h2>
+            <div class="assignments-grid" id="assignmentsGrid"></div>
+
+            <section class="root-materials">
+                <h2>Core Reference Materials</h2>
+                <div class="materials-list" id="rootMaterials"></div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const repoUser = 'graemewright2005-ux';
+        const repoName = 'Change-Management-Understanding';
+        const branch = 'main';
+        const basePath = `https://raw.githubusercontent.com/${repoUser}/${repoName}/${branch}/interrogation-materials`;
+
+        const assignments = [
+            {
+                number: 2,
+                code: 550,
+                folders: ['Assignment', 'Lesson Material/Unit 509', 'Notes']
+            },
+            {
+                number: 3,
+                code: 549,
+                folders: ['Assignment', 'Lesson Material', 'References']
+            },
+            {
+                number: 4,
+                code: 552,
+                folders: ['Assignment', 'Lesson Material', 'References']
+            },
+            {
+                number: 5,
+                code: 551,
+                folders: ['Assignment', 'Lesson Material', 'References']
+            },
+            {
+                number: 6,
+                code: 553,
+                folders: ['Assignment', 'Lesson Material', 'References']
+            }
+        ];
+
+        const rootMaterials = [
+            'Assessment-Activity-Definition',
+            'Assignment-Briefing-Paper.pdf',
+            'CMI MOTIVATING AND DEVELOPING PEOPLE TO ACHIEVE ORGANISATIONAL OBJECTIVES.pdf',
+            'L5-Intro-Assignment-Guide.pdf',
+            'Level-5-Dip-ODM-Factsheet-Google-Docs.pdf',
+            'Level-5-Dip-ODM_Syllabus_Mar-24.docx',
+            'Managing Stakeholder Relationships-Google-Docs.pdf',
+            'Mark_Assessment_Sheet_HTQ.docx',
+            'Plagiarism-Collusion-and-AI-Misuse-Policy.pdf',
+            'cmi-command-verbs-definitions-list.pdf',
+            'references.txt',
+            'urls-to-fetch.txt'
+        ];
+
+        function createAssignmentCard(assignment) {
+            const card = document.createElement('div');
+            card.className = 'assignment-card';
+            card.setAttribute('aria-expanded', 'false');
+
+            const header = document.createElement('div');
+            header.className = 'card-header';
+            header.setAttribute('role', 'button');
+            header.setAttribute('tabindex', '0');
+            header.setAttribute('aria-label', `Assignment ${assignment.number} - ${assignment.code}, expand to see materials`);
+
+            const title = document.createElement('h2');
+            title.textContent = `Assignment ${assignment.number} – ${assignment.code}`;
+
+            const icon = document.createElement('span');
+            icon.className = 'toggle-icon';
+            icon.setAttribute('aria-hidden', 'true');
+            icon.textContent = '▼';
+
+            title.appendChild(icon);
+            header.appendChild(title);
+
+            const content = document.createElement('div');
+            content.className = 'card-content';
+
+            assignment.folders.forEach(folderName => {
+                const section = document.createElement('div');
+                section.className = 'section';
+
+                const sectionTitle = document.createElement('span');
+                sectionTitle.className = 'section-title';
+                sectionTitle.textContent = folderName;
+                section.appendChild(sectionTitle);
+
+                const fileList = document.createElement('ul');
+                fileList.className = 'file-list';
+                fileList.setAttribute('aria-label', `Files in ${folderName}`);
+
+                const fileUrl = `${basePath}/Assignment ${assignment.number} - ${assignment.code}/${folderName}`;
+                const fileItem = document.createElement('li');
+                fileItem.className = 'file-item';
+
+                const link = document.createElement('a');
+                link.href = fileUrl;
+                link.className = 'file-link';
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+
+                const iconSpan = document.createElement('span');
+                iconSpan.className = 'icon';
+                iconSpan.setAttribute('aria-hidden', 'true');
+                iconSpan.textContent = '📂';
+
+                link.appendChild(iconSpan);
+                link.appendChild(document.createTextNode(folderName));
+
+                fileItem.appendChild(link);
+                fileList.appendChild(fileItem);
+
+                section.appendChild(fileList);
+                content.appendChild(section);
+            });
+
+            const toggleHandler = () => {
+                card.classList.toggle('expanded');
+                const isExpanded = card.classList.contains('expanded');
+                card.setAttribute('aria-expanded', isExpanded);
+                header.setAttribute('aria-label', 
+                    `Assignment ${assignment.number} - ${assignment.code}, ${isExpanded ? 'collapse' : 'expand'} to see materials`
+                );
+            };
+
+            header.addEventListener('click', toggleHandler);
+            header.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    toggleHandler();
+                }
+            });
+
+            card.appendChild(header);
+            card.appendChild(content);
+
+            return card;
+        }
+
+        function createRootMaterial(fileName) {
+            const item = document.createElement('div');
+            item.className = 'material-item';
+
+            const link = document.createElement('a');
+            link.href = `https://raw.githubusercontent.com/${repoUser}/${repoName}/${branch}/interrogation-materials/${fileName}`;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            link.textContent = fileName;
+
+            item.appendChild(link);
+            return item;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const grid = document.getElementById('assignmentsGrid');
+            assignments.forEach(assignment => {
+                grid.appendChild(createAssignmentCard(assignment));
+            });
+
+            const rootGrid = document.getElementById('rootMaterials');
+            rootMaterials.forEach(material => {
+                rootGrid.appendChild(createRootMaterial(material));
+            });
+        });
+    </script>
+</body>
+</html>
