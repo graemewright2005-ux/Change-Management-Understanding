@@ -415,12 +415,12 @@
                 fileList.className = 'file-list';
                 fileList.setAttribute('aria-label', `Files in ${folderName}`);
 
-                const fileUrl = `${basePath}/Assignment ${assignment.number} - ${assignment.code}/${folderName}`;
+                const githubWebUrl = `https://github.com/${repoUser}/${repoName}/tree/${branch}/interrogation-materials/Assignment ${assignment.number} - ${assignment.code}/${folderName}`;
                 const fileItem = document.createElement('li');
                 fileItem.className = 'file-item';
 
                 const link = document.createElement('a');
-                link.href = fileUrl;
+                link.href = githubWebUrl;
                 link.className = 'file-link';
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
