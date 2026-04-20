@@ -102,7 +102,7 @@ this page is not useful
 Thank you for your feedback
 Report a problem with this page
 Help us improve GOV.UK
-Don’t include personal or financial information like your National Insurance number or credit card details.
+Do not include personal or financial information like your National Insurance number or credit card details.
 This field is for robots only. Please leave blank
 What were you doing?
 What went wrong?
