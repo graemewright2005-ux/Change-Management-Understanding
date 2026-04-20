@@ -1,0 +1,1593 @@
+ Level  5  Operational  Management  |  v02 
+
+ CONTENTS 
+ QUALIFICATION  OBJECTIVE  2 
+ QUALIFICATION  TITLE  2 
+ KEY  DATES  3 
+ PROGRESSION  OPPORTUNITIES  3 
+ ENTRY  REQUIREMENTS  3 
+ HIGHER  TECHNICAL  QUALIFICATIONS  4 
+ DEFINITIONS  4 
+ QUALIFICATION  STRUCTURES  -  OPERATIONAL  MANAGEMENT  5 
+ RULES  OF  COMBINATION  5 
+ QUALIFICATION  DELIVERY  6 
+ ACCESSIBILITY  OF  CMI  QUALIFICATIONS  6 
+ RECOGNITION  OF  PRIOR  LEARNING  6 
+ ASSESSMENT  &  QUALITY  ASSURANCE  7 
+ LEARNER  AUTHENTICITY  7 
+ ASSESSMENT  GRADING  8 
+ ASSESSMENT  METHODOLOGIES  9 
+ WORD  COUNT  AND  APPENDICES  12 
+ EXTERNAL  MARKING  12 
+ APPEALS  AGAINST  ASSESSMENT  DECISIONS  13 
+ CMI  SERVICES  -  SUPPORTING  CMI  QUALIFICATIONS  14 
+ CMI  MEMBERSHIP  14 
+ CHARTERED  MANAGER  14 
+ STUDY  RESOURCES  14 
+ UNIT  SUMMARIES  16 
+ UNIT  549  -  DEVELOPING,  MANAGING  AND  LEADING  TEAMS  18 
+ UNIT  549  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  19 
+ UNIT  550  -  STAKEHOLDER  RELATIONSHIPS  21 
+ UNIT  550  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  22 
+ UNIT  551  -  MANAGING  A  PROJECT  24 
+ UNIT  551  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  25 
+ UNIT  552  -  MANAGING  CHANGE  28 
+ UNIT  552  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  29 
+ UNIT  553  -  OPERATIONAL  PLANNING  31 
+ UNIT  553  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  32 
+ UNIT  554  -  PERSONAL  AND  PROFESSIONAL  DEVELOPMENT  34 
+ UNIT  554  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA  35 
+ ANNEX  1  -  COMMAND  VERB  DEFINITIONS  37 
+ ANNEX  2  -  ASSESSMENT  ACTIVITY  DEFINITIONS  41 
+ ANNEX  3  -  ALIGNMENT  TO  OCCUPATIONAL  STANDARD  42 
+ ANNEX  4  -  REVISIONS  TO  DOCUMENT  46 
+ Level  5  Operational  Management  |  v02  1 
+ QUALIFICATION  OBJECTIVE 
+ This  qualification  is  designed  to  support  individuals  in  the  development  of  management  and  leadership 
+ skills  required  by  operational  or  departmental  managers. 
+ This  qualification  is  aimed  at  practising  or  aspiring  managers  and  leaders  who  are  typically 
+ accountable  to  a  senior  manager  or  business  owner.  The  primary  role  of  a  practising  or  aspiring 
+ manager  and  leader  is  to  lead  and  manage  individuals  and  teams  to  deliver  aims  and  objectives  in  line 
+ with  organisational  strategy. 
+ The  qualifications  have  been  designed  for  practising  or  aspiring  managers  in  roles  such  as: 
+ ●  Operations  Manager 
+ ●  Divisional  Manager 
+ ●  Departmental  Manager 
+ ●  Regional  Manager 
+ ●  Specialist  Manager 
+ Extensive  research  has  been  undertaken  to  ensure  that  these  qualifications  reflect  tasks  and  activities 
+ of  managers  in  the  workplace.  Sources  of  information  include,  but  are  not  limited  to: 
+ ●  Comparability  to  national  management  qualifications 
+ ●  CMI  Professional  Standards 
+ ●  Management  Transformed  paper 
+ ●  Everyone  Economy  paper 
+ ●  Work  Ready  Graduate  paper 
+ ●  A  review  of  the  roles  and  responsibilities  of  managers  sourced  from  a  range  of  UK  companies 
+ ●  Analysis  of  Apprenticeship  Standard  for  Operations/Departmental  Manager  ST0385/01 
+ ●  Stakeholder  consultation 
+ QUALIFICATION  TITLE 
+ The  title  given  below  is  the  title  as  it  will  appear  on  the  qualification  when  awarded  to  the  Learner.  The 
+ qualification  reference  number  is  the  number  allocated  to  the  qualification  by  the  Regulator  at  the  time 
+ of  submission,  which  confirms  that  this  is  a  regulated  qualification  on  the  RQF  and  on  the  Register. 
+ The  CMI  code  is  the  code  which  should  be  used  when  registering  Learners  with  CMI. 
+ CMI 
+ Code  Qualification  Title  Qualification 
+ Reference  Number 
+ 5D43  Level  5  Diploma  in  Operational  Management  610/1289/0 
+ Level  5  Operational  Management  |  v02  2 
+ KEY  DATES 
+ These  qualifications  are  regulated  from  1st  September  2022  and  the  operational  start  date  in  CMI 
+ Centres  is  1st  September  2024.  The  qualification  will  be  reviewed  from  time  to  time,  in  line  with  the 
+ CMIs  review  process. 
+ PROGRESSION  OPPORTUNITIES 
+ Upon  successful  completion  of  their  qualification,  learners  are  able  to  progress  into  employment 
+ and/or  onto  Higher  Education  (HE). 
+ Learners  may  also  wish  to  further  their  ongoing  personal  and  professional  development  by  accessing 
+ other  CMI  qualifications,  such  as  the  CMI  Level  6  or  7  Qualifications  in  Management  and  Leadership 
+ with  the  goal  of  becoming  a  Chartered  Manager. 
+ Possible  job  roles  for  learners  to  progress  into  upon  successful  completion  of  their  qualification: 
+ ●  Senior  Leader 
+ ●  Senior  Team  Leader 
+ ●  Project  Manager 
+ ●  Shift  Manager 
+ ENTRY  REQUIREMENTS 
+ These  qualifications  can  be  offered  to  Learners  from  age  18.  CMI  does  not  specify  entry  requirements 
+ for  these  qualifications,  but  Centres  are  required  to  ensure  that  Learners  admitted  to  the  programme 
+ have  sufficient  capability  at  the  right  level  to  undertake  the  learning  and  assessment. 
+ CMI  Centre  must  ensure  Learners  are  recruited  with  integrity  onto  appropriate  qualifications  that  will: 
+ ●  meet  their  needs, 
+ ●  enable  and  facilitate  learning  and  achievement, 
+ ●  enable  progression. 
+ In  order  to  achieve  this,  the  CMI  Centre  will  need  to: 
+ ●  Provide  relevant  programme  information,  guidance  and  advice,  to  enable  informed  Learner 
+ choice, 
+ ●  Publish  entry  and  selection  criteria, 
+ ●  Demonstrate  that  Learners  are  recruited  with  integrity, 
+ ●  Carry  out  comprehensive  Learner  induction  that: 
+ ●  addresses  programme  and  organisational  requirements 
+ ●  explains  Learner  facilities 
+ ●  identifies  Learners’  development  needs 
+ ●  develops  an  Individual  Learning  Plan. 
+ The  qualification  is  offered  in  the  medium  of  the  English  Language. 
+ Level  5  Operational  Management  |  v02  3 
+ HIGHER  TECHNICAL  QUALIFICATIONS 
+ Higher  Technical  Qualifications  (HTQs)  are  level  4  or  5  qualifications  that  have  been  quality  marked 
+ by  IfATE  to  indicate  their  alignment  to  employer-led  occupational  standards.  New  or  existing  level  4  or 
+ 5  qualifications  submitted  to  IfATE’s  approvals  process  will  receive  a  quality-mark  if  the  qualification 
+ satisfies  IfATE's  approvals  criteria.  HTQs  align  to  approved  occupational  standards  and  allow  learners 
+ to  enter  their  chosen  profession  or  progress  onto  higher  education. 
+ For  further  information  please  visit  the  IfATE  website: 
+ https://www.instituteforapprenticeships.org/qualifications/higher-technical-qualifications/introduction-to 
+ -higher-technical-qualifications-and-scope-of-approval/  . 
+ DEFINITIONS 
+ Total  Qualification  Time  (TQT)  is  defined  as  the  number  of  notional  hours  which  represents  an 
+ estimate  of  the  total  amount  of  time  that  could  reasonably  be  expected  to  be  required,  in  order  for  a 
+ Learner  to  achieve  and  demonstrate  the  achievement  of  the  level  of  attainment  necessary  for  the 
+ award  of  a  qualification.  Total  Qualification  Time  is  comprised  of  the  following  two  elements  – 
+ a)  the  number  of  hours  which  an  awarding  organisation  has  assigned  to  a  qualification  for 
+ Guided  Learning,  and 
+ b)  an  estimate  of  the  number  of  hours  a  Learner  will  reasonably  be  likely  to  spend  in 
+ preparation,  study  or  any  other  form  of  participation  in  education  or  training,  including 
+ assessment,  which  takes  place  as  directed  by  –  but  not  under  the  immediate  supervision  of  – 
+ a  lecturer,  supervisor,  tutor  or  other  appropriate  provider  of  education  or  training. 
+ Total  Unit  Time  (TUT)  is  defined  as  the  number  of  notional  hours  which  represents  an  estimate  of  the 
+ total  amount  of  time  that  could  reasonably  be  expected  to  be  required,  in  order  for  a  Learner  to 
+ achieve  and  demonstrate  the  achievement  of  the  level  of  attainment  necessary  for  the  award  of  a  unit. 
+ Guided  Learning  Hours  (GLH)  is  defined  as  the  activity  of  a  Learner  in  being  taught  or  instructed  by 
+ –  or  otherwise  participating  in  education  or  training  under  the  Immediate  Guidance  or  Supervision  of  – 
+ a  lecturer,  supervisor,  tutor  or  other  appropriate  provider  of  education  or  training. 
+ Immediate  Guidance  or  Supervision  is  defined  as  the  guidance  or  supervision  provided  to  a 
+ Learner  by  a  lecturer,  supervisor,  tutor  or  other  appropriate  provider  of  education  or  training  – 
+ a)  with  the  simultaneous  physical  present  of  the  Learner  and  that  person,  or 
+ b)  remotely  by  means  of  simultaneous  electronic  communication 
+ Credit  value  is  defined  as  being  the  number  of  credits  that  may  be  awarded  to  a  Learner  for  the 
+ successful  achievement  of  the  learning  outcomes  of  a  unit.  One  credit  is  equal  to  10  hours  of  TQT. 
+ Rule  of  Combination  is  defined  as  being  a  rule  specifying  the  combination  of  units  which  may  be 
+ taken  to  form  a  particular  qualification,  any  units  which  must  be  taken  and  any  related  requirements. 
+ Level  5  Operational  Management  |  v02  4 
+ QUALIFICATION  STRUCTURES  -  OPERATIONAL 
+ MANAGEMENT 
+ RULES  OF  COMBINATION 
+ There  are  minimum  requirements  to  achieve  this  qualification.  The  minimum  requirements  are  based 
+ on  the  boundaries  outlined  in  Ofqual’s  Guidance  to  the  General  Conditions  of  Recognition,  namely 
+ Condition  E2. 
+ CMI  LEVEL  5  DIPLOMA  IN  OPERATIONAL  MANAGEMENT 
+ Learners  must  complete  and  pass  all  six  (6)  mandatory  units  and  achieve  a  total  of  41  credits  .The 
+ minimum  GLH  is  126  hours.  The  Total  Qualification  Time  (TQT)  is  410  hours. 
+ Unit  Code  Unit  Title  GLH  Credits  TUT 
+ 549  Developing,  Managing  and  Leading  Teams  27  7  70 
+ 550  Stakeholder  Relationships  18  5  50 
+ 551  Managing  a  Project  24  8  80 
+ 552  Managing  Change  19  7  70 
+ 553  Operational  Planning  22  8  80 
+ 554  Personal  &  Professional  Development  16  6  60 
+ Level  5  Operational  Management  |  v02  5 
+ QUALIFICATION  DELIVERY 
+ CMI  does  not  specify  the  mode  of  delivery  for  its  qualifications  at  Level  5;  therefore  CMI  Centres  are 
+ free  to  deliver  the  Level  5  qualifications  using  any  mode  of  delivery  that  meets  the  needs  of  their 
+ Learners.  However,  CMI  Centres  should  consider  the  Learners’  complete  learning  experience  when 
+ designing  the  learning  programmes. 
+ CMI  Centres  must  ensure  that  the  chosen  mode  of  delivery  does  not  unlawfully  or  unfairly 
+ discriminate,  whether  directly  or  indirectly,  and  that  equality  of  opportunity  is  promoted.  Where  it  is 
+ reasonable  and  practical  to  do  so,  it  will  take  steps  to  address  identified  inequalities  or  barriers  that 
+ may  arise. 
+ Please  ensure  that  the  content  of  the  Centre  Delivery  plan  is  approved  by  the  CMI  Quality  Manager. 
+ For  CMI  requirements  regarding  Tutor/Deliverers  of  CMI  qualifications  please  refer  to  the  CMI  Quality 
+ Assurance  Manual  for  more  information. 
+ ACCESSIBILITY  OF  CMI  QUALIFICATIONS 
+ There  may  be  incidents  where  Learners  may  require  special  consideration  and  reasonable 
+ adjustments  to  the  delivery  and  assessment  of  qualifications.  In  the  event  of  this,  Centres  should 
+ apply  using  the  online  form  Qualification  Adjustment  Request  in  MyCMI. 
+ Further  information,  please  see  the  CMI  Reasonable  Adjustments  Procedure  and  the  CMI  Special 
+ Consideration  Procedure 
+ RECOGNITION  OF  PRIOR  LEARNING 
+ There  may  be  occasions  where  Learners  request  Recognition  of  Prior  Learning  (RPL).  This  can  be 
+ applied  by  Centres.  Further  guidance  on  RPL  and  exemptions  can  be  found  in  CMI  RPL  policy  . 
+ Level  5  Operational  Management  |  v02  6 
+ ASSESSMENT  &  QUALITY  ASSURANCE 
+ The  criteria  of  the  assessment  of  a  CMI  qualification  will  be  to  meet  the  assessment  criteria  detailed 
+ within  each  individual  unit. 
+ The  primary  interface  with  the  Learner  is  the  Assessor,  whose  job  it  is  to  make  an  assessment 
+ judgement  against  the  Assessment  Criteria  (AC).  The  Assessor  should  provide  an  audit  trail  showing 
+ how  the  judgement  of  the  Learner's  overall  achievement  has  been  arrived  at. 
+ CMI  mandates  the  use  of  its  own  Assessment  Briefs  and  associated  assessment  methods.  This 
+ ensures  that  all  criteria  are  addressed,  and  there  is  standardisation  and  comparability  across  learners 
+ and  assessment.  For  more  information  please  refer  to  page  9  of  this  document  -  Assessment 
+ Methodologies. 
+ In  addition  to  the  specific  assessment  criteria  in  each  unit,  the  Learner's  work  must  be: 
+ ●  accurate,  current  and  authentic, 
+ ●  relevant  in  depth  and  breadth. 
+ and  must  also  show  the  Learner's: 
+ ●  clear  grasp  of  concepts, 
+ ●  ability  to  link  theory  to  practice,  and, 
+ ●  ability  to  communicate  clearly  in  the  relevant  discipline  at  the  expected  level  for  the 
+ qualification. 
+ LEARNER  AUTHENTICITY 
+ Learners  are  required  to  sign  and  date  a  Statement  of  Authenticity.  The  Learner  statement  confirms 
+ the  evidence  submitted  is  all  their  own  work  and  has  not  been  completed  by  a  third  party. 
+ Additionally,  the  Learner  statement  confirms  the  evidence  provided  has  been  completed  in 
+ accordance  with  CMI  approved  instructions.  An  electronic  signature  that  is  scanned  is  acceptable  and 
+ also  where  there  is  a  fully  automated  system  for  uploading  evidence  then  a  ‘tick-box’  to  the  statement 
+ is  also  acceptable.  Where  CMI  evidence  booklets  are  used,  the  statement  of  authenticity  may  be 
+ integral  to  the  booklet  and  in  this  case,  a  separate  statement  is  not  required. 
+ Centres  are  required  to  complete  a  Centre  Statement  of  Authenticity  to  confirm  the  Learner  is 
+ registered  on  a  CMI  programme  of  study. 
+ Level  5  Operational  Management  |  v02  7 
+ ASSESSMENT  GRADING 
+ The  grading  system  for  CMI  qualifications  is  “Pass/Refer”.  The  external  moderation  of  Learners’  work 
+ confirms  that  the  required  criteria  for  achievement  have  been  met. 
+ CMI  Centres  are,  however,  free  to  apply  their  own  grade  scales,  but  it  must  be  understood  that  these 
+ are  completely  separate  from  the  CMI  qualification. 
+ It  is  important  to  ensure  consistency  of  assessment,  and  that  demands  made  on  Learners  are 
+ comparable  within  and  between  CMI  Centres.  A  number  of  assessment  methods  can  be  used. 
+ For  CMI  requirements  regarding  Assessors  and  Internal  Verifiers  of  CMI  qualifications  please  refer  to 
+ the  CMI  Quality  Assurance  Manual  for  more  information. 
+ Level  5  Operational  Management  |  v02  8 
+ ASSESSMENT  METHODOLOGIES 
+ In  order  to  ensure  valid  and  reliable  assessment,  the  following  assessment  methods  have  been 
+ selected  to  be  used  within  this  qualification.  See  the  Qualification  Syllabus  for  more  information  on 
+ specific  assessment  tasks. 
+ Unit  Assessment  Methods 
+ Unit  549  - 
+ Developing, 
+ Managing 
+ and  Leading 
+ teams  LO1:  Write  a  report  titled:  Approaches  to  developing,  managing  and  leading  different  teams 
+ The  report  should  be  in  4  parts: 
+ 1.  Evaluate  the  use  of  different  leadership  styles  for  developing,  managing  and  leading  teams 
+ 2.  Evaluate  different  Models  used  to  develop,  manage  and  lead  teams 
+ 3.  Analyse  strategies  for  managing  team  leaders 
+ 4.  Develop  approaches  to  address  the  challenges  of  managing  and  leading  multiple  and 
+ remote  teams 
+ LO2:  Write  a  briefing  paper  titled:  Methods  that  can  be  used  to  monitor,  manage  and  improve 
+ individual  and  team  performance 
+ The  briefing  paper  should  be  in  4  parts: 
+ 1.  An  outline  of  the  factors  that  impact  on  the  selection  of  learning  and  development  activities 
+ for  individuals 
+ 2.  Assessment  of  the  impact  of  the  factors  on  the  selection  of  learning  and  development 
+ activities  for  teams 
+ 3.  Examine  the  use  of  coaching  and  mentoring  models  to  support  team  development 
+ 4.  Analyse  motivational  techniques  that  can  be  used  to  create  high  performing  teams 
+ LO3:  Write  a  good  practice  guide  titled:  Approaches  to  achieving  a  balance  of  skills  and  experience 
+ in  a  team 
+ This  best  practice  guide  should  be  in  2  parts: 
+ 1.  Analyse  the  processes  used  to  recruit  team  members 
+ 2.  Discuss  methods  used  to  monitor  and  manage  individual  and  team  performance 
+ LO4:  Write  a  report  titled:  skills  and  approaches  in  managing  talent  and  performance 
+ Your  report  should  be  based  on  the  approaches  used  within  your  own  organisation  or  an 
+ organisation  that  you  have  researched. 
+ 1.  Discuss  practical  approaches  used  for  effective  team  management  and  leadership 
+ 2.  Outline  the  skills  and  techniques  required  to  meet  current  and  future  needs  and  evaluate 
+ techniques  for  assessing  these  within  a  team 
+ 3.  Evaluate  good  practice  used  to  enable  and  support  high  performing  teams 
+ Unit  550  - 
+ Stakeholder 
+ Relationships  LO1:  Write  a  report  titled:  How  to  manage  the  complexities  of  stakeholder  relationships 
+ The  report  will  need  to  be  in  3  parts: 
+ 1.  An  analysis  of  types  of  stakeholder  relationships  within  organisations 
+ 2.  An  examination  of  the  contractual  frameworks  for  stakeholder  engagement  and 
+ management 
+ 3.  An  analysis  of  the  role  of  the  manager  in  managing  stakeholder  relationships 
+ LO2:  Write  a  briefing  paper  titled:  How  to  work  collaboratively  with  different  stakeholders 
+ The  briefing  paper  will  need  to  be  2  parts: 
+ 1.  Evaluation  of  collaborative  working  techniques  to  manage  stakeholder  relationships 
+ 2.  Outline  of  methods  used  to  manage  conflict  in  stakeholder  relationships 
+ LO3:  Write  a  report  titled:  Approaches  used  to  effectively  manage  stakeholder  relationships 
+ The  report  should  be  in  3  parts: 
+ 1.  Examine  the  benefits  and  challenges  of  working  with  different  stakeholders 
+ 2.  Recommend  processes  used  to  plan  stakeholder  engagement 
+ 3.  Examine  methods  used  to  measure  the  impact  of  stakeholder  engagement  on 
+ organisational  performance 
+ Level  5  Operational  Management  |  v02  9 
+ Unit  551  - 
+ Managing  a 
+ Project  LO1:  Write  a  report  titled:  Principles  and  Processes  in  Project  Management 
+ The  report  should  include: 
+ 1.  Introduction 
+ 2.  Defining  Project  Management  Principles 
+ 3.  Project  Contribution  to  Organisational  Goals 
+ 4.  Process  for  Initiating  Projects 
+ 5.  Examination  of  Tools  and  Techniques 
+ 6.  Impact  of  Legal,  Organisational,  and  Ethical  Factors 
+ 7.  Conclusion 
+ LO2:  Create  a  Project  Proposal  to  deliver  an  organisational  goal. 
+ The  Project  Proposal  could  include  the  following: 
+ 1.  Introduction 
+ 2.  Project  Objectives 
+ 3.  Scope  of  Work 
+ 4.  Methodology/Approach: 
+ 5.  Project  Deliverables 
+ 6.  Timeline/Schedule 
+ 7.  Budget 
+ 8.  Resource  Requirements 
+ 9.  Risk  Management 
+ 10.  Stakeholder  Analysis 
+ 11.  Communication  Plan 
+ 12.  Quality  Assurance/Control 
+ 13.  Evaluation/Measurement 
+ 14.  Problem  Solving  and  Decision  Making  Techniques 
+ 15.  Project  Closure 
+ Unit  552  - 
+ Managing 
+ Change  LO1:  Write  a  report  titled:  The  reasons  for  change  in  organisations. 
+ The  report  needs  to  be  in  four  parts: 
+ 1.  Analyse  the  external  factors  that  influence  change  in  organisations. 
+ 2.  Analyse  the  internal  factors  that  drive  the  need  for  change  in  organisations 
+ 3.  Evaluate  the  use  of  theoretical  models  for  managing  change  in  organisations 
+ 4.  Examine  the  potential  impact  of  change  in  organisations 
+ LO2:  Create  a  presentation  showcasing  your  innovative  approach  to  change  management 
+ The  presentation  should  address  the  following  four  areas: 
+ 1.  Outline  the  rationale  for  initiating  change  within  an  organisation 
+ 2.  Explore  approaches  to  embed  and  sustain  planned  change  in  an  organisation 
+ 3.  Analyse  the  role  of  leadership  in  identifying  and  overcoming  barriers  to  change 
+ 4.  Identify  reasons  for  engaging  with  stakeholders  throughout  the  change  management 
+ process 
+ LO3:  Create  a  change  management  plan 
+ The  plan  needs  to  be  based  on  a  change  within  your  own  organisation  or  an  organisation  that  you 
+ have  researched,  and  will  need  to  be  in  6  parts. 
+ 1.  Develop  a  Plan  for  Change 
+ 2.  Develop  Strategies  for  Communicating  Planned  Change 
+ 3.  Recommend  Practical  Methods  to  Support  Individuals 
+ 4.  Identify  Tools  for  Implementing  and  Monitoring  Change 
+ 5.  Recommend  Approaches  to  Overcome  Risks  and  Barriers 
+ 6.  Analyse  Methods  for  Measuring  and  Monitoring  Impact 
+ Level  5  Operational  Management  |  v02  10 
+ Unit  553  - 
+ Operational 
+ Planning  LO1  &  LO2:  Write  a  report  tilted  ‘The  principles  of  operational  planning’ 
+ The  report  should  be  in  5  (FIVE)  parts: 
+ 1.  Assessment  of  the  relationship  between  an  organisation's  strategic  objectives  and 
+ operational  planning 
+ 2.  Evaluation  of  the  approaches  used  in  operational  planning 
+ 3.  Assessment  of  the  methods  of  managing  and  leading  the  delivery  of  an  operational  plan 
+ 4.  Review  of  the  techniques  for  problem  solving  and  decision  making 
+ 5.  Assessment  of  the  ethical  requirements  that  influence  an  operational  plan 
+ LO3:  Create  an  operational  plan  covering  a  minimum  of  three  months 
+ 1.  The  operational  plan  must  be  in  line  with  organisational  objectives. 
+ 2.  the  operational  plan  maybe  based  on  work  experience,  and  link  to  an  area  of  work  that 
+ you  are  familiar  with  or  have  resear ched  thoroughly 
+ 3.  The  oper ational  plan  must  show  a  clear  link  to  organisational  objectiv es  and  be  based 
+ on  one  area  of  work 
+ Unit  554  - 
+ Personal  and 
+ Professional 
+ Development  LO1:  Write  a  briefing  paper  titled:  The  use  of  reflective  practice  in  personal  and  professional 
+ development 
+ The  briefing  paper  will  need  to  be  in  3  parts: 
+ 1.  Analyse  the  importance  of  continuous  personal  and  professional  development  in  achieving 
+ organisational  objectives 
+ 2.  Evaluate  the  use  of  reflective  practice  in  personal  and  professional  development 
+ 3.  Evaluate  approaches  used  in  reflective  practice 
+ LO2:  Create  a  Reflective  Account  to  inform  your  own  development. 
+ The  Reflective  Account  must: 
+ 1.  Evaluate  own  performance  in  the  workplace  using  principles  of  reflection 
+ 2.  Reflect  on  own  working  style  and  its  impact  on  others  in  the  workplace 
+ LO3:  Create  a  Personal  and  Professional  Development  Plan 
+ Your  Plan  needs  to  evidence: 
+ 1.  Analyse  your  develop  needs  for  current  and  future  roles 
+ 2.  How  you  will  do  it 
+ 3.  What  support  and/or  resources  you  will  need 
+ 4.  Examine  the  type  of  development  opportunities  available  that  will  help  meet  your 
+ objectives 
+ 5.  How  you  will  know  that  this  objective  has  been  successful 
+ 6.  The  target  date  for  this  objective  to  be  achieved 
+ Level  5  Operational  Management  |  v02  11 
+ WORD  COUNT  AND  APPENDICES 
+ The  written  word,  however  generated  and  recorded,  is  still  expected  to  form  the  majority  of  accessible 
+ work  produced  by  Learners  at  Level  5.  The  guideline  word  count  for  units  within  this  qualification  are 
+ summarised  below,  and  vary  depending  on  the  size  and  content  of  the  unit.  There  is  a  10%  allowance 
+ above/below  these  guidelines.  For  more  information,  please  refer  to  the  CMI  Assessment  Guidance 
+ Policy 
+ The  table  below  sets  out  the  word  count,  by  unit,  within  these  qualifications.  Word  count  has  been  set 
+ based  on  the  content  being  covered  within  each  unit. 
+ Unit  Title  Word 
+ Count 
+ 549 
+ Developing,  Managing  and  Leading  teams  5500 
+ 550  Stakeholder  Relationships  4000 
+ 551  Managing  a  Project  6000 
+ 552  Managing  Change  6000 
+ 553  Operational  Planning  4000 
+ 554  Personal  and  Professional  Development  4000 
+ Learner  work  should  aim  to  minimise  the  amount  of  unnecessary  attachments  or  appendices. 
+ Information  that  is  essential  to  the  Learner's  work  in  order  to  meet  the  learning  outcomes  and 
+ assessment  criteria  should  be  included  within  the  main  body  of  the  report.  However,  CMI  understands 
+ that  from  time  to  time  a  Learner  may  need  to  include  additional  supporting  information  which 
+ enhances  the  overall  work  and  it  is  recommended  that  it  is  kept  to  a  minimum  and  does  not  exceed 
+ the  word  count. 
+ EXTERNAL  MARKING 
+ As  part  of  our  dedicated  service,  CMI  Awarding  Body  offers  the  opportunity  for  all  Centres  to  have 
+ their  Learners’  assignments  externally  marked. 
+ Some  CMI  Centres  choose  to  send  one  assignment  of  the  qualification  to  be  externally  marked,  as  it 
+ gives  the  Learner  a  CMI  quality  stamp,  as  it  is  marked  and  assessed  by  the  Awarding  Body. 
+ This  service  provides  CMI  Centres  with  a  simplistic,  professional  and  cost  effective  way  to  get  their 
+ CMI  Learner's  work  marked  and  certificated  within  a  six  week  period.  Please  refer  to  the  fees  guide 
+ for  current  pricing. 
+ Level  5  Operational  Management  |  v02  12 
+ APPEALS  AGAINST  ASSESSMENT  DECISIONS 
+ In  the  event  that  a  Learner  wishes  to  appeal  against  an  assessment  decision,  they  can  do  so  by 
+ following  outlined  procedures. 
+ Where  an  assessment  decision  has  been  made  by  the  CMI  Centre,  Learners  must  follow  the  Centre’s 
+ own  Appeals  Procedure  in  the  first  instance.  If  this  procedure  has  been  exhausted  and  remains 
+ unresolved,  Learners  may  log  a  Stage  2  appeal  with  CMI. 
+ For  further  information,  please  see  CMI’s  Appeals  Policy  and  Procedure  . 
+ Level  5  Operational  Management  |  v02  13 
+ CMI  SERVICES  -  SUPPORTING  CMI 
+ QUALIFICATIONS 
+ CMI  MEMBERSHIP 
+ If  an  individual  is  not  already  in  membership  at  the  time  of  registering  on  a  CMI  qualification  then  your 
+ Learner  will  be  provided  with  free  Affiliate  membership  of  the  CMI  for  the  duration  of  their  studies.  For 
+ details  of  the  benefits  of  membership  please  click  here  .  There  may  be  the  opportunity  to  upgrade 
+ during  the  Learner's  studies  dependent  on  successfully  completing  a  qualification  with  CMI  . 
+ CHARTERED  MANAGER 
+ Chartered  Managers  are  consistent  high  performers,  committed  to  current  best  practice  and  ethical 
+ standards. 
+ A  unique  designation,  exclusively  awarded  by  the  Chartered  Management  Institute,  Chartered 
+ Manager  embodies  a  professional  approach  to  management  through  knowledge,  competence, 
+ professional  standards  and  commitment  to  continuing  professional  development  (CPD). 
+ To  find  out  more  about  how  to  become  a  Chartered  Manager  please  click  here  . 
+ STUDY  RESOURCES 
+ ManagementDirect 
+ https://members.md.cmi.org.uk 
+ It’s  fast,  comprehensive  and  free  to  members 
+ ManagementDirect  is  a  complete  online  library  of  comprehensive  and  up-to-date  material  that 
+ addresses  current  management  practice,  supports  studying  and  those  looking  to  enhance  their 
+ knowledge  and  develop  their  skills. 
+ ●  231  Management  Checklists  and  60  Management  Thinker  profiles 
+ ●  One  page  overviews  of  key  Management  Models 
+ ●  Multimedia  resources  –  100s  of  leader  insights  videos,  including  Pearls  of  Wisdom  from  Eliesha 
+ ●  CMI  research  and  Professional  Manager  articles 
+ ●  Authoritative  definitions  of  management  terms 
+ ●  Over  11,000  articles  and  9000  e-books  to  read  online  when  you  need  them 
+ ●  Learning  Journey  playlists  for  many  units  giving  you  easy  access  to  resources  specifically 
+ selected  to  support  your  studies 
+ ●  Resources  to  develop  your  Study  Skills,  including  factsheets  on  assignment  writing,  references 
+ and  citations,  learning  styles,  note  taking  and  avoiding  plagiarism. 
+ All  these  resources  are  freely  available  to  members  from  one  source.  Definitions  give  you  a  headline 
+ understanding  of  the  topic;  checklists  and  models  provide  the  essentials;  and  books  and  articles 
+ enable  you  to  research  further.  Depending  on  your  need  you  choose  how  far  you  want  to  go. 
+ Level  5  Operational  Management  |  v02  14 
+ E-journals 
+ For  in  depth  research  try  our  e-journals  service 
+ CMI  has  joined  forces  with  EBSCO  Information  Services  to  offer  members  access  to  Business 
+ Source:  Corporate,  a  database  providing  direct  access  to  articles  on  management  and  business  from 
+ a  range  of  academic  journals  and  business  magazines.  Members  also  have  access  to  country, 
+ company  and  industry  reports  from  leading  providers. 
+ Access  to  Business  Source  Corporate  is  through  ManagementDirect  . 
+ Online  CPD 
+ CPD  can  take  many  forms,  but  the  most  important  feature  of  any  activity  you  undertake  is  that  there 
+ are  clear  learning  outcomes.  In  many  cases  these  may  enable  you  to  have  a  direct  impact  at  work. 
+ Our  online  CPD  scheme  enables  you  to  record  your  learning  objectives  and  the  activities  you  have 
+ undertaken  and  encourages  you  to  assess  its  impact  in  your  role  as  a  manager.  Print  reports  for  your 
+ reviews,  appraisals  or  interviews. 
+ Access  to  CPD  is  through  ManagementDirect  . 
+ Level  5  Operational  Management  |  v02  15 
+ UNIT  SUMMARIES 
+ The  units  within  these  qualifications  are  different  to  other  qualifications,  and  so  the  following 
+ summarises  some  key  features: 
+ ●  TUT  refers  to  Total  Unit  Time.  TUT  is  set  based  on  the  estimated  time  expected  for  the 
+ average  Learner  to  be  taught  the  content  via  formal  Guided  Learning,  additional  informal 
+ learning  and  preparation  and  completion  of  an  assessment. 
+ ●  GLH  refers  to  Guided  Learning  Hours.  GLH  is  the  estimated  contact  time  the  average  Learner 
+ has  with  tutors,  trainers  or  facilitators  as  part  of  the  learning  process,  it  includes  formal 
+ learning  including  classes,  training  sessions,  coaching,  seminars,  live  webinar  and  telephone 
+ tutorials,  e-learning  which  is  supervised.  It  is  important  to  note  that  this  also  includes 
+ assessing  Learner's  achievements  for  competency  based  assessments. 
+ ●  Key  words  which  highlight  knowledge,  skills  and  behaviours  which  will  be  developed 
+ ●  Indicative  content  has  been  developed  to  support  the  Learner  to  understand  the  aims  of 
+ learning  outcomes  and  assessment  criteria.  It  can  also  be  used  by  tutors  to  develop  lesson 
+ plans  and  schemes  of  work. 
+ ●  Recommendations  for  Assessment  which  provides  a  range  of  suggested  assessment  activities 
+ for  actual  or  aspiring  managers 
+ ●  Mapped  to  the  Chartered  Management  Competency  Framework  at  applied  level. 
+ ●  Suggested  reading/web  resource  materials  developed  to  complement  the  unit  content.  The 
+ primary  resource/research  tool  referred  to  is  ManagementDirect. 
+ ●  Please  note  that  the  resources  lists  provided  to  guide  the  Learner  to  potential  sources  of 
+ information  are  by  no  means  exhaustive.  The  websites,  books  and  journals  cited  were  correct 
+ at  the  date  of  publication.  All  references  to  legislation  stated  within  the  unit  may  be  subject  to 
+ subsequent  changes,  deletions  and  replacements.  Learners  may  also  make  reference  to  other 
+ local  or  national  legislation  as  relevant. 
+ It  is  recommended  that  Learners  have  sight  of  each  unit  of  study  in  preparation  for  assessment. 
+ The  table  below  summarises  the  units  within  these  qualifications: 
+ Unit  549  -  Developing,  Managing 
+ and  Leading  teams  The  ability  to  lead  individuals  and  teams  to  success  is  arguably 
+ the  most  important  skill  a  manager  can  possess.  This  unit 
+ focuses  on  the  essential  management  and  leadership  knowledge, 
+ skills  and  behaviours  required  to  fulfil  this  challenging  but 
+ rewarding  role.  The  unit  opens  by  focusing  on  the  theoretical  and 
+ practical  approaches  to  developing,  leading,  and  managing 
+ teams  (remote  or  multi-disciplinary).  The  manager  will  look  at 
+ techniques  to  assess  current  and  future  team  capabilities, 
+ including  the  role  of  recruitment,  selection  and  staff  development 
+ which  supports  this.  On  successful  completion  of  the  unit,  the 
+ manager  will  not  only  know  the  principles  of  managing  individuals 
+ and  teams,  but  they  will  understand  approaches  for  supporting, 
+ motivating  and  inspiring  teams  and  individuals  to  exceed 
+ expectations. 
+ Level  5  Operational  Management  |  v02  16 
+ Unit  550  -  Stakeholder 
+ Relationships  Good  relationships,  whether  they  are  with  customers,  suppliers, 
+ partners  or  staff,  are  a  key  contributor  to  an  organisation’s 
+ success.  To  build  stakeholder  relationships  that  are  long  lasting 
+ and  sustainable,  they  need  to  be  planned  and  developed.  This 
+ unit  explores  the  types  and  purposes  of  stakeholder  relationships 
+ and  the  knowledge,  skills  and  behaviours  required  to  overcome 
+ challenges  and  manage  these  effectively. 
+ Unit  551  -  Managing  a  Project  The  ability  to  manage  projects  is  a  vital  skill  for  all  managers. 
+ This  unit  focuses  on  the  knowledge  and  skills  required  to  manage 
+ projects  successfully  and  overcome  problems  and  challenges.  It 
+ requires  the  learner  to  evaluate  the  methods  and  tools  for 
+ planning  tasks  and  activities,  as  well  as  knowing  how  to 
+ implement  and  manage  project  activities,  build  stakeholder 
+ relationships,  manage  resources  and  risk,  monitor  progress  and 
+ report  on  outcomes. 
+ Unit  552  -  Managing  Change  Change  is  inevitable  if  an  organisation  is  to  maintain 
+ competitiveness  and  currency  of  practice.  This  unit  has  been 
+ designed  to  enable  the  learner  to  evaluate  types  of  change  and 
+ reasons  for  change  within  organisations  and  enable  the  learner  to 
+ select  and  apply  theoretical  models  for  the  management  of 
+ change.  The  purpose  is  not  only  to  enable  learners  to  develop 
+ the  skills  to  manage  change  and  achieve  set  objectives,  but  to  do 
+ so  in  a  professional  manner  with  open  and  honest 
+ communication  throughout  the  entire  process 
+ Unit  553  -  Operational  Planning  The  ability  to  translate  organisational  objectives  into  operational 
+ plans  is  an  essential  management  skill.  The  unit  opens  with  the 
+ importance  of  understanding  the  strategic  direction  of  the 
+ organisation  and  how  to  contribute  to  the  strategic  planning 
+ process.  It  then  focuses  on  the  knowledge  and  skills  required  to 
+ create  and  deliver  operational  plans.  This  includes  the  need  to 
+ set  key  performance  indicators,  monitor  quality  and  outcomes 
+ against  the  plan,  and  know  how  to  effectively  report  on  findings. 
+ Unit  554  -  Personal  and 
+ Professional  Development  Reflective  practice  is  an  essential  management  tool  which 
+ supports  the  development  of  knowledge,  skills  and  behaviours  in 
+ the  workplace.  By  consciously  analysing  own  performance, 
+ decision  making,  leadership  and  management  skills  (in  different 
+ situational  contexts);  opportunities  for  on-going  development  can 
+ be  identified.  The  aim  of  the  unit  is  to  equip  learners  with 
+ understanding  of  the  value  of  reflective  practice,  and  enable  them 
+ to  evidence  how  reflection  can  be  used  as  the  basis  of  a 
+ meaningful  and  ongoing  personal  and  professional  development 
+ plan. 
+ Level  5  Operational  Management  |  v02  17 
+ UNIT  549  -  DEVELOPING,  MANAGING  AND  LEADING 
+ TEAMS 
+ Ofqual  unit  number  K/650/3610 
+ RQF  level  5 
+ Guided  learning  hours  27 
+ Total  unit  time  70 
+ Credits  7 
+ Aims  of  unit  The  ability  to  lead  individuals  and  teams  to  success  is  arguably  the 
+ most  important  skill  a  manager  can  possess.  This  unit  focuses  on 
+ the  essential  management  and  leadership  knowledge,  skills  and 
+ behaviours  required  to  fulfil  this  challenging  but  rewarding  role.  The 
+ unit  opens  by  focusing  on  the  theoretical  and  practical  approaches  to 
+ developing,  leading,  and  managing  teams  (remote  or 
+ multi-disciplinary).  The  manager  will  look  at  techniques  to  assess 
+ current  and  future  team  capabilities,  including  the  role  of  recruitment, 
+ selection  and  staff  development  which  supports  this.  On  successful 
+ completion  of  the  unit,  the  manager  will  not  only  know  the  principles 
+ of  managing  individuals  and  teams,  but  they  will  understand 
+ approaches  for  supporting,  motivating  and  inspiring  teams  and 
+ individuals  to  exceed  expectations. 
+ Keywords  Theoretical  models,  practical  approaches,  team  leaders, 
+ multi-disciplinary  and  remote  teams,  team  capabilities,  recruitment, 
+ learning  and  development,  coaching  and  mentoring,  motivation,  good 
+ practice,  high  performing  teams. 
+ Level  5  Operational  Management  |  v02  18 
+ UNIT  549  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  approaches  to  developing,  managing  and  leading  teams 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Evaluate  the  use  of 
+ leadership  styles  and 
+ theoretical  models  for 
+ developing,  managing 
+ and  leading  teams  Leadership  styles  may  include  but  are  not  limited  to  Managerial  Grid  (Blake  and 
+ Mouton,  c.1950s),  Leadership  Continuum  (Tannenbaum  and  Schmidt,  1958), 
+ Situational  Leadership  (Hersey  and  Blanchard,  1969),  Authentic  Leadership  (Goffee 
+ and  Jones,  2011),  Five  Practices  of  Exemplary  Leadership  (Kouzes  and  Posner,  1987), 
+ Leadership  Qualities  (Bennis,  1989),  Leadership  Styles  (Goleman,  1995), 
+ Action-Centred  Leadership  (Adair,1963). 
+ Theoretical  models  may  include  but  are  not  limited  to  differences  between  a  group 
+ and  a  team,  team  types,  Team  Roles  (Belbin,  1981),  Team  Management  Wheel 
+ (Margerison  and  McCann,  1990),  Model  of  Team  Development  (Tuckman,  c.1965), 
+ psychometric  assessment  tools  (e.g.  Myers-Briggs  Type  Indicator,  1943),  Drivers  of 
+ Employee  Engagement  (Robinson,  Perryman  and  Hayday,  2004),  Speed  of  Trust  (Covey, 
+ 2008),  Conflict  Mode  Instrument  (Thomas  and  Kilman,  1974),  Emotional  Intelligence 
+ (Goleman,  1995).  K1 
+ K9 
+ B3 
+ 1.2  Analyse  strategies  for 
+ managing  team  leaders  Strategies  may  include  but  are  not  limited  to  delegation,  monitoring  performance, 
+ setting  targets,  support  and  guidance,  supervision  and  meetings,  learning  and 
+ development. 
+ 1.3  Develop  approaches 
+ to  respond  to  the 
+ challenges  of  managing 
+ and  leading  multiple  and 
+ remote  teams  Challenges  may  include  but  are  not  limited  to  use  of  communication  (methods,  types, 
+ times,  frequency,  availability,  interpretation  of  communication  used,  use  of 
+ technology),  access  to  business  support,  building  and  developing  relationships, 
+ performance  review,  workload,  conflict  handling,  quality  and  productivity,  currency  of 
+ working  practice,  time  management,  trust,  morale,  accountability,  authority  and 
+ autonomy,  Five  Dysfunctions  of  a  Team  (Lencioni,  2005). 
+ Learning  Outcome  2 
+ Understand  approaches  to  achieving  a  balance  of  skills  and  experience  in  teams 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Assess  the  factors 
+ which  impact  on  the 
+ selection  of  learning  and 
+ development  activities 
+ for  individuals  and 
+ teams  Factors  may  include  but  are  not  limited  to  budget/funding,  physical  location  of 
+ team  members,  time,  availability  of  suitable  provider,  shift  patterns,  compliance 
+ (including  legal  and  industry  specific  regulation  relating  to  the  sector  in  which  the 
+ organisation  operates),  return  on  investment,  strategic  objectives  and  priorities, 
+ learning  styles,  range  of  training  needs.  K10 
+ B3 
+ 2.2  Examine  the  use  of 
+ coaching  and  mentoring 
+ models  to  support  team 
+ development  Use  may  include  but  is  not  limited  to  skills  and  talent  development,  embedding 
+ organisational  culture  and  attitudes  to  diversity,  personal  support, 
+ enhancing/improving  performance,  career  development,  retention,  engagement, 
+ empowerment,  job  satisfaction,  develop  and  share  good  practice,  management  of 
+ change,  communication,  relationship  development,  reflective  management, 
+ self-management. 
+ Level  5  Operational  Management  |  v02  19 
+ 2.3  Analyse  motivational 
+ techniques  used  to 
+ create  high  performing 
+ teams  Motivational  techniques  refers  to  how  to  work  collaboratively  with  others, 
+ motivate  and  improve  performance,  give  constructive  feedback  and  challenge 
+ where  necessary,  enabling  development  within  the  workplace  and  may  include  but 
+ are  not  limited  to  set  stretch  goals  and  objectives,  create  energy  and  enthusiasm, 
+ inspire  others,  conflict  resolution,  increased  cooperation,  communicating  shared 
+ purpose,  vision  and  direction,  building  trust,  incentives  and  rewards,  Vroom’s 
+ Expectancy  Theory  (1964),  Motivation  and  Management  Systems  (Likert,  1967). 
+ Learning  Outcome  3 
+ Know  techniques  for  leading  individuals  and  teams  to  achieve  success 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Analyse  a  process  for 
+ recruiting  team 
+ members  Process  refers  to  individual  and  team  and  may  include  but  is  not  limited  to  review 
+ staff  requirements,  consultation,  formulate  job  descriptions  and  person 
+ specifications,  labour  market  research,  compliance  with  legal  and  organisational 
+ requirements,  create  plan,  approaches  to  attracting  talent  (e.g.  advertising, 
+ recommendation,  head  hunting,  internal  recruitment,  secondment,  social 
+ networks),  short  list,  interview,  security  checks,  offer.  K12 
+ B3 
+ 3.2  Explore  methods 
+ used  to  monitor  and 
+ manage  individual  and 
+ team  performance  Methods  refer  to  performance  management  techniques  and  may  include  but  are 
+ not  limited  to  HR  systems  and  processes,  internal  and  external  quality  standards, 
+ audit,  qualitative  measures  (e.g.  customer  feedback,  opinions,  views,  reviews)  and 
+ quantitative  measures  (e.g.  SMART  objectives,  key  performance  indicators  (KPIs), 
+ scorecards  (e.g.  Balanced  Scorecard,  Kaplan  and  Norton,  1992),  error  rates, 
+ output,  benchmarks  and  targets),  service  level  agreements  (SLAs),  speed  of 
+ response,  structured  performance  reviews,  180  o  /360  o  feedback,  disciplinary 
+ procedures. 
+ Learning  Outcome  4 
+ Be  able  to  apply  your  skills  in  managing  talent  and  performance 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 4.1  Outline  practical 
+ approaches  for  effective 
+ team  management  and 
+ leadership  Practical  approaches  refer  to  communicate  organisational  vision  and  goals  and 
+ how  these  apply  to  the  department  and  teams,  and  may  include  but  are  not  limited 
+ to  motivation  through  empowerment,  delegation,  collective  ownership,  conflict 
+ handling,  creating  a  trusting  environment,  building  resilience,  taking 
+ responsibility  versus  blame  culture,  collaboration,  fairness  and  parity,  work 
+ allocation,  cultural  awareness,  individual  and  team  development.  S9 
+ S12 
+ S18 
+ B3 
+ B5 
+ 4.2  Evaluate  techniques 
+ for  assessing  current  and 
+ future  team  capabilities 
+ and  requirements  Techniques  refer  to  identifying  strengths  and  enabling  development  within  the 
+ workplace  and  may  include  but  are  not  limited  to  analysis  of  skills  and  experience 
+ (individuals  and  teams)  against  current  organisational  requirements  (e.g.  aims 
+ and  objectives),  identification  of  future  organisational  need  (e.g.  organisational 
+ strategy,  projects,  plans,  production  plans),  skills  matrix,  capability  assessment, 
+ structured  performance  reviews,  identification  of  skills  and  experience  gaps. 
+ 4.3  Formulate  good 
+ practice  for  enabling  and 
+ supporting  high 
+ performing  teams  Good  practice  refers  to  manage  talent  and  performance  and  may  include  but  are 
+ not  limited  to  active  listening,  feedback,  constructive  criticism,  action  planning 
+ including  PIPS  (performance  improvement  plans),  training,  coaching  or 
+ mentoring,  formal  performance  management  processes,  rewards,  incentives, 
+ recognition  and  praise,  Psychological  Contract  (Roussea,  1989) 
+ Level  5  Operational  Management  |  v02  20 
+ UNIT  550  -  STAKEHOLDER  RELATIONSHIPS 
+ Ofqual  unit  number  L/650/3611 
+ RQF  level  5 
+ Guided  learning  hours  18 
+ Total  unit  time  50 
+ Credits  5 
+ Aims  of  unit  Good  relationships,  whether  they  are  with  customers,  suppliers, 
+ partners  or  staff,  are  a  key  contributor  to  an  organisation’s  success. 
+ To  build  stakeholder  relationships  that  are  long  lasting  and 
+ sustainable,  they  need  to  be  planned  and  developed.  This  unit 
+ explores  the  types  and  purposes  of  stakeholder  relationships  and  the 
+ knowledge,  skills  and  behaviours  required  to  overcome  challenges 
+ and  manage  these  effectively. 
+ Keywords  Stakeholder  relationships,  benefits  and  challenges,  contractual 
+ framework,  process,  planning  engagement,  role  of  the  manager, 
+ communication  skills,  collaborative  working  techniques,  strategies  for 
+ managing  conflict,  impact  of  stakeholder  engagement 
+ Level  5  Operational  Management  |  v02  21 
+ UNIT  550  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  the  different  types  and  value  of  stakeholder  relationships 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Analyse  the  types  of 
+ stakeholder  relationships 
+ within  organisations  Stakeholder  relationships  may  include  but  are  not  limited  to: 
+ Internal:  team  members,  line  managers,  senior  managers,  board  members 
+ External:  customers,  pressure  groups,  government  agencies;  connected:  suppliers, 
+ partners,  contractor;  balance  of  power,  value,  impact,  power/interest  (Freeman, 
+ 1984;  Eden  and  Ackerman,  1998).  K13 
+ 1.2  Examine  the 
+ contractual  frameworks 
+ for  stakeholder 
+ engagement  and 
+ management  Contractual  frameworks  may  include  agreements  (e.g.  service  level  and  trade 
+ union  agreements),  contracts,  compliance  (legislation  and  regulation),  governance.  K16 
+ 1.3  Analyse  the  role  of  the 
+ manager  in  managing 
+ stakeholder  relationships  Role  may  also  include  but  is  not  limited  to  clarifying  needs  and  expectations, 
+ developing  and  implementing  plans,  allocating  resources,  ensuring  agreements  are 
+ met,  reviewing  effectiveness. 
+ Learning  Outcome  2 
+ Understand  the  methods  and  challenges  of  working  collaboratively  with  stakeholders 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Evaluate  the  use  of 
+ collaborative  working 
+ techniques  to  manage 
+ stakeholder  relationships  Collaborative  working  techniques  refers  to  enable  delivery  through  others, 
+ building  trust  (e.g.  Svendsen,  1998),  negotiating,  influencing  and  effective 
+ networking  ,  identifying  and  sharing  best  practice;  and  may  also  include  but  is  not 
+ limited  to  assertiveness,  problem  solving,  consulting,  active  listening,  respect, 
+ consensus,  equal  concern  for  task  and  people  (Blake  and  Mouton,  c1950s),  agreeing 
+ shared  goals,  diversity,  empowering  others,  involvement  (Friedman  and  Miles,  2006 
+ and  Egan,  2011,  Bourne,  2009).  K14 
+ 2.2  Outline  methods  for 
+ managing  conflict  in 
+ stakeholder  engagement  Methods  may  include  but  are  not  limited  to  investigation,  negotiation,  mediation, 
+ compromise,  arbitration.  Conflict  refers  to  managing  conflict  at  all  levels  (e.g. 
+ seniority,  cross-functional).  K15 
+ B2 
+ Level  5  Operational  Management  |  v02  22 
+ Learning  Outcome  3 
+ Be  able  to  manage  stakeholder  relationships  effectively 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Examine  the  benefits 
+ and  challenges  for 
+ organisations  working 
+ with  different  stakeholder 
+ groups  Benefits  refer  to  identifying  and  sharing  best  practice,  use  specialist  advice  and 
+ support  to  deliver  against  plans  and  may  also  include  but  are  not  limited  to  access 
+ to  expertise,  financial,  achievement  of  objectives,  corporate  social  responsibility, 
+ quality. 
+ Challenges  may  include  but  are  not  limited  to  authority,  change  management, 
+ intellectual  property,  conflict  of  interest,  differences  in  culture,  values  and  beliefs, 
+ leadership  conflict,  confidentiality,  information  sharing.  S13 
+ S14 
+ S15 
+ B4 
+ B5 
+ 3.2  Recommend  a  process 
+ for  planning  stakeholder 
+ engagement  Process  refers  to  approaches  to  partner,  stakeholder  and  supplier  relationship 
+ management  including  negotiation,  influencing  and  effective  networking  and  may 
+ include  but  is  not  limited  to  stakeholder  types  and  needs,  objectives,  risk/value, 
+ engagement  methods,  reporting,  timescales,  authority. 
+ Learning  Outcome  4 
+ Know  methods  for  measuring  the  impact  of  stakeholder  engagement  on  organisational  performance 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 4.1  Examine  methods  for 
+ measuring  the  impact  of 
+ stakeholder  engagement 
+ on  organisational 
+ performance  Methods  may  include  but  are  not  limited  to  inspection,  audit,  impact  assessment, 
+ cost  benefit  analysis. 
+ Impact  may  include  but  is  not  limited  to  reputation,  advocacy,  support,  trust, 
+ perception,  attrition,  opportunity  cost,  achievement  of  objectives.  S13 
+ S14 
+ S15 
+ B4 
+ B5 
+ Level  5  Operational  Management  |  v02  23 
+ UNIT  551  -  MANAGING  A  PROJECT 
+ Ofqual  unit  number  M/650/3612 
+ RQF  level  5 
+ Guided  learning  hours  24 
+ Total  unit  time  80 
+ Credits  8 
+ Aims  of  unit  The  ability  to  manage  projects  is  a  vital  skill  for  all  managers. 
+ This  unit  focuses  on  the  knowledge  and  skills  required  to  manage 
+ projects  successfully  and  overcome  problems  and  challenges.  It 
+ requires  the  learner  to  evaluate  the  methods  and  tools  for 
+ planning  tasks  and  activities,  as  well  as  knowing  how  to 
+ implement  and  manage  project  activities,  build  stakeholder 
+ relationships,  manage  resources  and  risk,  monitor  progress  and 
+ report  on  outcomes. 
+ Keywords  Projects,  risk,  planning,  finance,  resources,  stakeholders,  project 
+ risk,  project  activities,  Gantt,  planning,  methodologies, 
+ Level  5  Operational  Management  |  v02  24 
+ UNIT  551  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  principles  and  processes  for  initiating,  planning  and  managing  projects 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Define  the 
+ principles  of  project 
+ management  Principles  may  include  but  are  not  limited  to  definitions  of  the  term  ‘project’, 
+ projects  vs  BAU  (Business  as  Usual).  Stages  of  the  Project  Lifecycle  K6 
+ K7 
+ K8 
+ B1 
+ B4  1.2  Explain  the  purpose 
+ of  projects  in  delivering 
+ organisational  goal  Purpose  may  include  but  is  not  limited  to  delivering  organisation’s  strategy,  achieve 
+ competitive  advantage,  innovation,  support  decision  making,  enable  change. 
+ 1.3  Outline  the  process 
+ for  initiating  projects  Process  refers  to  project  management  and  may  include  but  is  not  limited  to  the 
+ creation  of  project  initiation  documents,  defining  purpose,  aims,  objectives,  key 
+ performance  indicators  (KPIs),  scope,  deliverables,  constraints,  quality,  assumptions, 
+ development  of  formal  business  case,  success  criteria,  resource  requirements  (people, 
+ finance,  equipment,  time),  Cost  Benefit  Analysis  (CBA),  risk  analysis  and  assessment, 
+ defining  project  organisation,  project  team  roles,  stakeholder  analysis, 
+ communications  strategy,  select  technology 
+ 1.4  Examine  the  tools 
+ and  techniques  to  plan 
+ and  manage  projects  in 
+ different  contexts  Tools  and  techniques  refers  to  how  to  set  up,  plan,  organise  and  manage  a  project 
+ and  resources  using  relevant  tools  and  techniques  and  may  include  but  are  not 
+ limited  to  Gantt  charts,  milestone  charts,  network  diagrams,  project  plans,  Critical 
+ Path  Analysis  (CPA),  Work  Breakdown  Structure  (WBS),  Responsibility  assignment 
+ matrix  (RACI),  Risk  Register,  project  methodologies  (e.g.  PRINCE2,  Agile  or  other 
+ organisational  specific  methodologies). 
+ Different  contexts  may  include  but  are  not  limited  to  projects  of  different  size,  level 
+ of  risk  and  complexity,  internal  or  external,  timescales,  series  of  projects  or  one  of  a 
+ kind,  project  types  (e.g.  administrative,  construction,  IT,  equipment  or  system 
+ installation,  event  or  relocation,  new  product  or  service  development,  research, 
+ Human  Resource  management/restructure). 
+ Learning  Outcome  2 
+ Know  the  impact  of  legal,  organisational  and  ethical  factors  on  projects 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Examine  the  impact 
+ of  legal,  organisational 
+ and  ethical  factors  on 
+ projects  Legal  may  include  but  is  not  limited  to  Health  and  Safety  at  Work  Act  1974,  Data 
+ Protection  Act  2018/General  Data  Protection  Regulation  2018,  Freedom  of 
+ Information  Act  2000,  Sale  of  Goods  Act  1979,  Equality  Act  2010,  Digital  Economy 
+ Bill  2016,  Working  Time  Directive  1998,  Safeguarding  Vulnerable  Groups  Act 
+ (SVGA),  2006,  Communication  Act  2003. 
+ Organisational  refers  to  data  security  and  management  and  may  include  but  is  not 
+ limited  to  performance  standards,  customer  service  charters,  HR  and  health  and 
+ safety  policies,  safety  and  security,  information  security,  confidentiality,  conflict  of 
+ interest,  equality  and  diversity,  communication,  knowledge  sharing  protocols, 
+ procurement  policies  and  procedures,  risk  assessment,  Lean  production,  quality 
+ standards  and  policies,  whistle  blowing. 
+ Ethical  may  include  but  is  not  limited  to  professional  codes  of  conduct,  K20 
+ K5 
+ Level  5  Operational  Management  |  v02  25 
+ sustainability,  corporate  social  responsibility,  organisational  values  and  culture, 
+ equality,  diversity  and  inclusion. 
+ Learning  Outcome  3 
+ Be  able  to  design,  develop  and  manage  a  project  to  achieve  results 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Create  a  project 
+ proposal  to  deliver  an 
+ organisational  goal  Project  proposal  refers  to  the  component  elements  including:  business  case, 
+ feasibility  study,  scope  of  project,  key  performance  indicators,  justification,  expected 
+ deliverables/outcomes,  implementation  plan,  budget  and  resourcing  (cost,  time  and 
+ quality),  top  level  Work  Breakdown  Structure,  tools  and  techniques  to  control  the 
+ project,  stakeholder  matrix.  S5 
+ S6 
+ S7 
+ S8 
+ S14 
+ S17 
+ S22 
+ B1 
+ B2 
+ B3 
+ B4  3.2  Consider  methods 
+ for  reporting  on  project 
+ outcomes  Methods  refer  to  the  effective  use  of  technology  in  an  organisation,  the  production  of 
+ reports  providing  management  information  and  may  include  but  are  not  limited  to 
+ other  forms  of  communication  such  as  newsletters,  notice  boards,  letters,  memos, 
+ emails,  briefings  and  meetings,  presentations  and  briefings,  video  conferencing, 
+ intranet,  emails,  blogs,  discussion  forums,  podcasts  and  webinars. 
+ 3.3  Specify  methods  of 
+ managing  data  and 
+ information  in  a  project 
+ environment  Data  and  information  refers  to  the  effective  use  of  technology  in  an  organisation, 
+ data  security  and  management  and  the  collation,  analysis  and  interpretation  of  data 
+ and  may  include  but  are  not  limited  to  assessing  characteristics  of  data  and 
+ information  (accuracy,  validity,  reliability,  timeliness,  relevance,  completeness). 
+ 3.4  Examine 
+ approaches  to  identify, 
+ manage  and  mitigate 
+ project  risks  Identify  and  manage  may  include  but  are  not  limited  to  internal  and  external 
+ risks,  monitoring  and  managing  costs  in  respects  of  expected  and  unexpected  loss, 
+ net  social  cost  benefit,  employing  risk  mitigation  techniques,  improving  ICT  systems 
+ and  procedures,  up-skilling  staff,  avoid  high  risks,  monitoring  risk  using  effective  risk 
+ reporting,  senior  management  involvement,  stress  testing,  event  analysis. 
+ Mitigate  may  include  but  is  not  limited  to  transferring  risk,  use  of  insurance  policies, 
+ contingency  planning,  disaster  planning,  alternative  risk  transfer,  risk  avoidance, 
+ minimisation,  prevention  and  prediction  of  risk 
+ Learning  Outcome  4 
+ Be  able  to  monitor  and  manage  the  factors  which  contribute  to  effective  project  management 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 4.1  Evaluate  methods 
+ used  for  monitoring 
+ project  progress  Methods  used  for  monitoring  project  progress  may  include  but  are  not  limited  to 
+ project  meetings  and  huddles  to  time,  quality  and  cost  status,  financial  budgeting, 
+ maintaining  logs  of  quality  issues  and  exceptions,  planned  vs  actual  monitoring 
+ forms,  risk  review. 
+ Evaluating  may  include  but  is  not  limited  to  performance  (qualitative  and 
+ quantitative)  against  outcomes.  S5 
+ S6 
+ S7 
+ S8 
+ S14 
+ S17 
+ S22 
+ B1 
+ B2 
+ B3 
+ B4  4.2  Use  effective 
+ problem  solving  and 
+ decision  making 
+ techniques  when 
+ managing  projects  Problem  solving  and  decision  making  techniques  may  include  but  are  not  limited 
+ to  root  cause  analysis,  Fishbone  Analysis  (Ishikawa,  c.1960s),  Plan  Do  Check  Act 
+ Cycle  (PDCA)  (Deming,  c.1950s),  Pareto  Principle  (Juran,  c.1937),  Cost  Benefit 
+ Analysis  (CBA),  Return  On  Investment  (ROI),  Options  Appraisal,  OODA  Loop  (Boyd, 
+ 1998),  PMI  (Plus  Minus  Interesting)  (De  Bono,  2002),  Ladder  of  Inference  (Senge, 
+ 2006),  options  appraisal 
+ Level  5  Operational  Management  |  v02  26 
+ 4.3  Outline  approaches 
+ for  project  closure  Approaches  may  include  but  are  not  limited  to  administrative  closure  (e.g. 
+ handover,  team  celebration,  feedback  from  stakeholders,  lessons  learned/good 
+ practice  workshops,  re-allocate  resources,  finalise  accounts,  archive  data  and 
+ information,  knowledge  management,  Post-Implementation  Review  (PIR),  contract 
+ closure  (e.g.  terms  and  conditions,  exit  criteria). 
+ Level  5  Operational  Management  |  v02  27 
+ UNIT  552  -  MANAGING  CHANGE 
+ Ofqual  unit  number  T/650/3614 
+ RQF  level  5 
+ Guided  learning  hours  19 
+ Total  unit  time  70 
+ Credits  7 
+ Aims  of  unit  Change  is  inevitable  if  an  organisation  is  to  maintain  competitiveness 
+ and  currency  of  practice.  This  unit  has  been  designed  to  enable  the 
+ learner  to  evaluate  types  of  change  and  reasons  for  change  within 
+ organisations  and  enable  the  learner  to  select  and  apply  theoretical 
+ models  for  the  management  of  change.  The  purpose  is  not  only  to 
+ enable  learners  to  develop  the  skills  to  manage  change  and  achieve 
+ set  objectives,  but  to  do  so  in  a  professional  manner  with  open  and 
+ honest  communication  throughout  the  entire  process. 
+ Keywords  Change  management  models,  stakeholder  engagement  and  support, 
+ plans,  tools  and  techniques,  barriers  and  risks,  drivers  of  change, 
+ monitor,  evaluation,  reporting,  embedding  and  sustaining  change. 
+ Level  5  Operational  Management  |  v02  28 
+ UNIT  552  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  the  reasons  for  change  in  organisations 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Analyse  the  external 
+ factors  which  influence 
+ change  in  organisations  External  factors  may  include  but  are  not  limited  to  political,  legal,  regulatory,  social, 
+ economic,  technological  and  innovation,  environmental,  competition,  ethics  and 
+ regulation.  K11 
+ B4 
+ B5 
+ 1.2  Analyse  the  internal 
+ factors  that  drive  the 
+ need  for  change  in 
+ organisations  Internal  factors  refers  to  organisational  cultures,  diversity  and  their  impact  on 
+ leading  and  managing  change  and  may  include  but  is  not  limited  to  organisational 
+ performance,  emerging  strategy,  governance,  feedback,  ideas  and  innovation, 
+ attrition,  chaos  and  conversation. 
+ 1.3  Evaluate  the  use  of 
+ theoretical  models  for 
+ managing  change  Theoretical  models  may  be  selected  in  relation  to  appropriateness  for  type  of 
+ change  and  situation,  complexity  of  change  and  organisation  (Oswick,  2015,  Radical 
+ Change  within  Traditional  Structures;  Mayon  White,  1993,  Change  Management 
+ Intervention  Strategy;  Nadler  and  Tushan,  1985,  Organisational  Congruence  Model; 
+ Lewin,  1947,  Three  Step  Change  Management  Model  (Freeze-Change-Refreeze); 
+ Kotter,  1996,  8  Steps  model;  Burke  and  Litwin,  1992,  Model  of  Organisational  Change 
+ and  Performance;  Beckhard-Harris,  1987,  Change  Equation;  Moss  Kanter,  1983,  The 
+ Change  Masters;  Hailey  and  Balogun,  2002,  The  Change  Kaleidoscope). 
+ 1.4  Examine  the 
+ potential  impact  of 
+ change  in  organisations  Potential  impact  may  include  but  is  not  limited  to  achieve  objectives,  change  market 
+ positioning,  improve  efficiency,  improve  quality,  develop  best  practice,  shift  culture, 
+ develop  innovation  and  creativity,  improve  performance,  systems  and  processes, 
+ change  technology.  Effective  use  of  delegation  to  develop  and  manage  individuals  and 
+ teams. 
+ Learning  Outcome  2 
+ Understand  approaches  to  change  management 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Outline  the 
+ rationale  for  initiating 
+ change  within  an 
+ organisation  Rationale  may  include  but  is  not  limited  to  benefits,  business  case,  impact, 
+ consequences/risks.  K4 
+ B1 
+ B2 
+ B4 
+ B5 
+ 2.2  Explore  approaches 
+ to  embed  and  sustain 
+ planned  change  in  an 
+ organisation  Approaches  may  include  but  are  not  limited  to  overcoming  barriers,  meeting 
+ objectives,  achieving  planned  benefits,  periodic  monitoring,  key  performance 
+ indicators  (KPIs),  continuous  professional  development  (CPD)  requirements. 
+ 2.3  Analyse  the  role  of 
+ leadership  in 
+ identifying  and 
+ overcoming  barriers  to  Role  of  leadership  may  include  but  is  not  limited  to  leadership  styles,  Situational 
+ Leadership  (Hersey  and  Blanchard,  1977),  timescales,  negotiating  and  influencing 
+ skills,  Having  Difficult  Conversations  (Scott,  2002),  Emotional  Intelligence  (Goleman, 
+ 1998),  collaborative  working  techniques,  resilience  and  accountability,  openness, 
+ Level  5  Operational  Management  |  v02  29 
+ change  positive  and  adaptable,  open  to  feedback. 
+ 2.4  Identify  reasons  for 
+ engaging  with 
+ stakeholders 
+ throughout  the  change 
+ management  process  Stakeholders  may  include  but  are  not  limited  to  internal:  team  members,  line 
+ managers,  senior  managers,  board  members;  external:  customers,  pressure  groups, 
+ government  agencies;  connected:  suppliers,  partners,  contractors. 
+ Learning  Outcome  3 
+ Be  able  to  initiate,  plan  and  manage  change  in  an  organisation 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Develop  a  plan  for 
+ change  within  an 
+ organisation  Plan  for  change  may  include  but  is  not  limited  to  objectives,  actions,  stages, 
+ milestones,  resources,  timescales,  deadlines,  responsibilities,  measures  (Lewin,  c1940s, 
+ Force  Field  Analysis;  Hiatt,  2003,  ADKAR).  S2 
+ S3 
+ S9 
+ S10 
+ S11 
+ S16 
+ S17 
+ S21 
+ B1 
+ B2 
+ B4  3.2  Develop  strategies 
+ for  communicating 
+ planned  change  to 
+ stakeholders  Communicating  refers  to  chairing  meetings  and  presenting  using  a  range  of  media 
+ and  may  include  but  is  not  limited  to  internal  and  external  communication, 
+ consultation,  huddles,  meetings  and  briefings,  webinars,  podcasts,  conference  calls, 
+ blog  posts,  presentations,  letters  and  newsletters,  articles,  case  studies. 
+ 3.3  Recommend 
+ practical  methods  to 
+ support  individuals 
+ throughout  the  change 
+ management  process  Practical  methods  refers  to  supporting  people  and  enabling  high  performance 
+ through  coaching  and  mentoring,  learning  and  development,  supervision,  one-to-one 
+ meetings,  team  meetings,  workshops,  setting  an  example,  use  of  specialist  advice  and 
+ support. 
+ 3.4  Identify  tools  for 
+ implementing  and 
+ monitoring  change  Tools  may  include  but  are  not  limited  to  time  management  and  prioritisation 
+ techniques,  roadmaps,  flowcharts,  cultural  mapping,  process  maps,  readiness 
+ assessments,  Gantt  charts,  communication  and  project  plans,  IT  applications 
+ 3.5  Recommend 
+ approaches  to 
+ overcome  risks  and 
+ barriers  to  change  Risks  and  barriers  may  include  but  are  not  limited  to  organisational  (splinter 
+ groups,  logistical  barrier  e.g.  remote  working,  shift  work,  rising  costs,  changing 
+ priorities,  delay  tactics);  personal  (Kubler  Ross,  1960)  (hostility,  sense  of  loss, 
+ resistance  to  change,  depression,  refusal  to  engage). 
+ 3.6  Analyse  methods 
+ for  measuring  and 
+ monitoring  the  impact 
+ of  planned  change  Methods  may  include  but  are  not  limited  to  periodic  reporting,  surveys  and 
+ questionnaires,  interviews,  benchmarking  activities,  mystery  shopper,  scorecards, 
+ data  and  metrics,  audits,  targets,  workshops,  observation,  conversations. 
+ Level  5  Operational  Management  |  v02  30 
+ UNIT  553  -  OPERATIONAL  PLANNING 
+ Ofqual  unit  number  R/650/3613 
+ RQF  level  5 
+ Guided  learning  hours  22 
+ Total  unit  time  80 
+ Credits  8 
+ Aims  of  unit  The  ability  to  translate  organisational  objectives  into  operational  plans  is 
+ an  essential  management  skill.  The  unit  opens  with  the  importance  of 
+ understanding  the  strategic  direction  of  the  organisation  and  how  to 
+ contribute  to  the  strategic  planning  process.  It  then  focuses  on  the 
+ knowledge  and  skills  required  to  create  and  deliver  operational  plans. 
+ This  includes  the  need  to  set  key  performance  indicators,  monitor 
+ quality  and  outcomes  against  the  plan,  and  know  how  to  effectively 
+ report  on  findings. 
+ Keywords  Strategic  objectives,  operational  planning,  key  performance  indicators, 
+ continuous  improvement,  setting  targets,  contingency  planning, 
+ delivering  operational  plan,  time  management,  managing  resources, 
+ problem  solving,  decision  making,  monitoring  and  measuring  outcomes. 
+ Level  5  Operational  Management  |  v02  31 
+ UNIT  553  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  the  principles  of  operational  planning  in  an  organisation 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Assess  the 
+ relationship  between  an 
+ organisation’s  strategic 
+ objectives  and 
+ operational  planning  Relationship  refers  to  the  input  into  strategic  planning  and  may  include  but  is  not 
+ limited  to  the  vision,  mission,  aims  and  objectives  (also  known  as  the  Golden 
+ Thread),  values  and  ethics,  the  translation  of  strategic  goals  into  deliverables,  links 
+ between/roles  of  different  operational  areas.  K1 
+ 1.2  Evaluate  the  use  of 
+ approaches  to 
+ operational  planning  Approaches  refer  to  operational  business  planning  techniques  and  approaches 
+ including  managing  multiple  tasks,  resource  management,  setting  targets  and  key 
+ performance  indicators  (KPIs),  business  development  tools  e.g.  SWOT  and 
+ approaches  to  continuous  improvement  and  may  include  but  are  not  limited  to 
+ stakeholder  consultation,  cost  benefit  analysis,  risk  analysis,  contingency  planning, 
+ quality  (e.g.  LEAN  methods),  supply  chain  and  capacity  planning,  setting  SMART 
+ targets,  work  breakdown  structure,  Plan,  Do  Check  Act  (Deming,  c.1950s), 
+ Stakeholder  Management  (Freeman,  1984;  Eden  and  Ackerman,  1998).  K2 
+ Learning  Outcome  2 
+ Know  how  to  create  an  effective  operational  plan 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Assess  methods  of 
+ managing  and  leading 
+ the  delivery  of  an 
+ operational  plan  Methods  refer  to  effective  delegation  and  enabling  delivery  through  others,  using 
+ specialist  advice  and  support  to  deliver  against  plans,  managing  resources  (e.g. 
+ budget  allocation,  availability  and  quality  of  supplies,  supply  chain  management, 
+ reliability  of  equipment,  contingency  arrangements),  monitoring  performance 
+ against  plans,  use  of  time  management  and  prioritisation  techniques  and  tools  and 
+ may  include  but  are  not  limited  to  managing  multiple  tasks,  communication  of 
+ plans,  briefings,  learning  and  development  (including  development  for  licence  to 
+ practise),  coaching  mentoring  and  motivation  of  staff,  performance  management, 
+ management  of  virtual,  multiple  and  remote  teams.  K3 
+ K18 
+ 2.2  Review  techniques 
+ for  problem  solving  and 
+ decision  making  Techniques  refer  to  use  of  critical  analysis  and  evaluation  to  support  decision 
+ making  and  use  of  effective  problem  solving  techniques  and  may  include  but  are  not 
+ limited  to  Root  Cause  Analysis  (RCA),  Fishbone  Diagram  (Ishikawa,  c.1968), 
+ brainstorming,  mind  mapping,  action  planning,  Six  Thinking  Hats  (DeBono,  1986), 
+ Ladder  of  Inference  (Senge,  2006),  Rational  Decision-Making  (Kepner-Tregoe, 
+ 1965).  K19 
+ 2.3  Assess  the  ethical 
+ requirements  that 
+ influence  an  operational 
+ plan  Ethics  may  include  but  is  not  limited  to  code  of  conduct,  sustainability,  corporate 
+ social  responsibility,  organisational  values  and  culture,  equality  and  diversity.  K20 
+ Level  5  Operational  Management  |  v02  32 
+ Learning  Outcome  3 
+ Be  able  to  manage  and  lead  the  delivery  of  an  operational  plan 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Create  an 
+ operational  plan  in  line 
+ with  organisational 
+ objectives  Operational  plan  refers  to  operational  business  planning  techniques,  create  plans 
+ in  line  with  organisational  objectives,  setting  key  performance  indicators  (KPIs)  and 
+ SMART  targets,  (Ten-step  Target  Setting  Process,  Bourne  and  Franco-Santos,  2010), 
+ ability  to  demonstrate  commercial  awareness  and  identify  and  shape  new 
+ opportunities,  plan,  organise  and  manage  resources,  management  systems, 
+ processes  and  contingency  planning,  management  of  multiple  tasks,  monitoring 
+ performance  against  plans  and  development  of  sales  and  marketing  plans.  The  plan 
+ may  be  in  the  form  of  a  short,  medium,  long  term  or  interval  plan  and  may  include 
+ but  is  not  limited  to  aims,  relationship  to  organisational  objectives,  analysis  of  data, 
+ assessment  of  current  capability,  gap  analysis,  assessing  supply  and  resources 
+ (including  partner/supplier  arrangements),  risk  management,  budget  allocation, 
+ production  methods,  service  delivery,  use  of  specialist  advice,  communications  plan, 
+ implementation  and  review,  data  and  performance  measures,  conclusions  and 
+ recommendations.  S1 
+ S3 
+ S4 
+ S6 
+ S15 
+ S16 
+ B2 
+ B3 
+ B5 
+ Learning  Outcome  4 
+ Be  able  to  monitor  and  measure  the  outcome  of  operational  planning 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 4.1  Evaluate  methods 
+ used  to  monitor 
+ progress  and  measure 
+ the  outcomes  of 
+ operational  plans  Methods  refer  to  key  performance  indicators  (KPIs),  setting  targets  and  monitoring 
+ performance  against  plans,  continuous  improvement  cycle  (including  quality  audits 
+ and  quality  control),  input  into  strategic  planning,  produce  reports  and  provide 
+ management  information  based  on  the  collation,  analysis  and  interpretation  of  data 
+ (including  metrics  and  analytics)  and  may  include  but  are  not  limited  to 
+ quantitative  (e.g.  profitability,  contribution  to  overheads,  securing  future 
+ business/contracts,  repeat  business)  and  qualitative  (e.g.  reputation,  retention  and 
+ loyalty,  customer  and  employee  feedback,  satisfaction  levels,  ability  to  attract 
+ new/retain  customers/staff,  staff  performance,  achievement  of  awards  and 
+ accolades,  growth  and  innovation).  S1 
+ S5 
+ B1 
+ B4 
+ 4.2  Examine  the  impact 
+ of  legal  and 
+ organisational  factors 
+ on  an  operational  plan  Legal  may  include  but  is  not  limited  to  Health  and  Safety  at  Work  Act  1974, 
+ Consumer  Protection  Act  1987,  Data  Protection  Act  (2018),  General  Data  Protection 
+ Regulation  (GDPR)  2018,  Freedom  of  Information  Act  2000,  Sale  of  Goods  Act  1979, 
+ Equality  Act  2010,  Digital  Economy  Bill,  2016,  Working  Time  Directive,  1998, 
+ Safeguarding  Vulnerable  Groups  Act  (SVGA),  2006,  Communication  Act  2003  and 
+ industry  specific  regulations. 
+ Organisational  may  include  but  is  not  limited  to  performance  standards,  customer 
+ service  charters,  policies  and  procedures  for  human  resources,  health  and  safety, 
+ safety  and  security,  equality  and  diversity,  communication  and  data  protection, 
+ procurement,  risk  assessment,  LEAN  production,  quality  standards 
+ Level  5  Operational  Management  |  v02  33 
+ UNIT  554  -  PERSONAL  AND  PROFESSIONAL 
+ DEVELOPMENT 
+ Ofqual  unit  number  Y/650/3615 
+ RQF  level  5 
+ Guided  learning 
+ hours  16 
+ Total  unit  time  60 
+ Credits  6 
+ Aims  of  unit  Reflective  practice  is  an  essential  management  tool  which  supports  the 
+ development  of  knowledge,  skills  and  behaviours  in  the  workplace.  By 
+ consciously  analysing  own  performance,  decision  making,  leadership  and 
+ management  skills  (in  different  situational  contexts);  opportunities  for 
+ on-going  development  can  be  identified.  The  aim  of  the  unit  is  to  equip 
+ learners  with  understanding  of  the  value  of  reflective  practice,  and  enable 
+ them  to  evidence  how  reflection  can  be  used  as  the  basis  of  a  meaningful 
+ and  ongoing  personal  and  professional  development  plan. 
+ Keywords  Professional  development,  reflection,  continuous,  performance,  working 
+ style,  opportunities,  planning,  professional  practice,  currency  of  practice, 
+ licence  to  practise,  development  needs,  learning  and  development. 
+ Level  5  Operational  Management  |  v02  34 
+ UNIT  554  -  LEARNING  OUTCOMES  &  ASSESSMENT  CRITERIA 
+ Learning  Outcome  1 
+ Understand  the  value  of  reflective  practice  to  inform  personal  and  professional  development 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 1.1  Analyse  the 
+ importance  of 
+ continuous  personal 
+ and  professional 
+ development  in 
+ achieving  organisational 
+ objectives  Continuous  may  include  but  is  not  limited  to  life-long  learning,  maintaining  current 
+ skills  and  knowledge,  effectiveness,  impact,  achievement. 
+ Personal  knowledge  and  skills  that  may  not  relate  to  a  current  or  future  work  role  e.g. 
+ learning  a  language,  mindfulness,  fitness  and  sport. 
+ Professional  may  include  but  are  not  limited  to  knowledge  and  skills  that  directly 
+ relate  to  a  current  or  future  work  role  e.g.  a  job-related  qualification,  professional 
+ membership  or  status,  on  job  training  (Pedler, 
+ Burgoyne,  Boydell  (2007),  Mullins  (2013),  Torrington  et  al  (2008)).  K17 
+ B1 
+ B4 
+ 1.2  Evaluate  the  use  of 
+ reflective  practice  in 
+ personal  and 
+ professional 
+ development  Reflective  practice  may  include  but  is  not  limited  to  self-management,  develop 
+ insights,  reflexivity,  decision  making  in  different  situational  contexts,  critical  reflection 
+ to  assess  skills,  competencies,  behaviours  of  professionalism,  self-awareness,  resilience, 
+ Emotional  Intelligence  (Goleman,  1995). 
+ 1.3  Evaluate  approaches 
+ to  reflective  practice  Approaches  may  include  but  are  not  limited  to  learning  cycle,  deep  and  surface 
+ learning,  appraisal  including  self  and  peer  review,  360  degree  feedback,  methods  of 
+ setting  goals  and  reviewing  progress,  group  and  individual  learning,  (Model  of 
+ Structured  Reflection,  Johns,  1994),  Reflective  Cycle  (Gibbs,  1995),  Learning  Cycle 
+ (Kolb,  1984). 
+ Learning  Outcome  2 
+ Be  able  to  apply  reflective  practice  to  inform  personal  and  professional  development 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 2.1  Evaluate  own 
+ performance  in  the 
+ workplace  using 
+ principles  of  reflection  Own  performance  refers  to 
+ current  knowledge,  skills  and  behaviours  against  role  requirement  (current  or  future 
+ role)  and/or  against  short,  medium  and  long  term  requirements  of  the  role, 
+ organisational  objectives  and  professional  standards  (CMI  Management  Diagnostics)  S19 
+ B3 
+ B4 
+ B5 
+ 2.2  Reflect  on  own 
+ working  style  and  its 
+ impact  on  others  in  the 
+ workplace  Working  style  may  also  include  but  is  not  limited  to  Team  Roles  (Belbin,  1981),  Type 
+ Indicator  (Myers  Brigg,  1943),  Transactional  Analysis  (Berne,  c.1950),  Drivers  (Kasozi 
+ and  Dehaan,  2014),  Co-worker  relationships  (McIntyre,  2011),  behavioural  profiling 
+ and  assessments  e.g.  DISC  (Tate,  2014),  Team  Wheel  (Margerison  and  McCann,  1989). 
+ Level  5  Operational  Management  |  v02  35 
+ Learning  Outcome  3 
+ Be  able  to  create  an  informed  personal  and  professional  development  plan 
+ Assessment  Criteria  Indicative  Content  KSB 
+ 3.1  Analyse 
+ development  needs  for 
+ current  and  future  roles  Development  needs  refer  to  knowledge,  skills  and  behaviours. 
+ Analysis  refers  to  conducting  a  skills  gap  analysis  against  short,  medium  and  long  term 
+ skills  needed  and  professional  standards  S20 
+ B1 
+ B2 
+ B4 
+ B5 
+ 3.2  Examine 
+ development 
+ opportunities  to  meet 
+ short,  medium  and  long 
+ term  objectives  Development  opportunities  refer  to  learning  styles  and  may  include  but  are  not 
+ limited  to  formal  and  informal,  social  and  collaborative  learning,  on  the  job  and  off  the 
+ job,  face  to  face,  blended  or  online  learning,  coaching  and  mentoring. 
+ 3.3  Create  a  personal 
+ development  plan  with 
+ measurable  objectives  Personal  development  plan  refers  to  short,  medium  and  long  term  time  bound 
+ objectives,  SMART  objectives,  development  needs,  resources,  support,  development 
+ opportunities,  review  and  evaluation  methods. 
+ Level  5  Operational  Management  |  v02  36 
+ ANNEX  1  -  COMMAND  VERB  DEFINITIONS 
+ Command 
+ Verb  Definition 
+ Analyse  Break  the  subject  or  complex  situation(s)  into  separate  parts  and  examine  each 
+ part  in  detail;  identify  the  main  issues  and  show  how  the  main  ideas  are  related  to 
+ practice  and  why  they  are  important.  Reference  to  current  research  or  theory  may 
+ support  the  analysis. 
+ Apply  To  bring  or  put  into  operation  a  theory,  concept  or  process  to  achieve  an  outcome 
+ Appraise  Assess,  estimate  the  worth,  value,  quality,  performance.  Consider  carefully  to  form 
+ an  opinion. 
+ Articulate  Express  or  clearly  state  your  understanding  of  the  topic. 
+ Assess  Provide  a  reasoned  judgement  or  rationale  of  the  standard,  quality,  value  or 
+ importance  of  something,  informed  by  relevant  facts/rationale. 
+ Comment  Identify  and  write  about  the  main  issues,  express  an  opinion,  giving  reaction  to 
+ what  has  been  read/observed. 
+ Compare  Review  the  subject(s)  in  detail  –  looking  at  similarities  and  differences. 
+ Complete  Ensure  something  is  finished  with  all  of  its  parts. 
+ Conceptualise  Create  a  diagram,  model,  chart  or  graphic  with  annotations,  providing  a  holistic 
+ overview  of  the  process. 
+ Conduct  Organise  and  perform  a  particular  activity. 
+ Construct  To  create  or  build  something  original. 
+ Consider  Take  (something)  into  account  (for  example,  different  ideas,  perspectives, 
+ theories,  evidence)  when  making  a  judgement. 
+ Construct  To  create  or  build  something  original. 
+ Create  Originate  or  produce  a  solution  to  a  problem. 
+ Critically 
+ Appraise  As  with  appraise,  a  systematic  process  used  to  identify  the  strengths  and 
+ weaknesses  of  information  in  order  to  assess  the  usefulness  and  validity. 
+ Critically 
+ Assess  As  with  assess,  but  emphasising  on  judgments  made  about  arguments  by  others, 
+ and  about  what  is  being  assessed  from  a  different  perspective.  Making  a 
+ reasoned  argument,  based  on  judgments.  Criticality  requires  the  consideration  of 
+ the  validity  of  sources  used.  Critical  assessment  not  only  considers  the  evidence 
+ above  but  also  the  strength  of  the  evidence  based  on  the  validity  of  the  method  of 
+ evidence  compilation. 
+ Level  5  Operational  Management  |  v02  37 
+ Critically 
+ Analyse  As  with  analyse,  but  questioning  and  testing  the  strength  of  a  person  and/or 
+ others’  analyses  from  different  perspectives.  Using  the  process  of  analysis  to 
+ make  an  objective  and  reasoned  argument.  Criticality  requires  the  consideration 
+ of  the  validity  of  sources  used.  Critical  analysis  not  only  considers  the  evidence 
+ above  but  also  the  strength  of  the  evidence  based  on  the  validity  of  the  method  of 
+ evidence  compilation. 
+ Critically 
+ Discuss  As  with  discuss,  but  evaluating  the  pros  and  cons  of  the  subject  in  hand  critically. 
+ Discussing  all  the  aspects  and  dimensions  of  the  topic  in  hand.  Discussing  the 
+ effects  and  impacts  of  the  topic.  Critical  discussion  not  only  considers  the 
+ evidence  above  but  also  the  strength  of  the  evidence  based  on  the  validity  of  the 
+ method  of  evidence  compilation 
+ Critically 
+ Evaluate  Consider  the  strengths  and  weaknesses,  arguments  for  and  against  and/or 
+ similarities  and  differences.  The  writer  should  then  judge  the  evidence  from  the 
+ different  perspectives  and  make  a  valid  conclusion  or  reasoned  judgement.  Apply 
+ current  research  or  theories  to  support  the  evaluation  when  applicable. 
+ Critical  evaluation  not  only  considers  the  evidence  above  but  also  the  strength  of 
+ the  evidence  based  on  the  validity  of  the  method  of  evidence  compilation. 
+ Critically 
+ Reflect  As  with  reflect,  but  identifying,  questioning,  and  assessing  deeply-held  beliefs  and 
+ assumptions  about  a  topic,  the  way  in  which  we  perceive  events  and  issues, 
+ beliefs,  feelings,  and  actions. 
+ Critically  Typically  used  to  qualify  verbs  such  as  evaluate,  assess,  appraise,  analyse  and 
+ reflect.  Give  in-depth  insight,  opinion,  debate,  verdict  based  on  a  wide  variety  of 
+ sources,  theory,  research  which  may  agree  and  contradict  an  argument. 
+ Critique  A  detailed  analysis  and  assessment  of  something,  especially  a  literary, 
+ philosophical,  or  political  theory. 
+ Define  Show  or  state  clearly  and  accurately. 
+ Describe  Provide  an  extended  range  of  detailed  factual  information  about  the  topic  or  item 
+ in  a  logical  way. 
+ Deliver  Ensure  something  is  conveyed  or  done  with  stakeholders/clients. 
+ Demonstrate  Complete  a  task  or  activity,  showing  an  understanding  of  facts,  procedures  and 
+ ideas  of  a  topic  and  competence  through  action  or  activity. 
+ Determine  Settle/conclude  an  argument/question  as  a  result  of  investigation  or  by  referring  to 
+ an  authority. 
+ Develop  Elaborate,  expand  or  progress  an  idea  from  a  starting  point  building  upon  given 
+ information. 
+ Differentiate  Recognise  or  ascertain  a  difference  to  identify  what  makes  something  different. 
+ Discuss  Give  a  detailed  account  including  a  range  of  views  or  opinions,  which  include 
+ contrasting  perspectives. 
+ Distinguish  Draw  or  make  distinction  between. 
+ Draw  Present  a  conclusion  or  decision  about  what  is  likely  to  happen  based  on  facts. 
+ Establish  Discover,  prove  or  show  something  to  be  true  or  valid  by  determining  the  facts. 
+ Level  5  Operational  Management  |  v02  38 
+ Evaluate  Consider  the  strengths  and  weaknesses,  arguments  for  and  against  and/or 
+ similarities  and  differences.  The  writer  should  then  judge  the  evidence  from  the 
+ different  perspectives  and  make  a  valid  conclusion  or  reasoned  judgement.  Apply 
+ current  research  or  theories  to  support  the  evaluation  when  applicable. 
+ Examine  Inspect  (something)  thoroughly  in  order  to  determine  its  nature  or  condition. 
+ Explain  Make  something  clear  to  someone  by  describing  or  revealing  relevant  information 
+ in  more  detail. 
+ Explore  Go  through  the  topic/issue  thoroughly  looking  at  all  areas  that  affect  the 
+ topic/issue. 
+ Formulate  To  devise  or  develop  an  idea  or  concept  in  a  concise  and  systematic  way. 
+ Identify  Ascertain  the  origin,  nature  or  definitive  characteristics  of  something. 
+ Interpet  To  clarify/explain  the  meaning  of  something. 
+ Investigate  Carry  out  a  systematic  or  formal  inquiry  to  discover  and  examine  the  facts  of 
+ (problem,  options,  incident,  allegation  etc)  so  as  to  establish  the  truth. 
+ Justify  Provide  a  rationale  for  actions  and/or  decisions.  Your  rationale  should  be 
+ underpinned  by  research,  academic  theory,  data  analysis  or  experience. 
+ Outline  A  general  description/broad  account/summary  of  something  showing  essential 
+ features/outline  the  case  briefly  but  not  the  detail. 
+ Plan  Make  a  plan  for  example,  a  change  plan  or  a  project  plan,  before  starting  activities 
+ to  achieve  an  aim. 
+ Prepare  To  make  or  develop  something  ready  which  will  happen  in  the  future. 
+ Present/ 
+ Presentation  Learners  may  present  to  an  audience  of  stakeholders  the  outcomes  of  their 
+ studies.  A  recording  of  the  presentation,  speaker  notes  and/or  slides  may  be  used 
+ to  provide  evidence  that  a  Learner  has  the  requirements  of  the  unit  assessment 
+ criteria. 
+ Produce  To  make,  create  or  form  something.  Put  together,  assemble.  leads  to  an 
+ outcome/result. 
+ Profile  An  outline  giving  a  description  of  a  role  or  organisation 
+ Propose  To  put  forward  a  plan  or  suggestion  for  consideration  by  others 
+ Recommend  Put  forward  proposals,  an  alternative  or  suggestion(s)  supported  by  a  clear 
+ rationale  appropriate  to  the  situation/context. 
+ Reflect  Consciously  contemplate,  appraise  or  give  balanced  consideration  to  an  action  or 
+ issue. 
+ Report  A  structured  document  communicated  or  presented  in  an  oral  or  written  form  and 
+ organised  in  a  narrative,  graphic  or  tabular  form  referring  to  a  specific  period, 
+ event  or  topic  area. 
+ Research  A  detailed  study  or  investigation  of  a  subject  in  order  to  establish  facts  and  reach 
+ new  conclusions. 
+ Review  To  examine,  survey,  reconsider  a  subject,  theory  or  item. 
+ Level  5  Operational  Management  |  v02  39 
+ Specify  Identify  or  state  a  fact  or  requirement  clearly  and  precisely  in  detail. 
+ Summarise  Sum  up  or  give  a  brief  account  of  relevant  information  in  your  own  words. 
+ Use  The  action  of  using  something  for  a  particular  purpose. 
+ Level  5  Operational  Management  |  v02  40 
+ ANNEX  2  -  ASSESSMENT  ACTIVITY  DEFINITIONS 
+ Activity 
+ Definition  Activity  Definition 
+ Briefing  paper  A  summary  of  facts  pertaining  to  a  particular  issue  or  problem.  Often  includes  a 
+ suggested  course  of  action. 
+ Business  case  A  formal  document,  presented  in  an  oral  or  written  format,  which  provides 
+ justification  for  an  idea  or  project  to  address  an  identified  business  need  or 
+ challenge. 
+ Case  Study  A  description  of  an  event,  activity  or  problem  outlining  a  real  or  hypothetical 
+ situation. 
+ Good  practice 
+ guide  A  structured  document  produced  with  the  purpose  of  supporting  individuals  to 
+ develop  their  practice  in  a  particular  area. 
+ Plan  A  detailed  outline  providing  an  insight  into  a  range  of  activities  required  to 
+ complete  a  task. 
+ Profile  An  outline  giving  a  description  of  a  role  or  organisation 
+ Proposal  A  formal  document,  presented  in  an  oral  or  written  format,  which  puts  forward 
+ ideas  or  suggestions  for  consideration  by  others. 
+ Reflective 
+ Statement  Learners  describe  their  actions  in  particular  situations  and  reflect  on  the  reasons 
+ for  practicing  in  that  way.  This  is  particularly  useful  to  provide  evidence  that  they 
+ can  evaluate  their  knowledge  and  practice. 
+ Report  A  structured  document  communicated  or  presented  in  an  oral  or  written  form  and 
+ organised  in  a  narrative,  graphic  or  tabular  form  referring  to  a  specific  period, 
+ event  or  topic  area. 
+ Research 
+ project  report  A  formal,  written  document,  organised  in  a  narrative,  graphic  or  tabular  form 
+ presenting  findings  and  recommendations. 
+ Scenario  A  written  outline  or  a  situation  or  setting,  providing  insight  into  a  sequence  of 
+ events  or  actions. 
+ Written  account  A  written  document  presenting  knowledge  of  facts  or  event 
+ Work  Based 
+ Evidence  An  activity  from  within  the  workplace  that  is  used  by  the  Learner  to  evidence 
+ and/or  demonstrate  competence  and  understanding 
+ Level  5  Operational  Management  |  v02  41 
+ ANNEX  3  -  ALIGNMENT  TO  OCCUPATIONAL  STANDARD 
+ This  qualification  is  aligned  to  the  occupational  standard  for  Operational  or  Departmental  Manager  (ST0385).  The  below  table  indicates  where 
+ Knowledge,  Skills  and  Behaviours  are  aligned  within  units  in  this  qualification.  Please  see  the  unit  specifications  for  further  information. 
+ Level  5  Operational  Management  |  v02  42  KSB  KSB  Statement  549  550  551  552  553  554 
+ Knowledge 
+ K1  Understand  operational  management  approaches  and  models,  including  creating  plans  to 
+ deliver  objectives  and  setting  KPIs.  ✓  ✓ 
+ K2  Understand  business  development  tools  (eg  SWOT),  and  approaches  to  continuous 
+ improvement.  ✓ 
+ K3  Understand  operational  business  planning  techniques,  including  how  to  manage  resources, 
+ development  of  sales  and  marketing  plans,  setting  targets  and  monitoring  performance. 
+ Knowledge  of  management  systems,  processes  and  contingency  planning.  ✓ 
+ K4  Understand  how  to  initiate  and  manage  change  by  identifying  barriers  and  know  how  to 
+ overcome  them.  ✓ 
+ K5  Understand  data  security  and  management,  and  the  effective  use  of  technology  in  an 
+ organisation.  ✓ 
+ K6  Know  how  to  set  up  and  manage  a  project  using  relevant  tools  and  techniques,  and 
+ understand  process  management.  ✓ 
+ K7  Understand  approaches  to  risk  management.  ✓ 
+ K8  Understand  business  finance:  how  to  manage  budgets,  and  financial  forecasting.  ✓ 
+ K9  Understand  different  leadership  styles,  how  to  lead  multiple  and  remote  teams  and  manage 
+ team  leaders.  ✓ 
+ K10  Know  how  to  motivate  and  improve  performance,  supporting  people  using  coaching  and 
+ mentoring  approaches.  ✓ 
+ K11  Understand  organisational  cultures  and  diversity  and  their  impact  on  leading  and  managing 
+ change.  Know  how  to  delegate  effectively.  ✓ 
+ Level  5  Operational  Management  |  v02  43  K12  Know  how  to  manage  multiple  teams,  and  develop  high  performing  teams.  Understand 
+ performance  management  techniques,  talent  management  models  and  how  to  recruit  and 
+ develop  people.  ✓ 
+ K13  Understand  approaches  to  partner,  stakeholder  and  supplier  relationship  management 
+ including  negotiation,  influencing,  and  effective  networking.  ✓ 
+ K14  Knowledge  of  collaborative  working  techniques  to  enable  delivery  through  others  and  how 
+ to  share  best  practice.  ✓ 
+ K15  Know  how  to  manage  conflict  at  all  levels.  ✓ 
+ K16  Understand  interpersonal  skills  and  different  forms  of  communication  and  techniques 
+ (verbal,  written,  non-verbal,  digital)  and  how  to  apply  them  appropriately.  ✓ 
+ K17  Understand  your  own  impact  and  emotional  intelligence.  Understand  different  learning  and 
+ behaviour  styles.  ✓ 
+ K18  Understand  time  management  techniques  and  tools,  and  how  to  prioritise  activities  and  the 
+ use  of  different  approaches  to  planning,  including  managing  multiple  tasks.  ✓ 
+ K19  Understand  problem  solving  and  decision  making  techniques,  including  data  analysis.  ✓ 
+ K20  Understand  organisational  values  and  ethics  and  their  impact  on  decision  making.  ✓  ✓ 
+ Skills 
+ S1  Able  to  input  into  strategic  planning  and  create  plans  in  line  with  organisational  objectives.  ✓ 
+ S2  Support,  manage  and  communicate  change  by  identifying  barriers  and  overcoming  them.  ✓ 
+ S3  Demonstrate  commercial  awareness,  and  be  able  to  identify  and  shape  new  opportunities.  ✓  ✓ 
+ S4  Creation  and  delivery  of  operational  plans,  including  setting  KPIs,  monitoring  performance 
+ against  plans.  ✓ 
+ S5  Producing  reports,  providing  management  information  based  on  the  collation,  analysis  and 
+ interpretation  of  data.  ✓  ✓ 
+ S6  Plan,  organise  and  manage  resources  to  deliver  required  outcomes.  ✓  ✓ 
+ S7  Monitor  progress,  and  identify  risk  and  their  mitigation.  Able  to  use  relevant  project 
+ management  tools.  ✓ 
+ Level  5  Operational  Management  |  v02  44  S8  Able  to  monitor  budgets  and  provide  reports,  and  consider  financial  implications  of  decisions 
+ and  adjust  approach  and  recommendations  accordingly.  ✓ 
+ S9  Able  to  communicate  organisational  vision  and  goals  and  how  these  apply  to  teams.  ✓  ✓ 
+ S10  Support  development  through  coaching  and  mentoring,  and  enable  and  support  high 
+ performance  working.  ✓ 
+ S11  Able  to  support  the  management  of  change  within  the  organisation.  ✓ 
+ S12  Able  to  manage  talent  and  performance.  Develop,  build  and  motivate  teams  by  identifying 
+ their  strengths  and  enabling  development  within  the  workplace.  Able  to  delegate  and  enable 
+ delivery  though  others.  ✓ 
+ S13  Able  to  build  trust,  and  use  effective  negotiation  and  influencing  skills  and  manage  conflict.  ✓ 
+ S14  Able  to  identify  and  share  good  practice,  and  work  collaboratively  with  others  both  inside  and 
+ outside  of  the  organisation.  ✓  ✓ 
+ S15  Use  of  specialist  advice  and  support  to  deliver  against  plans.  ✓  ✓ 
+ S16  Able  to  communicate  effectively  (verbal,  non-verbal,  written,  digital)  and  be  flexible  in 
+ communication  style.  ✓  ✓ 
+ S17/  Able  to  chair  meetings  and  present  using  a  range  of  media.  ✓  ✓ 
+ S18/  Use  of  active  listening,  and  able  to  challenge  and  give  constructive  feedback.  ✓ 
+ S19  Able  to  reflect  on  own  performance,  working  style  and  its  impact  on  others.  ✓ 
+ S20  Able  to  create  a  personal  development  plan.  ✓ 
+ S21  Use  of  time  management  and  prioritisation  techniques.  ✓  ✓ 
+ S22  Able  to  undertake  critical  analysis  and  evaluation  to  support  decision  making.  Use  of  effective 
+ problem  solving  techniques.  ✓ 
+ Behaviours 
+ B1  Drive  to  achieve  in  all  aspects  of  work.  Demonstrates  resilience  and  accountability.  ✓  ✓  ✓  ✓ 
+ B2  Determination  when  managing  difficult  situations.  Seeks  new  opportunities.  ✓  ✓  ✓  ✓  ✓ 
+ B3  Open,  approachable,  authentic,  and  able  to  build  trust  with  others.  Seeks  the  views  of  others  ✓  ✓  ✓  ✓  ✓ 
+ Level  5  Operational  Management  |  v02  45  and  values  diversity. 
+ B4  Flexible  to  the  needs  of  the  organisation.  Is  creative,  innovative  and  enterprising  when  seeking 
+ solutions  to  business  needs.  Positive  and  adaptable,  responding  well  to  feedback  and  need  for 
+ change.  Open  to  new  ways  of  working.  ✓  ✓  ✓  ✓  ✓ 
+ B5  Sets  an  example,  and  is  fair,  consistent  and  impartial.  Open  and  honest.  Operates  within 
+ organisational  values  ✓  ✓  ✓  ✓  ✓ 
+ ANNEX  4  -  REVISIONS  TO  DOCUMENT 
+ The  below  table  summarises  any  revisions  made  to  this  document  since  publication. 
+ Revisions  to 
+ Document  Rational  for  Revision  Document 
+ Version  Date 
+ Revisions 
+ Made 
+ First  Publication  Version  1  Mar  2024 
+ Assessment 
+ section  updated  Final  assessments  signed  off,  information 
+ added  to  syllabus  Version  2  Sept  2024 
+ Level  5  Operational  Management  |  v02  46 
