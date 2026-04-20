@@ -1,0 +1,34 @@
+name: Regenerate Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'interrogation-materials/**'
+      - '.github/workflows/regenerate-index.yml'
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Regenerate index.html
+        run: node scripts/generate-index.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-regenerate index.html" && git push)
