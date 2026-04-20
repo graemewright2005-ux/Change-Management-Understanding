@@ -78,7 +78,7 @@ function generateHTML(assignments, rootMaterials) {
                         <span class="section-title">${folder}</span>
                         <ul class="file-list" aria-label="Files in ${folder}">
                             <li class="file-item">
-                                <a href="${basePath}/Assignment ${a.number} - ${a.code}/${folder}" class="file-link" target="_blank" rel="noopener noreferrer">
+                                <a href="https://github.com/${repoUser}/${repoName}/tree/${branch}/interrogation-materials/Assignment ${a.number} - ${a.code}/${folder}" class="file-link" target="_blank" rel="noopener noreferrer">
                                     <span class="icon" aria-hidden="true">📂</span>
                                     ${folder}
                                 </a>
