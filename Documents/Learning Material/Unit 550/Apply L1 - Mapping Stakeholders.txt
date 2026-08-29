@@ -1,0 +1,24 @@
+Exercise 1 - Power vs Interest Matrix
+
+HighDigital Champions
+Academic Staff
+StudentsQuality Assurance Teams
+Senior Leaders
+Head of Digital Education
+IT Services
+Curriculum ManagersInterest External Training Providers
+Employers
+ Awarding Bodies
+Digital Service Providers
+Jisc
+Government bodies – DfE / Department for Skills
+Inspecting bodies - OfstedLowPowerHigh
+Stakeholder NamePrimary/SecondaryHow this stakeholder impacts the achievement of the organisation’s objectivesHow the organisation impacts the stakeholder Weston College Employees - 
+Academic StaffInternal, PrimaryAcademic staff are essential for implementing any new or existing digital learning strategies that come from the Digital Education Team. They are also essential in embracing new or existing technologies to improve the quality of teaching and learning.My role as Digital Coach provides training and support to enhance their teaching practices and professional development. This includes coaching, mentoring, supporting teams and classes, and challenging new practices through the use of digital tools in learning.StudentsPrimaryStudents are the end-users of digital education initiatives. Their experiences in learning at Weston College, particularly in how they engage with digital learning practices, along with their feedback, helps shape the success of current and future digital strategies.I deliver training for staff on how to implement digital learning experiences, platforms, and strategies into the curriculum design. My wider team work with support services to improve student outcomes and satisfaction.Head of Digital EducationPrimaryThe Head of Digital Education provides strategic direction and leadership on digital learning initiatives, carefully aligning them with Weston College goals. This role must carefully weigh the impacts of external stakeholders including the DfE, Jisc, Ofsted, and other organisations that impact on the direct of the digital learning road map. They are also impacted on the leadership of the College and their values, culture, and goals.Assistant Principal roles support the Head of Digital Education in developing strategy and initiatives. Other stakeholders, such as the Digital Coach, Developers, and Technologists support through project delivery, innovation, and feedback on the success of projects and how they have been implemented.Senior Leadership TeamPrimaryThey will set the direction for the College, including priorities and allocating resources. This will impact on the scope and breadth of impact digital transformation can have on quality improvements in Teaching Learning and Assessment.Senior Leadership will receive data, reports, and strategic input from wide set of stakeholders, including the Digital Education Team, to inform decision-making.Digital Learning Service Providers (e.g. Jisc, Microsoft, Google)SecondaryThis group of stakeholders provide platforms, tools, and consultancy that enable digital learning, guide policy and initiatives, and infrastructure development.They engage with providers to pilot, implement, and evaluate digital solutions for teaching and learning so that Colleges don’t have to. In essence, they do the testing, analyse the risk, and report to FE & HE Institutions on digital solutions.Awarding Bodies (e.g. Pearson, City & Guilds)SecondaryAwarding bodies set the curriculum standards and assessment criteria. These influence the scope and reach of digital content and delivery within specific subjects.Awarding bodies must still remain conscious to changes in the digital landscape, particularly in terms of skills and modern learning. 
+
+All resources and delivery Weston College provides must align to the digital learning resources and assessments expectations set by the awarding body requirements.IT ServicesPrimaryAlthough not directly responsible for digital learning within Weston College, IT Services support the technical infrastructure that is required for digital learning platforms and tools to work. They are also responsible for the cyber security of the college data and people.Senior Leaders, the Digital Education Team, and others within the College, collaborate with IT to ensure systems are functional, secure, and meet educational needs.External Partners and EmployersSecondaryThis group provide feedback on the digital skills required in the workplace.The Head of Digital Education and Head of Learning Technologists will engage with partners to align digital education with employability and industry standards.
+
+
+
+Unit 502 - Lesson 11Apply Exercise 1© Mindful Education Ltd
+
