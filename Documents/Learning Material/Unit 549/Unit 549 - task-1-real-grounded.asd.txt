@@ -1,0 +1,371 @@
+# CMI HTQ Unit 549: TASK 1 – FINAL DRAFT
+## Approaches to Developing, Managing and Leading Different Teams
+
+---
+
+## INTRODUCTION
+
+I need to be honest about what this role has taught me so far. I came in thinking I understood leadership from my years as a teacher and subject lead. I thought I'd arrive with a framework, engage people, and things would move. The reality has been messier and more interesting than that.
+
+In my first two months (February to March 2026), I met with 26 Heads of Area across 34 curriculum areas. I wasn't there to tell them what to do. I was there to understand where they actually were with digital practice, what the barriers were, and what was already working. Those conversations changed how I think about leadership entirely.
+
+This report evaluates leadership styles against what I've actually experienced in those conversations and the work that's followed. It's not theoretical. It's grounded in what happened when I met with Sean and Gina in Digital Computing, when Andreas from Engineering didn't show up, when Dale Bond from Health was rated 5 (Urgent) but was actually incredibly engaged, and when Alexia from ESOL named infrastructure as a blocker I couldn't solve alone.
+
+The real leadership challenge I'm navigating is this: I have no authority, I work across 34 distinct areas with competing priorities, and I'm trying to help people choose engagement with digital development when they're managing Ofsted prep, staffing changes, and curriculum reviews all at the same time.
+
+---
+
+## AC 1.1 – EVALUATE LEADERSHIP STYLES AND THEORETICAL MODELS
+
+### What I Expected Versus What Actually Happened
+
+When I started, I thought I'd use a coaching model: ask questions, help people reflect, support them to find solutions. That would work for the autonomous professionals I'd be meeting.
+
+What I discovered in the conversations is that "autonomous professionals" is accurate but incomplete. Yes, these Heads of Area are experienced, knowledgeable, and often already doing sophisticated digital work. But they're also managing resource constraints, staffing crises, and competing institutional demands that have nothing to do with their competence.
+
+**A concrete example:** Dale Bond from Health was RAG-rated as 5 (Urgent) in my initial assessment. That's the highest intervention level. When I met with him, I was ready to deliver intensive coaching. What I found was different. He understood digital inclusion completely. He'd identified himself as the Digital Lead. He had training already planned. But his area had experienced significant staffing pressures. The "Urgent" rating wasn't about capability or motivation. It was about capacity and immediate competing demands.
+
+This taught me that Hersey and Blanchard's Situational Leadership (1997) — which says you match your style to someone's current development level — doesn't capture what's actually happening. The model assumes low engagement means low skill. But in further education, low engagement often means high pressure elsewhere.
+
+**Another example:** Andreas from Engineering declined our initial meeting. I had to navigate how to interpret that. Was he disengaged? Was he resistant? Or was he simply managing a workload crisis that made a meeting feel like an extra imposition? Later conversations suggested the latter. Andreas was in a period of significant instability in his team. By the time I met with Thanos (also Engineering, but general rather than motor vehicle), that team had clarity, and he was completely engaged.
+
+### Distributed Leadership: What Actually Works
+
+Spillane's distributed leadership model (2006) started making sense to me through these conversations. He argues that leadership is enacted through relationships and shared frameworks, not through individual authority.
+
+This is exactly what I've been trying to do, and it's working better than I expected.
+
+**Here's the mechanism I've discovered:**
+
+When I meet with a Head of Area, I don't arrive with a plan for them. I arrive with a framework (the Digital Learning Pyramid: Foundations ? Inclusion ? Innovation) and a genuine question: "Where do you sit on this? What's already working? Where are the gaps?"
+
+The impact of this is significant. People assess themselves. They own the diagnosis. They can see their area in the framework without feeling judged.
+
+Chrissandra from Arts, Graphics & Fashion (AGF) immediately said: "We're at 3 — foundations are there, but inclusion and innovation need work." That's her analysis, not mine. And it shaped what came next: we talked about how to build accessibility into her team's practice, not as a compliance exercise but as pedagogy.
+
+Sean and Gina from Digital Computing rated themselves as 1 (Confident) on foundations. But when I asked what innovation might look like, they invited me to come and see their practice. They didn't need direction. They needed a thinking partner to explore "what comes next?"
+
+**The framework matters because it creates shared language.** Jenna and Maria from Sixth Form / Hair, Beauty & Hospitality could immediately locate themselves. They're teaching digital skills — portfolios, social media, CV building — as part of industry-relevant practice. The framework helped them see that's exactly what Digital Inclusion (level 2) looks like.
+
+**But here's what distributed leadership also required:** I had to let go of a single prescription. Not every area looks the same at each level. Libby from English is working on Century diagnostic tracking. Felix from Motor Vehicle is exploring Copilot and Excel analytics. They're solving different problems with different tools. They're at the same level (around 2-3) but taking different paths. The framework allows that. A directive model wouldn't.
+
+Spillane notes that distributed leadership works when there's clarity of purpose and access to shared understanding. The Pyramid is that shared understanding. But I had to build it carefully. It's not something I imposed. It emerged from conversations with Emily Green (TLA Manager), Lois Knight (SEND specialist), and the HoAs themselves.
+
+### Coaching-Based Leadership: The Conversational Reality
+
+Aguilar (2016) describes coaching as being a thinking partner. You ask questions, reflect back what you hear, and help people find their own solutions.
+
+This is what's happening in meetings, but it's messier than the model suggests.
+
+When I met with Felix from Motor Vehicle, we didn't follow a clean coaching cycle. We talked about Forms, Copilot, Excel analytics, SMART ASSESSOR integration, and EHCPs — all in one conversation. He was bringing practical problems (how to integrate student work folders with SMART ASSESSOR without manual downloads), and I was helping him think through whether technology could solve it.
+
+That's coaching, but it's also collaborative problem-solving. It's not me asking him to discover the answer. It's us working together to understand the question.
+
+**Where pure coaching has limits:** When John Fowler from Construction Training Centre asked me how to manage Teams ownership and permissions, he needed information more than he needed to discover it himself. I provided it. Then we talked about how he'd audit his area against that standard. That sequence — information, then reflection — is different from pure coaching. But it works.
+
+**What I've learned about coaching in this context:** Autonomous professionals often already know what good looks like. They need:
+- Validation that what they're doing matters
+- Frameworks to systematise good practice
+- Sometimes, practical information (how to do something technically)
+- Thinking partnership when they're trying to solve problems
+
+Becky from SEND/SENCO (SKB) was already engaged and keen. She didn't need me to help her discover motivation. She needed me to provide tools (the Digital Health Check Form) and positions her to extend that work across her area (identifying peer Digital Leads).
+
+### Emotional Intelligence: Reading the Subtext
+
+Goleman's emotional intelligence framework (1995) talks about leaders being attuned to what's actually going on beneath the surface.
+
+This became crucial when I interpreted what "no show" or "declined" meant.
+
+Andreas's initial decline for a meeting wasn't resistance to digital development. It was likely a sign that his area was in crisis. When I eventually connected with Thanos from the same broad area, it was a completely different conversation. By that point, their team structure was clearer.
+
+**Impact:** I didn't interpret silence or decline as disengagement. I interpreted it as a signal that now wasn't the right time, and I adjusted when to follow up.
+
+Dale from Health was RAG 5 (Urgent), but when I met him, he was completely aligned and engaged. The Urgent rating was about external factors (staffing, immediate pressure), not internal readiness. An emotionally intelligent reading recognizes that. It meant I didn't arrive with a "you need fixing" stance. I arrived with "what support would actually be useful right now?"
+
+**What I didn't anticipate:** Emotional intelligence also means being honest about what I can't fix. Alexia from ESOL named infrastructure barriers — her team can't reliably access digital tools because campus IT has constraints. That's not a coaching problem. That's an institutional problem requiring IT and leadership decision-making. Being emotionally intelligent means acknowledging that, not pretending I can coach my way around it.
+
+Boyatzis and McKee (2005) argue that emotionally intelligent leaders create psychological safety. People trust them because they're genuinely paying attention, not just running a process.
+
+**The concrete difference:** When I met with Laura from Pre-Vocational Education and Community Education (PRE/CED), Charlotte had declined the initial meeting. Rather than viewing Charlotte as "resistant," I asked Laura to facilitate the introduction. That respects Charlotte's choice, uses the relationship Laura has, and creates a better foundation for future conversation. It's emotionally intelligent rather than directive.
+
+### The Tension I'm Living With
+
+Here's what I need to name honestly: I sit in the Quality Team. That positions me strategically. My observations about digital quality feed into Quality Review Audits (QRAs) and Curriculum Quality Review Panels (CQRPs). I'm not neutral. I'm advocating for digital pedagogy while simultaneously coaching people on their own terms.
+
+Argylis (1990) calls this "Model II" leadership — being transparent about your perspective while genuinely curious about others' views.
+
+This matters because I have to hold both positions at once:
+
+**As a coaching figure:** I genuinely want to understand each area's context. When Chrissandra told me about the challenges in AGF (Arts, Graphics & Fashion), I listened. I didn't arrive with solutions.
+
+**As an advocate:** I believe digital inclusion is foundational, not optional. When I talk to leadership about priorities, I'm clear about that. When I include digital dimensions in quality conversations, I'm advancing an agenda.
+
+The question is: can these two stances coexist without manipulation?
+
+I think they can, but only if I'm honest about both. When Jenna and Maria from Sixth Form said digital hours aren't a formal requirement for them (they're teaching digital skills embedded in portfolios and social media), I could have argued they needed formal tracking. Instead, I said: "I see what you're doing as exactly what level 2 (Digital Inclusion) looks like. That's not urgent. But I want to make sure you're naming it so it's visible." That's advocate and coach at once.
+
+### What Model Actually Explains This?
+
+No single model does. I move between them:
+
+- **Situational coaching** when someone is genuinely new to a tool or concept (training on Teams permissions, for example)
+- **Distributed leadership framing** when I'm building shared understanding across areas (the Pyramid, the Health Check Form)
+- **Coaching-based influence** when I'm helping someone think through a problem in their context (Felix and SMART ASSESSOR integration)
+- **Emotionally intelligent attunement** when I'm reading what someone actually needs right now (interpreting Andreas's no-show, understanding Dale's staffing crisis)
+- **Transparent advocacy** when I'm talking to leadership about priorities and quality implications
+
+What ties these together is **adaptive capacity based on what the conversation actually needs.**
+
+The deeper insight Spillane offers is that this kind of leadership requires credibility, not authority. I've built credibility through:
+
+- **Listening first.** The HoA conversations happened before I proposed anything. That matters. Chrissandra said: "You're not coming in telling us what to do. You're asking us where we are." That's the foundation.
+
+- **Grounding in frameworks.** The Pyramid isn't my invention. It's based on the ETF Digital Teaching Professional Framework, DigCompEdu, and Jisc BDC. I can say: "This isn't my model. This is what the sector recognizes."
+
+- **Delivering practical tools.** The Digital Health Check Form, the Digital Skills mapping — these aren't theoretical. They produce data people can use. Sean and Gina said: "We'll do the Health Check and see what the data tells us."
+
+- **Being honest about constraints.** I told Alexia straight: "Infrastructure is an IT and leadership issue, not something I can coach around. Let's figure out who needs to be in that conversation."
+
+When I have those things — credibility, clear frameworks, practical tools, honesty — the model matters less. People engage because they trust the work.
+
+---
+
+## AC 1.2 – ANALYSE STRATEGIES FOR MANAGING TEAM LEADERS
+
+### The Complexity of What "Team Leaders" Means
+
+I don't manage anyone in the traditional sense. But I work with multiple tiers of people who have leadership responsibility:
+
+**Heads of Area (HoAs):** Decision-makers about curriculum, QIP priorities, resources. I influence them, I don't manage them. The HoA Tracker shows I've met with 26 of 34.
+
+**Identified Digital Leads:** Named peer practitioners in their areas. The tracker shows 12 Digital Leads have been identified so far (as of late March 2026). I'm coaching them and will provide CPD.
+
+**Teaching and Learning Assessment Managers (TLAMs):** My colleagues in the Quality Team. We co-design approaches. Marisha West supported me in a Learning Walk with Tej Poola from Engineering. Emily Green co-delivered digital inclusion sessions.
+
+**Other specialists:** Lois Knight (SEND), Liz Burkey (FIP), Felix Coles (Motor Vehicle) — these are people doing sophisticated work in their domains who are becoming collaborators in the digital pedagogy work.
+
+Managing across these tiers requires different strategies. What works for a HoA doesn't work the same way for an emerging Digital Lead.
+
+### Strategy 1: Providing Frameworks Without Imposing Solutions
+
+The Digital Learning Pyramid is a framework, not a mandate.
+
+When I opened conversations with Heads of Area, I showed the three levels and asked: "Where are you?" I didn't say: "You should be here." I asked them to assess their own position.
+
+The tracker shows different areas rated themselves differently on the same level, and that's fine. HAC (Health) was rated 5 (Urgent) — but not because they don't understand digital inclusion. It's because they have immediate staffing pressures that constrain capacity. HBH (Hair, Beauty & Hospitality) rated themselves 1 (Confident) — not because they're doing AI-driven innovation, but because they have a sophisticated, embedded approach to digital skills (portfolios, social media, industry-relevant practice).
+
+Kegan and Lahey (2016) call this providing a "safe container for complexity." The framework creates structure without being prescriptive.
+
+**What this enabled:** Areas could see themselves in the model. They could identify their next move without being told. Chrissandra said: "I can see we're at 3. We need to work on accessibility." That's her decision, grounded in her context. It's not something I imposed that she's now complying with.
+
+### Strategy 2: Using Data to Inform, Not Rank
+
+The HoA Tracker produces a RAG profile, but how I use that data matters enormously.
+
+I could use it to rank areas and create competition. Instead, I'm using it to understand where coaching and support are needed.
+
+The data tells a more nuanced story than the RAG colours alone. Dale from Health is RAG 5 (Urgent), but the notes say: "Training already planned. Dale Bond identified as Digital Lead. Completely aligned and engaged." That means the "urgent" rating isn't about capability or motivation. It's about context.
+
+Argyris and Schon (1978) introduced double-loop learning — learning that changes the mental models organisations operate from. Data can trigger that, but only if it's presented as learning material, not as judgment.
+
+When I prepare to share data with TLAMs or leadership, I'm framing it as: "Here's what the landscape looks like. Here's what we're learning. Here's where the concentrated support is needed." Not: "Here's who's failing."
+
+### Strategy 3: Supporting Peer Leaders to Extend Reach
+
+I can't be in 34 areas. I have to work through people embedded in those areas.
+
+The identified Digital Leads are doing exactly that. Becky from SEND (SKB) was already engaged. I provided the Digital Health Check Form and said: "Will you help identify other Digital Leads in your area and support them running this?" She's now extending that work.
+
+Ronnie from AGF/PAP is a Digital Lead for both areas (same HoA, Chrissandra). That's peer coaching. It's more credible than me arriving in the area because Ronnie works there. Ronnie understands the specific context.
+
+Wageman (2001) found that team leaders are most effective when they have autonomy, clear goals, and support. Digital Leads operate in that model:
+- **Autonomy:** They decide when to run the Health Check, how to coach colleagues, what to prioritize
+- **Clear goals:** The Pyramid levels, the Health Check outputs, the monthly impact reflection
+- **Support:** I coach them, provide templates, problem-solve with them
+
+**What I'm observing:** The Digital Leads are generating better insights than I could alone. John Fowler and Dave Evans from CTC (Construction Training Centre) identified that digital competency for lorry driving isn't about laptop skills — it's about tablet skills in the cab. That's context-specific knowledge I wouldn't have found in a general conversation.
+
+### Strategy 4: Managing the Tension Between Neutral Coach and Programme Advocate
+
+This is where I have to be most transparent.
+
+I'm positioned as a quality coach (neutral, asking questions, supporting reflection). But I'm also leading a programme aimed at embedding digital pedagogy across the college.
+
+When I met with the Maths area (Jason Clear, Libby Heath-Tavener), I was asking about their current digital approach. But I was also clear: "Century offers diagnostic data on learner digital skills. If you're not tracking learner progress in general digital skills, Century could help." That's not neutral coaching. That's advocating for a specific tool aligned with my programme.
+
+Argylis (1990) calls this Model II leadership. It requires transparency.
+
+**What makes it not manipulation:**
+- I'm honest about my perspective. I believe digital inclusion matters. I believe Century could help track it.
+- I'm genuinely curious about their context. When Jason said they had concerns about Century implementation, I didn't override that. I said: "What would need to be true for Century to work for you?"
+- They retain choice. If Maths decides not to use Century, that's their call. I'm not going to mark them down for it.
+
+**The tension I'm navigating:** I have influence through my position in Quality. That's real. The question is whether I use it to listen and support, or to coerce. So far, it's been the former. But I have to be alert to that boundary.
+
+### Strategy 5: Sustaining Work When Competing Demands Are Constant
+
+The biggest challenge in managing team leaders is keeping digital development visible when other things — Ofsted prep, staffing changes, budget reviews — become urgent.
+
+I can't fight those other priorities. So I'm embedding digital work into processes that already matter.
+
+**QIPs:** Areas are now including digital actions in their Quality Improvement Plans. That means digital development isn't separate. It's part of how the college assesses quality improvement.
+
+**Learning Walks:** When I supported Marisha with a Learning Walk for Tej Poola (Engineering), digital pedagogy wasn't a separate observation. It was part of assessing teaching quality. The question was: "How is the digital environment supporting learning?" Not: "Is digital being used?"
+
+**Evidence:** Every HoA conversation is logged. Every Health Check is documented. Every coaching conversation is noted. By July 2026 (the three-month governance review), I'll have documented 26 HoA conversations, their RAG assessments, identified Digital Leads, and next steps. That becomes evidence the work is happening, not just that it was planned.
+
+Pfeffer (1981) calls this institutionalisation. Change is sustained when it's embedded in systems, not when it depends on individual effort.
+
+**The risk I'm aware of:** If I make digital work seem like an add-on to existing processes, it becomes optional. If I make it integral, it becomes visible and harder to deprioritise. That's intentional.
+
+---
+
+## AC 1.3 – DEVELOP APPROACHES TO RESPOND TO MANAGING MULTIPLE AND REMOTE TEAMS
+
+### The Actual Landscape
+
+I work across multiple sites in North Somerset. HoAs are scattered across campuses (SWSC, Knightstone, Loxton, HALSC, Puxton Park, CTC, multi-site). They're managing different pressures, different infrastructure, different learner profiles.
+
+Without intentional design, the digital work becomes invisible and unsupported.
+
+### Approach 1: Using Digital Tools as Infrastructure, Not Just Communication
+
+I use Teams, SharePoint, and Forms not as communication channels, but as coordination infrastructure.
+
+**Teams Digital Leads channel:** This isn't just a broadcast space. It's where the work is visible:
+- Named Digital Leads can see each other
+- Good practice gets showcased (when it happens, I'll post examples)
+- Resources get shared (the Health Check Form, templates, support videos)
+- People can ask questions and learn from each other
+
+**SharePoint for institutional memory:** Every HoA conversation summary, every Health Check finding, every area's progress lives in a structured location. A TLAM preparing for a CQRP can pull evidence. A new Digital Lead can see what's been learned in their area before.
+
+**Forms as diagnostic tools:** The Digital Health Check is delivered as a Teams Form. Responses flow into Excel. That data belongs to the area and to me. It's not something I control. It's shared information.
+
+Davenport and Prusak (1998) write about knowledge management in dispersed organisations. When people are scattered across sites, shared visibility of work becomes a leadership tool. It replaces what would normally happen through hallway conversations and presence.
+
+**What I'm learning:** Infrastructure only works if people use it. I have to actively encourage it. When I met with Becky, I said: "Would you share the Digital Health Check link with others in your area?" That moves it from something I created to something she's extending. That's the shift from communication tool to infrastructure.
+
+### Approach 2: Designing Regular Relationship-Building Moments
+
+Distributed teams risk becoming transactional — you only interact when there's a problem.
+
+**Learning Walks:** I joined Marisha West on a Learning Walk with Tej Poola from Engineering. That wasn't primarily about digital coaching. It was about understanding how TLA happens in practice, observing how digital tools support (or constrain) learning, and building a shared framework for what good looks like. It also positioned me as someone who understands TLA, not just as "the digital person."
+
+**HoA meetings:** These are 30-60 minute conversations, but they're relationships, not transactions. When I met with Chrissandra, we covered AGF and PAP (she leads both). We talked about foundations, about Ronnie as a Digital Lead, about how to position digital skills in an arts context. By the end, she wasn't checking off a task. She was thinking about how digital pedagogy connects to her curriculum.
+
+**Coaching conversations with specific people:** Felix Coles (Motor Vehicle) and I have had multiple conversations. First about Teams, then about Forms and Copilot, then about SMART ASSESSOR integration and EHCPs. Each conversation builds on the last. That continuity matters.
+
+Gronn (2002) emphasises that distributed leadership depends on trust and relationship. These don't happen by accident. They happen through regular, purposeful interaction.
+
+### Approach 3: Aligning Digital Work to Quality Processes
+
+This is perhaps the most important strategy. I didn't create a parallel digital development programme. I wove it into existing processes.
+
+**Learning Walks (already happening):** These are now including digital environment observations. When I supported Marisha with Tej, we looked at how Teams was structured, whether resources were accessible, how learners engaged with digital tools. Digital isn't separate. It's part of good teaching observation.
+
+**QIPs (already in place):** Areas can include digital actions. AGF includes accessibility by design. CTC includes digital lead development. These appear in the same document as maths progression actions or retention strategies. They're not separate.
+
+**PPRs and CQRPs (already happening):** When a CQRP reviews programme performance, digital evidence can be included. If an area has a Digital Lead running Health Checks, that's visible. If they're tracking learner digital skills, that's discussed.
+
+This matters because digital development stops being an initiative. It becomes how the college does business.
+
+Pfeffer (1981) calls this institutionalisation. When digital appears in the same conversations and processes as Ofsted preparation and learner progress, it becomes institutional. It's no longer a separate agenda.
+
+### Approach 4: Building Evidence That Demonstrates Impact
+
+I'm building documentation that shows the work is happening and producing insights.
+
+By April 2026, I have:
+- 26 HoA conversations logged with RAG assessments, area priorities, and identified Digital Leads
+- Completed Digital Skills Framework mapping (areas confirm, challenge, add to it in conversation)
+- Identified 12 Digital Leads with names and areas
+- Learning Walk observations documenting digital pedagogy in practice
+- Meeting notes from specialists (Felix on Forms/Copilot, Marisha on TLA coaching, Emily on accessibility)
+- Bootcamp notes showing AI training delivered to multiple groups
+
+This isn't "research." It's documentation of real work. But it demonstrates that:
+- The work is actually happening
+- It's being taken seriously (logged, evidenced, structured)
+- It's producing insights (about infrastructure barriers, about where Digital Leads emerge naturally, about what digital skills look like in different contexts)
+
+Kotter (2012) emphasises that change requires visible evidence of progress. When people see that the work is being documented and tracked, momentum increases. When it's invisible, people assume it's optional.
+
+### Approach 5: Being Realistic About Pace and Prioritisation
+
+Not every area can progress at the same pace. Some areas are ready to move quickly. Others are managing capacity constraints that make digital development lower priority right now.
+
+I've accepted that, and I'm allocating support proportionally.
+
+**Priority areas** (those with RAG 4-5): HAC (Health), ESOL, PAP (Performance & Production). These areas need more frequent check-ins, more scaffolded coaching, more practical support.
+
+**Engaged areas** (those with RAG 1-2): DCI (Digital Computing), GMA (Games, Media & Animation), HBH (Hair, Beauty & Hospitality), ENG (Engineering). These areas are moving at their own pace. I'm learning from them and positioning them as peer mentors.
+
+**Developing areas** (those with RAG 3): Most areas. They understand digital matters, they're identifying where they want to go, and they're working toward it at a pace that fits their context.
+
+I communicate this explicitly. A priority area knows why it's receiving intensive support. Confident areas know I'm learning from them. There's transparency about pace.
+
+**What I've learned:** The RAG rating isn't fixed. As areas identify Digital Leads and start running Health Checks, their RAG can shift. Dale from Health (RAG 5) will probably shift up as he executes his plan. But I'm not going to force pace. I'm going to remove barriers and provide support.
+
+### Approach 6: Celebrating Work Visibly
+
+Without celebration, the work becomes invisible.
+
+When John Fowler identified that digital competency in construction is about tablet skills (not laptop skills), that's sophisticated, context-specific insight. I'm documenting that so it can be shared. When Chrissandra identified Ronnie as a Digital Lead who can work across two areas, that's efficient and relational. I'm highlighting that.
+
+This matters because people see that:
+- The work is being noticed
+- Context-specific insights are valued
+- Good practice is celebrated, not just gaps identified
+- Progress is real, not just aspirational
+
+---
+
+## OVERALL CONCLUSION
+
+Leadership in a distributed educational organisation without positional authority is fundamentally about **credibility, clarity, relationships, and adaptive capacity.**
+
+**AC 1.1** evaluated leadership models against my actual context. No single model explains what's happening. I move between situational coaching, distributed leadership, coaching-based influence, and emotional intelligence depending on what the conversation needs. The foundation is credibility built through listening first, grounding work in recognised frameworks, providing practical tools, and being honest about constraints.
+
+**AC 1.2** analysed strategies for managing team leaders across three tiers (HoAs, Digital Leads, TLAMs). The core strategies are: providing frameworks without imposing solutions, using data to inform rather than rank, supporting peer leaders to extend reach, managing the tension between neutral coaching and programme advocacy, and sustaining momentum by embedding digital work into existing quality processes.
+
+**AC 1.3** developed approaches for managing across multiple, dispersed teams. These include: using digital infrastructure strategically, designing regular relationship-building moments, aligning digital work to institutional quality processes, building evidence of real impact, accepting proportional pacing, and celebrating work visibly.
+
+The through-line is this: **I'm not trying to control how digital pedagogy develops across the college. I'm trying to create conditions in which it can develop, owned by the areas themselves, grounded in their contexts, visible through institutional quality processes, and supported by peer leaders embedded in each area.**
+
+That's the work. And it's barely begun. By April 2026, I have frameworks, conversations, identified leaders, and evidence. By July 2026 (the first governance review), I'll have completed work in priority areas, run Health Checks, and demonstrated whether these approaches actually move the needle on digital teaching quality.
+
+This isn't a pilot anymore. It's real work in a real organisation with real constraints and real people navigating real competing demands.
+
+---
+
+## REFERENCES
+
+Argylis, C. (1990) *Overcoming Organizational Defenses: Facilitating Organizational Learning*. Prentice Hall.
+
+Argylis, C. and Schon, D.A. (1978) *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley.
+
+Boyatzis, R.E. and McKee, A. (2005) *Resonant Leadership: Renewing Yourself and Connecting with Others Through Mindfulness, Hope, and Compassion*. Harvard Business School Press.
+
+Davenport, T.H. and Prusak, L. (1998) *Working Knowledge: How Organisations Manage What They Know*. Harvard Business School Press.
+
+Goleman, D. (1995) *Emotional Intelligence: Why It Can Matter More than IQ*. Bantam Books.
+
+Gronn, P. (2002) Distributed Leadership as a Unit of Analysis. *The Leadership Quarterly*, 13(4), 423–451.
+
+Hersey, P. and Blanchard, K.H. (1997) *Management of Organizational Behavior: Utilizing Human Resources* (7th edn). Prentice Hall.
+
+Kegan, R. and Lahey, L.L. (2016) *An Everyone Culture: Becoming a Deliberately Developmental Organization*. Harvard Business School Press.
+
+Kotter, J.P. (2012) *Leading Change*. Harvard Business Review Press.
+
+Pfeffer, J. (1981) *Power in Organizations*. Pitman.
+
+Spillane, J.P. (2006) *Distributed Leadership*. Jossey-Bass.
+
+Spillane, J.P., Halverson, R. and Diamond, J.B. (2004) Towards a Theory of School Leadership. *Journal of Educational Administration*, 42(1), 3–25.
+
+Wageman, R. (2001) How Leaders Foster Self-Managing Team Effectiveness: Design Choices Versus Hands-On Coaching. *Organization Science*, 12(5), 559–577.
+
+
