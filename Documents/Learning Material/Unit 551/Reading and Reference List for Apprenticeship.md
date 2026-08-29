@@ -280,3 +280,29 @@ University of San Diego (N.D.). The importance of AI ethicists & how to become o
 
 Xero (N.D.). About. Available at: https://www.xero.com/uk/about/ [Accessed 19 May 2025]
 
+
+
+*Apprenticeship Additional Knowledge Unit Reading List
+Core Reading
+Chandler, D. (2022). Strategic corporate social responsibility: Sustainable value creation. 6th edition. Thousand Oaks, CA: Sage Publications.
+
+CMI (N.D.). Technology transformed. Discussion paper. Available at: https://www.managers.org.uk/wp-content/uploads/2020/03/Technology-Transformed-Discussion-Paper.pdf
+
+Further Reading
+Asbury, S. and Ball, R. (2016). The practical guide to corporate social responsibility: Do the right thing. London: Routledge.
+
+ASQ (N.D.). What is organizational or corporate governance? Available at: https://asq.org/quality-resources/governance
+
+British Safety Council (N.D.). The Health and Safety at Work Act explained. Available at: https://www.britsafe.org/training-and-learning/informational-resources/the-health-and-safety-at-work-act-explained
+
+Equality and Human Rights Commission (2018). Equality Act 2010. Available at: https://www.equalityhumanrights.com/equality/equality-act-2010
+
+Financial Reporting Council (N.D.). UK Corporate Governance Code 2024. Available at: https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/
+
+Gilbert, A., Rohenkohl, B., Hall, M., Barnard, G., Bodoo, U. and Hayton, J. (2022). Case for importance: Understanding the impacts of technology adoption on ‘good work’. Institute for the Future of Work. Available at: https://www.ifow.org/publications/impacts-technology-adoption-work
+
+Hawkins, D. E. (2006). Corporate social responsibility: Balancing tomorrow’s sustainability and today’s profitability. New York, NY: Palgrave Macmillan.
+
+Information Commissioner’s Office (N.D.). For organisations. Available at: https://ico.org.uk/for-organisations/
+
+National Cyber Security Centre (N.D.). Cyber essentials. Available at: https://www.ncsc.gov.uk/cyberessentials/overview
