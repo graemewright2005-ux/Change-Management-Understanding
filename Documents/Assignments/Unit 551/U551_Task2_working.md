@@ -12,9 +12,9 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Scope of Work (in / out) | AC3.1 | 180 | **89** + table |
 | Methodology / Approach (incl. data and analysis techniques) | AC3.3 | 330 | — |
 | Project Deliverables | AC3.1 | 150 | **44** + table |
-| Timeline / Schedule | AC3.1 | 150 | — |
-| Budget | AC3.1 | 150 | — |
-| Resource Requirements | AC3.1 | 160 | — |
+| Timeline / Schedule | AC3.1 | 150 | table only |
+| Budget | AC3.1 | 150 | **56** + table |
+| Resource Requirements | AC3.1 | 160 | table only |
 | Risk Management | AC3.4 | 330 | — |
 | Stakeholder Analysis | AC3.1 | 280 | — |
 | Communication Plan | AC3.2 | 300 | — |
@@ -22,7 +22,7 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Evaluation / Measurement | AC4.1 | 300 | — |
 | Problem Solving and Decision Making | AC4.2 | 300 | — |
 | Project Closure | AC4.3 | 280 | — |
-| **Total** | | **3,580** | **501** |
+| **Total** | | **3,580** | **557** |
 
 Timeline, budget, resources and the stakeholder map should carry their detail in **tables**, which are excluded from the word count. Keep the surrounding prose lean.
 
@@ -93,6 +93,57 @@ The Framework document itself is complete and aligned to the Quality Handbook, i
 | Per-area digital skills profiles aligning industry skills to curriculum delivery | Developed with each area |
 | SharePoint digital skills assets providing independent staff CPD, signposting Jisc resources | My ownership; the currently active element |
 | Baseline report to the Assistant Principal and Vice Principal for Quality | Covering development undertaken, gaps identified and impact on departmental success |
+
+---
+
+## Timeline / Schedule (AC3.1) — DRAFT, CONFIRM DATES
+
+**Compiled from project history. Every date marked [CONFIRM] is my reconstruction, not your statement.**
+
+| Phase | Activity | Timing | Status |
+|---|---|---|---|
+| 0. Initiation | Gap identified following digital learning team restructure and loss of the Digital Education Manager | [CONFIRM month/year] | Complete |
+| 1. Feasibility and discovery | Engagement with Jisc partners on Discovery question sets; engagement with Century account manager on learner baselining; review of sector practice | [CONFIRM] | Complete |
+| 2. Approval | Documentation produced and aligned to the Quality Handbook with the Assistant Principal for Quality; formal sign-off | [CONFIRM] | Complete |
+| 3. Framework development | Digital Skills Framework produced, three tiers defined, industry-aligned skills mapped per curriculum area | [CONFIRM] | Complete |
+| 4. Foundations assessment | Discovery work establishes significant non-compliance at the Digital Foundations tier | [CONFIRM] | Complete — triggered rescope |
+| 5. Rescope | Upper tiers paused; foundational accessibility and inclusion prioritised; Digital Leads accessibility programme initiated as parallel workstream | [CONFIRM] | Complete |
+| 6. Interim delivery | SharePoint digital skills assets for staff, foundational level | Current | **Active** |
+| 7. Staff baselining | Jisc Discovery released; ~two thirds of staff completing within first month | Anticipated within coming months [CONFIRM] | Pending |
+| 8. Learner baselining | Century diagnostics; 80%+ of 16–19 study programme learners baselined | On release [CONFIRM] | Paused |
+| 9. Progression tracking | Heads of Area report progression through the Quality Handbook assurance cycle | By year end | Paused |
+| 10. Reassessment | Annual Jisc Discovery reassessment; progression triangulated against learning walks, student voice, staff surveys and digital health checks | Annual | Planned |
+
+## Budget (AC3.1) — DRAFT, CONFIRM FIGURES
+
+**Every figure below is marked [CONFIRM]. Do not submit invented numbers.**
+
+The defining budgetary feature of this project is that it carries no devolved budget. I can propose expenditure but not authorise it. The material cost is therefore staff time rather than cash, and the platform costs sit on budgets held elsewhere in the college. A budget presented honestly on that basis is more useful than a fabricated cash schedule.
+
+| Cost category | Basis | Estimated cost | Held by |
+|---|---|---|---|
+| Jisc Discovery tool | Included within existing Jisc membership | No additional cost [CONFIRM] | College Jisc subscription |
+| Century platform licence | Existing contract | [CONFIRM annual figure] | Held elsewhere [CONFIRM department] |
+| Staff time — Discovery completion | 600+ staff × [CONFIRM minutes] completion time | [CONFIRM] | Curriculum area staffing budgets |
+| Staff time — Digital Leads cascade | 36 Digital Leads × [CONFIRM hours] | [CONFIRM] | Curriculum area staffing budgets |
+| Staff time — Heads of Area reporting | 35 areas × [CONFIRM hours] per reporting cycle | [CONFIRM] | Curriculum area staffing budgets |
+| Project lead time | Within existing Digital Pedagogy Coach post | Absorbed | Quality and Innovation |
+| SharePoint asset development | Within existing post | Absorbed | Quality and Innovation |
+| Contingency | [CONFIRM %] | [CONFIRM] | Not available — no devolved budget |
+
+## Resource Requirements (AC3.1) — DRAFT
+
+| Resource type | Required | Availability |
+|---|---|---|
+| Human — project lead | Digital Pedagogy Coach, 1 post | Available; single point of failure |
+| Human — cascade network | 36 volunteer Digital Leads across curriculum areas | Available but voluntary; engagement uneven |
+| Human — curriculum leadership | 35 Heads of Area for area-level reporting and accountability | Available through existing Quality Handbook cycle |
+| Human — learner progression | Personal Development team, owning learner RAG rating | Available; owned outside the project |
+| Human — data protection | DPIA and data processing agreement authors | In place; owned elsewhere — a dependency, not a resource I control |
+| Technological | Jisc Discovery, Century, SharePoint, Microsoft Teams | All in place |
+| Informational | Ofsted toolkit, Quality Handbook, Jisc sector resources and community | Available |
+| Physical | Nine campus locations for any in-person delivery | Available through existing timetabling |
+| **Not available** | Devolved budget; line management authority; a project sponsor with domain understanding; dedicated project administration | **Absent — see risk register** |
 
 ---
 
