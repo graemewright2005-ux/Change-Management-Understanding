@@ -18,14 +18,14 @@ Status: **paused, and partly descoped** — parts of it are no longer in the rem
 
 | Section | AC | Budget | Actual |
 |---|---|---|---|
-| 1. Introduction | — | 120 | — |
+| 1. Introduction | — | 120 | **141** |
 | 2. Defining Project Management Principles | AC1.1 | 420 | **483** (+63) |
 | 3. Project Contribution to Organisational Goals | AC1.2 | 400 | **428** (+28) |
 | 4. Process for Initiating Projects | AC1.3 | 420 | **438** |
 | 5. Examination of Tools and Techniques | AC1.4 | 520 | **543** |
 | 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | **509** |
-| 7. Conclusion | — | 150 | — |
-| **Total** | | **2,500** | **2401** |
+| 7. Conclusion | — | 150 | **187** |
+| **Total** | | **2,500** | **2729** — TASK 1 COMPLETE, within +10% ceiling of 2,750 |
 
 Ceiling is 2,750 (+10%). AC1.1 is 63 over budget. Not paid for yet — either absorb it into the margin or take it back from AC1.4. Decide at the final pass, not now.
 
@@ -35,7 +35,9 @@ Rule carried over from 553 and 549: nothing gets added without something coming 
 
 ## 1. Introduction
 
-*Not yet drafted.*
+**Drafted — 141 words (budget 120).**
+
+Project management is the structured application of processes, methods and skills to achieve specific objectives within agreed parameters (Association for Project Management (2019) *APM Body of Knowledge*, 7th edn, Association for Project Management, Princes Risborough). Where routine operations maintain the status quo, projects are the vehicle through which an organisation implements change and achieves its strategic goals. In the further education sector, effective project management ensures that limited resources are directed towards the activities that generate the most tangible organisational benefit. This report examines the principles and processes of project management through the Digital Skills Framework initiative I launched at Weston College. Although that project was ultimately paused, owing to shifting organisational priorities and an absence of formal initiation authority, evaluating its life cycle provides critical insight into how legal, ethical and environmental factors dictate project success and shape competitive advantage.
 
 ---
 
@@ -129,7 +131,13 @@ On balance, the legal factors set hard limits and directly influenced the decisi
 
 ## 7. Conclusion
 
-*Not yet drafted.*
+**Drafted — 187 words (budget 150).**
+
+The Digital Skills Framework was designed to protect the college's long-term strategic direction. By equipping staff to evidence digital competency confidently for Ofsted inspection, and by ensuring learners graduate with the precise skills local employers demand, the project served to safeguard the college's reputation and its competitive advantage.
+
+The most significant lesson I take from it is that managing purely by influence has a hard limit. Without formal initiation — specifically a documented charter or approval, a defined budget and structural authority — a project remains inherently vulnerable when organisational structures and priorities shift. A project without a charter simply has to pause.
+
+The overarching framework is paused, but the objective has not been abandoned; it has been rescoped. The immediate focus has moved to delivering targeted, structured digital skills assets for staff through SharePoint, concentrating on the foundational level. Two findings drove that decision: legal compliance on accessibility and inclusion had to take priority, and staff capacity was not yet sufficient to carry the wider framework forward. This allows the core principles of the project to survive operationally until organisational capacity permits the full framework to be revisited.
 
 ---
 
