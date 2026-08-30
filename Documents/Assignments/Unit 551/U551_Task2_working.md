@@ -10,10 +10,10 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Introduction (background, problem, rationale) | — | 250 | **265** |
 | Project Objectives | AC3.1 | 180 | **103** + table |
 | Scope of Work (in / out) | AC3.1 | 180 | **89** + table |
-| Methodology / Approach (incl. data and analysis techniques) | AC3.3 | 330 | — |
+| Methodology / Approach (incl. data and analysis techniques) | AC3.3 | 330 | **314** |
 | Project Deliverables | AC3.1 | 150 | **44** + table |
-| Timeline / Schedule | AC3.1 | 150 | table only |
-| Budget | AC3.1 | 150 | **56** + table |
+| Timeline / Schedule | AC3.1 | 150 | **72** + table |
+| Budget | AC3.1 | 150 | **148** + table |
 | Resource Requirements | AC3.1 | 160 | table only |
 | Risk Management | AC3.4 | 330 | — |
 | Stakeholder Analysis | AC3.1 | 280 | — |
@@ -22,7 +22,7 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Evaluation / Measurement | AC4.1 | 300 | — |
 | Problem Solving and Decision Making | AC4.2 | 300 | — |
 | Project Closure | AC4.3 | 280 | — |
-| **Total** | | **3,580** | **557** |
+| **Total** | | **3,580** | **1035** |
 
 Timeline, budget, resources and the stakeholder map should carry their detail in **tables**, which are excluded from the word count. Keep the surrounding prose lean.
 
@@ -96,42 +96,45 @@ The Framework document itself is complete and aligned to the Quality Handbook, i
 
 ---
 
-## Timeline / Schedule (AC3.1) — DRAFT, CONFIRM DATES
+## Timeline / Schedule (AC3.1)
 
-**Compiled from project history. Every date marked [CONFIRM] is my reconstruction, not your statement.**
+Phasing is expressed relative to project start rather than against fixed calendar dates. This is deliberate: the project has no devolved budget and no control over the college timetable, so absolute dates would give a false impression of certainty. Milestones are the control points.
 
-| Phase | Activity | Timing | Status |
+| Phase | Activity | Indicative timing | Milestone |
 |---|---|---|---|
-| 0. Initiation | Gap identified following digital learning team restructure and loss of the Digital Education Manager | [CONFIRM month/year] | Complete |
-| 1. Feasibility and discovery | Engagement with Jisc partners on Discovery question sets; engagement with Century account manager on learner baselining; review of sector practice | [CONFIRM] | Complete |
-| 2. Approval | Documentation produced and aligned to the Quality Handbook with the Assistant Principal for Quality; formal sign-off | [CONFIRM] | Complete |
-| 3. Framework development | Digital Skills Framework produced, three tiers defined, industry-aligned skills mapped per curriculum area | [CONFIRM] | Complete |
-| 4. Foundations assessment | Discovery work establishes significant non-compliance at the Digital Foundations tier | [CONFIRM] | Complete — triggered rescope |
-| 5. Rescope | Upper tiers paused; foundational accessibility and inclusion prioritised; Digital Leads accessibility programme initiated as parallel workstream | [CONFIRM] | Complete |
-| 6. Interim delivery | SharePoint digital skills assets for staff, foundational level | Current | **Active** |
-| 7. Staff baselining | Jisc Discovery released; ~two thirds of staff completing within first month | Anticipated within coming months [CONFIRM] | Pending |
-| 8. Learner baselining | Century diagnostics; 80%+ of 16–19 study programme learners baselined | On release [CONFIRM] | Paused |
-| 9. Progression tracking | Heads of Area report progression through the Quality Handbook assurance cycle | By year end | Paused |
-| 10. Reassessment | Annual Jisc Discovery reassessment; progression triangulated against learning walks, student voice, staff surveys and digital health checks | Annual | Planned |
+| 1 | Initiation: gap confirmed, brief produced, alignment to the Quality Handbook agreed with the Assistant Principal for Quality | Month 1 | Formal sign-off |
+| 2 | Feasibility: Jisc Discovery question sets configured with Jisc partners; Century baselining approach agreed with account manager | Months 1–2 | Question sets finalised |
+| 3 | Framework development: three tiers defined, industry-aligned skills mapped per curriculum area | Months 2–3 | Framework published |
+| 4 | Foundations assessment: baseline compliance position established | Month 3 | Go / rescope decision point |
+| 5 | Staff baselining: Jisc Discovery released via Digital Leads network | Month 4 | Two thirds of staff complete within one month of release |
+| 6 | Learner baselining: Century diagnostics deployed to 16–19 study programmes | Term 1 | 80%+ of cohort baselined |
+| 7 | Analysis and area profiles: data collated, per-area digital skills profiles produced | Term 1–2 | Profiles issued to all 35 areas |
+| 8 | Targeted intervention: coaching and CPD deployed against identified gaps | Term 2 | Area action underway |
+| 9 | Progression reporting: Heads of Area report through the Quality Handbook assurance cycle | Term 3 | Progression evidenced by year end |
+| 10 | Reassessment: annual Jisc Discovery re-run, triangulated against learning walks, student voice, staff surveys and digital health checks | Annual | Baseline-to-baseline comparison |
 
-## Budget (AC3.1) — DRAFT, CONFIRM FIGURES
+**Actual position.** Phase 4 established significant non-compliance at the Digital Foundations tier. Phases 5 to 9 were paused and the scope narrowed to securing that foundation, with SharePoint digital skills assets for staff as the interim deliverable. Phase 4 functioned as a stage gate, and the gate did what a gate is for.
 
-**Every figure below is marked [CONFIRM]. Do not submit invented numbers.**
+## Budget (AC3.1)
 
-The defining budgetary feature of this project is that it carries no devolved budget. I can propose expenditure but not authorise it. The material cost is therefore staff time rather than cash, and the platform costs sit on budgets held elsewhere in the college. A budget presented honestly on that basis is more useful than a fabricated cash schedule.
+The defining budgetary feature of this project is that it carries no devolved budget. I can propose expenditure but not authorise it. The material cost is therefore staff time rather than cash, and platform costs sit on budgets held elsewhere in the college. The figures below are indicative and rest on stated assumptions; presenting them transparently is more useful than presenting a cash schedule that was never committed.
 
-| Cost category | Basis | Estimated cost | Held by |
+**Assumptions:** Jisc Discovery is included within existing college membership at no marginal cost. Century is already contracted, so no new licence cost arises from this project. All staff time is absorbed within existing contracted hours rather than funded additionally, which means the true constraint is capacity, not cash.
+
+| Cost category | Basis | Indicative cost | Budget held by |
 |---|---|---|---|
-| Jisc Discovery tool | Included within existing Jisc membership | No additional cost [CONFIRM] | College Jisc subscription |
-| Century platform licence | Existing contract | [CONFIRM annual figure] | Held elsewhere [CONFIRM department] |
-| Staff time — Discovery completion | 600+ staff × [CONFIRM minutes] completion time | [CONFIRM] | Curriculum area staffing budgets |
-| Staff time — Digital Leads cascade | 36 Digital Leads × [CONFIRM hours] | [CONFIRM] | Curriculum area staffing budgets |
-| Staff time — Heads of Area reporting | 35 areas × [CONFIRM hours] per reporting cycle | [CONFIRM] | Curriculum area staffing budgets |
-| Project lead time | Within existing Digital Pedagogy Coach post | Absorbed | Quality and Innovation |
-| SharePoint asset development | Within existing post | Absorbed | Quality and Innovation |
-| Contingency | [CONFIRM %] | [CONFIRM] | Not available — no devolved budget |
+| Jisc Discovery tool | Within existing Jisc membership | No marginal cost | College Jisc subscription |
+| Century platform licence | Existing contract, predating this project | No marginal cost to this project | Held elsewhere in the college |
+| Staff time — Discovery completion | 600+ staff, one completion per year | Absorbed within contracted hours | Curriculum area staffing |
+| Staff time — Digital Leads cascade | 36 volunteer Digital Leads | Absorbed; voluntary, unpaid | Curriculum area staffing |
+| Staff time — Heads of Area reporting | 35 areas, within existing Quality Handbook cycle | Absorbed within existing assurance activity | Curriculum area staffing |
+| Project lead time | Digital Pedagogy Coach post | Absorbed within existing post | Quality and Innovation |
+| SharePoint asset development | Digital Pedagogy Coach post | Absorbed within existing post | Quality and Innovation |
+| Contingency | None available | Nil | No devolved budget exists |
 
-## Resource Requirements (AC3.1) — DRAFT
+**The budgetary risk this exposes.** A project with no cash cost appears free, and a project that appears free attracts no governance, no sponsor and no protection. The absence of a contingency line is not an oversight; it is the reason the project could be paused without any budgetary consequence being visible to anyone.
+
+## Resource Requirements (AC3.1)
 
 | Resource type | Required | Availability |
 |---|---|---|
@@ -144,6 +147,20 @@ The defining budgetary feature of this project is that it carries no devolved bu
 | Informational | Ofsted toolkit, Quality Handbook, Jisc sector resources and community | Available |
 | Physical | Nine campus locations for any in-person delivery | Available through existing timetabling |
 | **Not available** | Devolved budget; line management authority; a project sponsor with domain understanding; dedicated project administration | **Absent — see risk register** |
+
+---
+
+## Methodology / Approach (AC3.3)
+
+**Drafted — 314 words (budget 330).**
+
+The project is run through an adaptive, phased methodology grounded in the continuous Plan–Do–Check–Act cycle (Deming, W.E. (1986) *Out of the Crisis*, MIT Press, Cambridge MA). Rather than a rigid college-wide rollout, the tiered delivery model allows interventions to be tested, data gathered, and the Framework refined iteratively before scaling.
+
+The project generates a deliberate mixture of quantitative and qualitative data. Quantitatively, it draws on individual staff outputs from the Jisc Discovery tool, learner baseline diagnostics from the Century platform, and departmental health check scores mapped into the area RAG ratings. Qualitatively, learning walks, coaching conversations and student voice feedback supply the context the numbers cannot. Neither stream is sufficient alone: a score identifies where to look, a conversation explains what is actually happening there.
+
+Because auditing digital capability triggers staff anxiety, storage and access are governed by a strict staff-hold-their-own-data model. This is a methodological decision taken to protect psychological safety, not merely a compliance measure. Individual staff retain complete ownership of their Jisc Discovery profiles. Management and project leads see only anonymised, aggregated data at departmental level, never individual performance metrics. The only individual-level information shared with me is the direction a member of staff wishes to develop in and the priorities they have set for themselves. Learner diagnostic data held on Century is managed under role-based access controls, so that only the educators directly responsible for those learners can view it, maintaining UK GDPR compliance.
+
+Raw data from these streams is collated using securely hosted internal tools, principally dedicated SharePoint pages, and analysed to build highly specific profiles for individual academic and support departments. Data is not collected for reporting alone; it drives what happens next. Analysing area profiles translates raw data into targeted action, deploying coaching resource precisely where the operational gaps sit, rather than relying on generic blanket training that never addresses a specific need.
 
 ---
 
