@@ -22,10 +22,10 @@ Status: **paused, and partly descoped** — parts of it are no longer in the rem
 | 2. Defining Project Management Principles | AC1.1 | 420 | **483** (+63) |
 | 3. Project Contribution to Organisational Goals | AC1.2 | 400 | **428** (+28) |
 | 4. Process for Initiating Projects | AC1.3 | 420 | **438** |
-| 5. Examination of Tools and Techniques | AC1.4 | 520 | — |
+| 5. Examination of Tools and Techniques | AC1.4 | 520 | **543** |
 | 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | — |
 | 7. Conclusion | — | 150 | — |
-| **Total** | | **2,500** | **1349** |
+| **Total** | | **2,500** | **1892** |
 
 Ceiling is 2,750 (+10%). AC1.1 is 63 over budget. Not paid for yet — either absorb it into the margin or take it back from AC1.4. Decide at the final pass, not now.
 
@@ -93,7 +93,19 @@ Few project roles were ever established. I became the de facto project lead beca
 
 *Command verb: examine — inspect in detail, across different project contexts.*
 
-*Not yet drafted.*
+**Drafted — 543 words (budget 520).**
+
+Examining project tools requires acknowledging that different organisational contexts demand entirely different approaches, and this is visible within the college itself. In Sport and Health, the digital skills the industry requires are well understood, as are the resources available to those areas and the time staff are willing to commit; a predictive or waterfall approach suits that relative stability. In Construction and the Built Environment we are far less certain what the digital skills requirement looks like, so any plan needs a longer scoping and discovery phase before commitments on time or budget can sensibly be made. The tailoring principle holds that the delivery approach must fit the environment rather than being applied by default (PMI, 2021). My own context was adaptive by necessity: no formal budget, no line management authority, and a need to discover the college's baseline capability while simultaneously planning the interventions that would follow from it.
+
+**Work breakdown structure.** A work breakdown structure decomposes large deliverables into smaller, manageable work packages. Its strength is that it provides the foundation on which accurate time and resource estimation becomes possible at all. Its limitation is that it performs best in predictive contexts where the final output is already known. In an adaptive context the work packages had to remain flexible, because the discovery tools kept revealing digital skills gaps that changed the scope of what needed to be done.
+
+**Gantt charts.** A Gantt chart maps tasks against a timeline, showing duration, dependencies, responsibility and blockers. It works well in traditional contexts with dedicated, controllable resources, and it is effective for tracking the critical path. Its limitation in my project was that a rigid Gantt breaks down quickly. Having invested time sequencing phases of work, the factors I do not control — the college timetable, term dates, the operational workload of other departments, or an Ofsted inspection arriving — cause the fixed dates to fall away.
+
+**RACI matrices.** A RACI matrix (responsible, accountable, consulted, informed) clarifies decision rights and assigns clear roles for every project task. It is highly effective in formal hierarchies where line management and formal reporting exist. It is the tool I use least, because that structure is not available to me. Delivery relied entirely on volunteers and I hold no line management authority, so formal accountability was impossible to assign. The tool breaks down in that context, and forces management through influence rather than through formal role assignment.
+
+**Stakeholder mapping and diagnostic tools.** The power and interest grid supports prioritisation of which individuals must be influenced for a project to keep moving (Mendelow, A. (1991) 'Environmental Scanning: The Impact of the Stakeholder Concept', *Proceedings of the Second International Conference on Information Systems*, Cambridge MA). That work is essential where formal authority is absent. Alongside it, standard scheduling tools were of limited use in a state of exploration, which is why I treated the Jisc Discovery question sets, and Century's learner diagnostics, as core project management tools rather than as subject-matter instruments.
+
+The distinction is ultimately this. In a predictive context a project is managed by tracking schedule variance. In an adaptive context it is managed by data: gathering baseline information through Jisc and Century was how I adjusted scope in real time while holding the project's overall shape and direction.
 
 ---
 
