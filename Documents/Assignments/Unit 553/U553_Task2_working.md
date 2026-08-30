@@ -84,6 +84,41 @@ Scale: 1 Urgent · 2 Challenged · 3 Developing · 4 On Track · 5 Confident
 | **Checkpoint** | **Nov 2026** | **Re-audit; comparison against baseline** |
 | Review | Dec 2026 | Evaluation; next cycle planned |
 
+## Fig. 7 — KPI framework (proposed, for agreement with line manager)
+
+| Measure | Baseline (Jun–Aug 2026) | Target (Nov 2026) |
+|---|---|---|
+| Areas completing the Health Check audit | 24 of 35 (69%) | 30 of 35 (85%) |
+| Alt text on images — mean score¹ | 2.65 | 3.50 |
+| Uses Accessibility Checker — mean score¹ | 2.71 | 3.50 |
+| Accessibility by Design — dimension mean¹ | 3.15 | 3.50 |
+| Areas with an active action plan in delivery | — | 12 |
+| Staff receiving targeted training or coaching | 15 identified | 15 |
+
+¹ Score targets are measured across areas holding both a baseline and a November re-audit, giving a like-for-like comparison. Including newly completing areas in the pooled mean would distort the figure, since later-completing areas are more likely to be those with lower initial engagement.
+
+## Fig. 8 — Risk register
+
+| Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|
+| Digital Lead withdraws or disengages during process | High | High | HoA acts as fallback lead; progress reporting highlights disengagement early; escalation route used where progress stops; workload shared where possible. |
+| HoA unable to recruit or appoint a Digital Lead | High | Medium | HoA undertakes the role; central support available; escalation where vacancies remain unresolved. |
+| Audit not completed by deadline | High | Medium | Staggered completion dates; regular tracking reports; targeted follow-up with overdue areas; escalation process for non-completion. |
+| Read&Write deployment dependent on IT capacity and timelines | Medium | High | Early engagement with IT; track milestones; escalate delays through existing governance routes. |
+| Ofsted inspection or other organisational priorities displace audit activity | High | Medium | Flexible completion windows; use reporting to identify slippage early and re-prioritise support. |
+| Inconsistent scoring between Digital Leads | Medium | High | Standard guidance, moderation discussions, calibration activities and sample quality checks. |
+| Awarding body materials non-compliant but outside organisational control | Medium | Medium | Record issues found; raise concerns with awarding bodies where appropriate; document exceptions and focus improvements on areas within college control. |
+| Staff perceive audit as punitive rather than developmental | Medium | Medium | Clear communication that the audit is designed to support improvement; share good practice and positive outcomes. |
+| Insufficient evidence available to support audit judgements | Medium | Medium | Provide clear evidence requirements; use standard templates; request additional evidence before sign-off. |
+| Changes to accessibility guidance or requirements during the project | Low | Medium | Monitor sector guidance and update future audit cycles as required. |
+| Capacity pressures reduce quality of responses and action plans | High | Medium | Stagger deadlines; provide central support; focus effort on highest-risk areas first. |
+| Digital Pedagogy Coach unavailable (single point of failure) | Medium | High | Audit framework, guidance, reports and action plans documented within the Hub; Digital Leads retain curriculum-level knowledge; Accessibility Manager and Quality colleagues provide continuity; key processes documented rather than held by one individual. |
+| Audit assumption proves incorrect (staff lack knowledge rather than motivation) | Medium | High | Monitor November audit findings for evidence of widespread skills gaps. If identified, shift from compliance-focused action plans to targeted training, coaching and staff development activity. |
+| Audit identifies a serious compliance breach requiring immediate action | Medium | High | Escalate immediately through safeguarding, GDPR, accessibility or quality processes as appropriate; do not wait for the normal audit cycle; record actions taken and monitor resolution. |
+| Audit data contains sensitive staff performance information | Medium | High | Store data securely; limit access to authorised staff; follow GDPR and information governance requirements; share reports on a need-to-know basis. |
+
+**Key risks requiring active monitoring:** Digital Lead withdrawal or disengagement · audit completion delays · Read&Write deployment dependency · inter-rater consistency · Digital Pedagogy Coach availability · November audit revealing a skills deficit rather than a compliance deficit · discovery of significant compliance breaches.
+
 ---
 
 # LIMITATIONS OF THE BASELINE — name these honestly
