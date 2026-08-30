@@ -21,11 +21,11 @@ Status: **paused, and partly descoped** — parts of it are no longer in the rem
 | 1. Introduction | — | 120 | — |
 | 2. Defining Project Management Principles | AC1.1 | 420 | **483** (+63) |
 | 3. Project Contribution to Organisational Goals | AC1.2 | 400 | **428** (+28) |
-| 4. Process for Initiating Projects | AC1.3 | 420 | — |
+| 4. Process for Initiating Projects | AC1.3 | 420 | **438** |
 | 5. Examination of Tools and Techniques | AC1.4 | 520 | — |
 | 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | — |
 | 7. Conclusion | — | 150 | — |
-| **Total** | | **2,500** | **911** |
+| **Total** | | **2,500** | **1349** |
 
 Ceiling is 2,750 (+10%). AC1.1 is 63 over budget. Not paid for yet — either absorb it into the margin or take it back from AC1.4. Decide at the final pass, not now.
 
@@ -75,9 +75,17 @@ Competitive advantage in further education is not market share. It is learner re
 
 ## 4. Process for Initiating Projects (AC1.3)
 
-*Command verb: outline — give the main features or steps.*
+*Command verb: outline — give the main steps and considerations.*
 
-*Not yet drafted.*
+**Drafted — 438 words (budget 420).**
+
+The process for initiating a project has three essential steps: the project is defined, its viability is tested, and formal approval is given. AXELOS separates the first two into distinct stages within PRINCE2. *Starting up a Project* produces a Project Brief, which asks whether the project is viable and worth doing. *Initiating a Project* then produces the Project Initiation Documentation, or PID, which serves as the control baseline against which the project is subsequently managed (AXELOS, 2017). The equivalent in PMBOK is the project charter, a critical step because it formally authorises the project to exist and gives the project manager explicit authority to apply organisational resources to it (PMI, 2021).
+
+The approval stage of this project followed that pattern reasonably closely. I produced the documentation and took it to my line manager, the Assistant Principal for Quality. He reviewed it, and we iterated the language and direction so that both sat within the scope of what the Quality team does and the framework it operates in. Specifically, we worked through the Quality Handbook together to align what I was proposing on digital skills with the college's established position on teaching, learning and assessment. Once that alignment was established he signed it off, which gave me the authority to proceed.
+
+Upstream of that approval, initiation was highly informal. The project did not originate from a mandate issued to me. It came from identifying a gap: the Ofsted toolkit made clear that the college needed to act on digital skills, and nobody else in the organisation was working on it. Feasibility testing was consequently conducted externally rather than internally. I worked with Jisc partners to establish the right Discovery question sets, checking that they aligned not only with the digital skills objective but with the pedagogical direction set out in the Quality Handbook and our vision for good practice in teaching, learning and assessment. I also worked with the Century account manager on methods of baselining learners' digital capability. Understanding how other organisations had approached the same problem substituted for the internal feasibility assessment that the formal process assumes.
+
+Few project roles were ever established. I became the de facto project lead because no one else held the domain knowledge, which created an unusual initiation condition: I was seeking authorisation from my line manager while simultaneously educating him on the subject he was being asked to authorise. The consideration this raises is that authorisation secured without domain understanding on the part of the authoriser is weakly held. A project defined and understood by one person is a project that others can pause without fully appreciating what is being paused.
 
 ---
 
