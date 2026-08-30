@@ -64,7 +64,19 @@ This has also proved differentiated in practice. Some Digital Leads receive an a
 ---
 
 ## AC2.1 — Assess methods of managing and leading the delivery of an operational plan
-*Not started*
+*~500 words — on budget*
+
+To manage and lead delivery of the plan I have used a differentiated model, with the Digital Leads at the centre of driving the programme. It follows Hersey and Blanchard's situational leadership model, matching my approach to each volunteer's readiness and capability in the role: directing someone new to the role, coaching them as they develop, supporting them when they are capable but hesitant, and delegating when they are both able and willing. Hersey, P. and Blanchard, K.H. (1993) Management of Organizational Behavior: Utilizing Human Resources, Prentice Hall, Englewood Cliffs NJ. Its limitations are that it assumes I can recognise readiness accurately, and that it is demanding on my time, since I am running several styles at once.
+
+The main problem I encounter is that I am not a line manager within this programme, so there is less accountability. Where this matters I lean on the leadership above me: my own line manager, who leads on quality improvement, and the Vice Principal for Quality. With their support, if an action plan is not followed through, or is not being implemented by a team, there is a route through Heads of Area, who do hold line management responsibility for the Digital Leads, to ensure the actions are carried out.
+
+Visibility is deliberately built into the process for this reason. I report Health Check completion rates and RAG ratings by area to the Vice Principal for Quality. I am uncomfortable with the idea of reporting on colleagues, but patterns become obvious when work has been asked for and not done, and making that visible at a level above the Head of Area means accountability does not have to rest on me personally. Those with the authority to act can then direct what I do next, allowing me to carry their name in my communications, or engage someone else with the appropriate authority to act on my behalf.
+
+My preferred approach reflects the leadership style identified through Insights Discovery. I work collaboratively to find where barriers exist and support people in removing them, rather than leading with direct authority. In previous roles I have found this generates better buy-in and more sustained impact, and that building relationships this way allows colleagues and me to work more innovatively.
+
+Contact varies. Some Digital Leads I meet more regularly than others, but I communicate with all of them at least weekly or fortnightly to understand where they are, what issues or barriers have arisen, and what their reality looks like. This means that if a task has not been completed, I already understand the context. A department may be carrying staff absence, with everyone covering additional workload, so lower-priority tasks get pushed back. Understanding the day-to-day context of Digital Leads in their departments helps me judge what is realistic rather than simply what was expected.
+
+My intention is to report back to Digital Leads directly, so that they can report to their own Heads of Area. This raises their profile and supports their development into leadership pathways, while allowing a differentiated approach: a lighter touch with those who are more experienced, and a stronger coaching role with those who are less so.
 
 ---
 
