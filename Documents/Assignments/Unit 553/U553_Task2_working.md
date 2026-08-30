@@ -132,8 +132,24 @@ Scale: 1 Urgent · 2 Challenged · 3 Developing · 4 On Track · 5 Confident
 
 # TO WRITE
 
-## AC3.1 — narrative framing around the plan
-*Not started — needs: KPIs, strategies/actions, resources, risk, budget, contingency, communication*
+## AC3.1 — Develop an operational plan for an area of work
+*~620 words of narrative. The plan itself is Figs 1–8 (excluded from word count).*
+
+**Why this area of work.** I was originally employed as Digital Coach and later reassigned as Digital Pedagogy Coach. In my first nine months I found that many staff did not have the basic fundamentals in place that would allow digital pedagogy to elevate their teaching. I had a strong sense that accessibility was where the weakness sat, and the repeated response of "I know about Immersive Reader" suggested the problem was larger than it appeared. I want to work in the innovative space around digital learning, but that is not possible while the foundations are unstable. It is like building a beautiful modern house on sand.
+
+It is impossible to embed assistive technology properly, or to get the full benefit of Quality First Teaching and Universal Design for Learning, if foundational understanding of accessibility is not secure. We use phrases like vulnerable and disadvantaged learners, and we talk about removing barriers, but the foundations are insecure, so the work above cannot land.
+
+This is the same pattern I described earlier in relation to mentoring. People ask for help with digital learning, and the request has to be worked back to the actual point of need. Too many requests for innovative practice unravel, on examination, into gaps in foundational understanding of how to design learning for a range of needs. Some needs are documented through EHCPs, so we can plan for them. Others are situational and invisible. If I break my glasses, I need a screen reader or larger text.
+
+Universal design assumes this. The dropped kerb was designed for wheelchair users and is now used by people with pushchairs, bicycles, delivery trolleys and anyone less steady on their feet. A personal example: when my daughter was small and I fed her in the night, I could not read a document, and I did not want a lit screen in the room. I used read-aloud through headphones so I could keep working while still looking at her. Nobody designed that adjustment for me. We do not know our learners' situations either.
+
+Designing all learning material accessibly from the point of creation is measurable, and it allows everything else to sit on top: how resources are shared, how they are personalised, and how the organisation communicates more widely through policies, marketing, social media and stakeholder communication.
+
+**Resources.** This requires a significant amount of my time, which I am willing to give. I work closely with the Accessibility Manager and with SEND consultants, and I am currently discussing relocating my office into the SEND team's space so that the accessibility work and the SEND Framework work operate alongside each other daily. I retain other responsibilities within the Quality team, including learning walks and staff coaching. The ambition of being fully accessible and inclusive by the end of the academic year may not be fully realised, but if we keep moving in that direction we will be left with a small number of individual situations to address rather than an organisational one.
+
+**Communication.** Communication runs through the staff newsletter, the internal SharePoint, the established reporting tiers, and Teach Meets delivered in departments. I communicate with Digital Leads individually through Teams, and maintain a dedicated Digital Leads team space for sharing messages, resources, direction and deadlines.
+
+**A plan rather than an ambition.** This is a plan rather than a hope because we have baseline data to measure against, a defined path, the mechanisms to move that path forward, and checkpoints to confirm we are progressing at the right pace and with the right people. We have ways to identify barriers so that other departments, experts or professionals can be brought in where needed, and fallback arrangements so that if people leave post or step out of the role, the work continues without losing momentum.
 
 **Budget (from Graeme):** small budget held by line manager, who approves requests. Covers transport for London/Birmingham conference attendance, Level 3 coaching qualifications for 10 staff (same qualification Graeme took, at lower level), and merchandise/recognition materials. Exact figures not held by Graeme. *→ state this honestly as a limitation of the plan.*
 
