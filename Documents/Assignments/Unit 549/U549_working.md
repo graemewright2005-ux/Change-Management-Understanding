@@ -174,8 +174,40 @@ The core problem in this programme is that I monitor performance of people I do 
 
 ## TASK 4 — Report: "Skills and approaches in managing talent and performance" (1,500 words)
 Three parts:
-1. Practical approaches for team management and leadership (AC4.1) — *not started*
-2. Skills/techniques for current and future needs + techniques for assessing these (AC4.2) — *not started*
+1. Practical approaches for team management and leadership (AC4.1) — **DONE ~590 words**
+2. Skills/techniques for current and future needs + techniques for assessing these (AC4.2) — **DONE ~470 words**
+
+### AC4.1 — Practical approaches for effective team management and leadership
+
+The approaches I use divide into two categories: those that constitute the coaching role itself, and the systems built to make that role possible.
+
+**The tiered support model.** This is the approach most closely aligned to my role as Digital Pedagogy Coach, and the one I would keep if everything else were stripped away. Digital Leads sit in three broad positions: those working independently who need only a framework and a collegiate direction; those who need a sounding board to check and shape what they intend to do; and those who need me to work hands-on with them and their teams. The tier is not fixed to the person, and someone confident in one aspect of the role may need considerably more support in another.
+
+**Responsiveness.** I hold no line management authority over Digital Leads, but I do lead in the space of digital learning, and responsiveness is how that leadership is exercised. I answer their calls, respond to their messages first, and travel to their site where that is what is needed. This is not separate from the tiered model but part of how it works: those who need me to be more hands-on need me to be genuinely available, not available in principle.
+
+**The supporting systems.** The negotiated action plan, the shared diagnostic instrument, the single communication channel and the escalation process held in reserve sit outside the day-to-day coaching role. I built them because they make the coaching work possible. I need to know where the problems are, and I need my time to be spent where it has impact. The Health Check gives me eyes and ears across areas I cannot physically reach, the Teams space means information reaches everyone without depending on me remembering to pass it on, the action plan negotiated with each Digital Lead ensures ownership sits with them, and escalation exists so that non-engagement has a route to resolution without my having to confront it personally.
+
+**What is not yet working.** Engagement is not uniform. Some Digital Leads have read messages without responding, have not completed their Health Check, and have not taken up offers of support. That will require escalation, and I am clear that it does. My judgement at this stage, however, has been to prioritise action plans for those who are engaged, so that the people doing the work are not effectively penalised by my attention going to those who are not. The reasons for non-engagement are not yet established and could include workload, restructure or personal circumstances, and identifying the actual barrier matters more than applying pressure. Establishing that is work for the coming weeks. It is a limitation of the current approach that responsiveness works well for those who respond, and does not yet reach those who do not.
+
+**Alignment to organisational objectives.** The impact these approaches produce has to be aligned to what the organisation is trying to achieve, which is why the programme was proposed around accessibility and inclusion specifically. That framing connects the day-to-day coaching work to the organisational objective that the SEND Framework permeates the college and that teaching, learning and assessment is inclusive for all. Without that alignment, the systems would generate activity rather than impact.
+
+### AC4.2 — Skills and techniques for current and future needs, and techniques for assessing these
+
+Everything currently sits on top of accessibility fundamentals, so the immediate requirement is that those are secure. By the end of this academic year I want the college to be able to say that everything leaving it is accessible: learning material, internal communications, outward posts and social media, produced at any level and in any department, including Professional Learner Services and the executive rather than teaching alone.
+
+Beyond that, four areas of capability are required.
+
+**Digital learning environments.** Once resources themselves are accessible, the question becomes how they reach learners. Most Teams environments contain all the necessary material, but it is not always easy to navigate. Reducing the number of clicks matters because learners who cannot find things disengage, and many of our learners are not digitally literate to begin with. Staff also need confidence in the legal and behavioural dimensions of an online learning space, including GDPR and safeguarding.
+
+**Learner digital skills baselining.** This is work I have begun with Heads of Area. The Ofsted toolkit refers repeatedly to digital skills alongside English and maths in terms of baseline and progression, so staff need to be proficient enough to capture, address and monitor learner progress. This matters given that digital skills teaching in secondary schools is inconsistent and dependent on the confidence of individual teachers.
+
+**Artificial intelligence.** AI needs treating in the same way as accessibility, beginning with fundamentals. Generating impressive resources through clever prompting achieves little if staff cannot then embed them within a coherent model of teaching and learning. It is fast-moving and significant, but capability has to be built in a way that allows confidence to develop.
+
+**Data analysis.** We can now collect data quickly. The requirement is to move it forward without absorbing planning time in analysis, which raises the question of whether automation or AI can carry the processing so that available time is spent shifting practice rather than interpreting spreadsheets.
+
+**Techniques for assessing capability.** Assessment operates through several instruments. The Digital Health Check provides indicator-level data on individual practice. Learning walks provide observation independent of self-report. The RAG framework aggregates this to area level across weighted dimensions. The Jisc Discovery Tool is being released to staff shortly after induction, and will indicate what staff understand, what they are working towards and where they want to improve, giving both a capability picture and a gap analysis.
+
+Each has a weakness. The Health Check is a self-assessment carried out by Digital Leads of varying confidence, so inter-rater consistency is not assured. Coverage is uneven, with some dimensions substantially under-scored in the baseline. The Jisc Discovery Tool relies on self-report. Learning walks provide independent observation but sample only a fraction of practice. Used together they compensate for one another; used singly, any one of them would give a misleading picture.
 3. Good practice for enabling and supporting high performing teams (AC4.3) — *not started*
 
 ---
