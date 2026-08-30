@@ -115,7 +115,21 @@ Mentoring applies where a Digital Lead does not yet hold the answer, which is th
 Coaching applies once a Digital Lead holds their own direction and ambition for how digital learning develops in their department. At that point Whitmore's GROW model becomes more useful. Whitmore, J. (2009) *Coaching for Performance: GROWing Human Potential and Purpose*, 4th edn, Nicholas Brealey, London. Working through goal, reality, options and will allows a Digital Lead to set out what they want to achieve in the short, medium and long term, examine the context they work in daily, and determine their own route forward. My role in that space is genuinely coaching rather than instructing.
 
 The two therefore operate as a sequence rather than an either/or. Mentoring builds the underlying knowledge; coaching takes over once the Digital Lead has enough of it to lead their own agenda. The risk in this is misjudging where someone sits: coaching a person who does not yet have the knowledge produces frustration rather than ownership, which returns to the diagnostic error identified earlier of pitching an activity too high.
-4. Motivational techniques for high performing teams (AC2.3) — *not started*
+4. Motivational techniques for high performing teams (AC2.3) — **DONE ~430 words**
+
+**TASK 2 TOTAL: ~1,580 words** (limit 1,500, ceiling 1,650). Inside tolerance.
+
+### AC2.3 — Motivational techniques
+
+Motivation is the most important element of making this programme work. I have no line management responsibility over the Digital Leads. I cannot offer pay, promotion or sanction. All thirty-six are volunteers and every one of them could stop tomorrow. How I motivate them is therefore not a supporting consideration but the mechanism the whole programme depends on.
+
+My focus has deliberately been on learners rather than on the organisation. The framing is that we are doing this for our learners, not for the college. This is a considered choice rather than a rhetorical one, and it follows Vroom's expectancy theory, which holds that motivation depends on people believing that effort produces performance, that performance produces an outcome, and that the outcome is one they value. Vroom, V.H. (1964) *Work and Motivation*, Wiley, New York. There is a level of distrust about whether identified problems will actually be addressed at organisational level. If Digital Leads believe the data will be gathered and then nothing will follow, the link between performance and outcome breaks and motivation collapses. Framing the outcome as improvement for learners protects that link, because it is an outcome they can see for themselves and one they value.
+
+Deci and Ryan's self-determination theory identifies autonomy, competence and relatedness as the conditions for sustained motivation. Deci, E.L. and Ryan, R.M. (1985) *Intrinsic Motivation and Self-Determination in Human Behavior*, Plenum, New York. The model I have built provides two of these. Digital Leads choose how to run their own area, which gives autonomy, and the CPD programme builds competence. Relatedness is the acknowledged gap, which is why the buddying system and the proposed termly meeting matter: they are attempts to address the one condition the current model does not meet.
+
+Herzberg's two-factor theory distinguishes hygiene factors from motivators. Herzberg, F. (1966) *Work and the Nature of Man*, World Publishing, Cleveland. My position is unusual in that I have no hygiene factors available at all: no pay, no status, no improved conditions. I can work only with motivators, namely achievement, recognition, responsibility and growth. This is why I invest in Digital Leads as future leaders, so they gain experience they can carry into applications for higher roles, and why I invest in their staff, so they can see the effect of their work on their own learners.
+
+The limitation running through all of this is the same distrust identified above. Where staff question whether their work is respected or acted upon organisationally, motivation is fragile. My response is to keep the purpose located where it is credible: this is about their learners and their own development.
 
 ## TASK 3 — Good practice guide: "Approaches to achieving a balance of skills and experience in a team" (1,000 words)
 Two parts:
