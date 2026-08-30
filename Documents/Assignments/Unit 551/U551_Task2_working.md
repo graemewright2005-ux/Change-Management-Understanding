@@ -13,16 +13,16 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Methodology / Approach (incl. data and analysis techniques) | AC3.3 | 330 | **314** |
 | Project Deliverables | AC3.1 | 150 | **44** + table |
 | Timeline / Schedule | AC3.1 | 150 | **72** + table |
-| Budget | AC3.1 | 150 | **148** + table |
+| Budget | AC3.1 | 150 | **196** + table |
 | Resource Requirements | AC3.1 | 160 | table only |
-| Risk Management | AC3.4 | 330 | — |
-| Stakeholder Analysis | AC3.1 | 280 | — |
+| Risk Management | AC3.4 | 330 | **344** |
+| Stakeholder Analysis | AC3.1 | 280 | **103** + table |
 | Communication Plan | AC3.2 | 300 | — |
 | Quality Assurance / Control | AC4.1 | 240 | — |
 | Evaluation / Measurement | AC4.1 | 300 | — |
 | Problem Solving and Decision Making | AC4.2 | 300 | — |
 | Project Closure | AC4.3 | 280 | — |
-| **Total** | | **3,580** | **1035** |
+| **Total** | | **3,580** | **1530** |
 
 Timeline, budget, resources and the stakeholder map should carry their detail in **tables**, which are excluded from the word count. Keep the surrounding prose lean.
 
@@ -119,7 +119,17 @@ Phasing is expressed relative to project start rather than against fixed calenda
 
 The defining budgetary feature of this project is that it carries no devolved budget. I can propose expenditure but not authorise it. The material cost is therefore staff time rather than cash, and platform costs sit on budgets held elsewhere in the college. The figures below are indicative and rest on stated assumptions; presenting them transparently is more useful than presenting a cash schedule that was never committed.
 
-**Assumptions:** Jisc Discovery is included within existing college membership at no marginal cost. Century is already contracted, so no new licence cost arises from this project. All staff time is absorbed within existing contracted hours rather than funded additionally, which means the true constraint is capacity, not cash.
+**Assumptions.** Jisc Discovery is included within existing college membership at no marginal cost. Century is already contracted for English and mathematics, so its digital skills diagnostics carry no new licence cost and, significantly, the data protection instruments already exist. All staff time is absorbed within contracted hours rather than funded additionally, so the true constraint is capacity, not cash. Time estimates below are planning assumptions to be validated at initiation, not measured figures.
+
+**Staff time model.**
+
+| Activity | Assumption | Volume | Total hours | Approx. FTE days |
+|---|---|---|---|---|
+| Staff completion of Jisc Discovery | 45 minutes per member of staff, once annually | 600 staff | 450 | 60 |
+| Digital Leads cascade and support | 4 hours per lead per cycle | 36 leads | 144 | 19 |
+| Heads of Area reporting | 2 hours per area per reporting cycle | 35 areas | 70 | 9 |
+| Project lead: configuration, analysis, area profiles, coaching | Within existing post | 1 post | — | Absorbed |
+| **Total additional staff time drawn from curriculum capacity** | | | **664** | **≈ 88** |
 
 | Cost category | Basis | Indicative cost | Budget held by |
 |---|---|---|---|
@@ -131,6 +141,8 @@ The defining budgetary feature of this project is that it carries no devolved bu
 | Project lead time | Digital Pedagogy Coach post | Absorbed within existing post | Quality and Innovation |
 | SharePoint asset development | Digital Pedagogy Coach post | Absorbed within existing post | Quality and Innovation |
 | Contingency | None available | Nil | No devolved budget exists |
+
+Expressed this way, the project asks the college for roughly 88 working days of existing staff capacity and no cash at all. That is the honest figure, and it is the one that should have been presented at initiation.
 
 **The budgetary risk this exposes.** A project with no cash cost appears free, and a project that appears free attracts no governance, no sponsor and no protection. The absence of a contingency line is not an oversight; it is the reason the project could be paused without any budgetary consequence being visible to anyone.
 
@@ -161,6 +173,44 @@ The project generates a deliberate mixture of quantitative and qualitative data.
 Because auditing digital capability triggers staff anxiety, storage and access are governed by a strict staff-hold-their-own-data model. This is a methodological decision taken to protect psychological safety, not merely a compliance measure. Individual staff retain complete ownership of their Jisc Discovery profiles. Management and project leads see only anonymised, aggregated data at departmental level, never individual performance metrics. The only individual-level information shared with me is the direction a member of staff wishes to develop in and the priorities they have set for themselves. Learner diagnostic data held on Century is managed under role-based access controls, so that only the educators directly responsible for those learners can view it, maintaining UK GDPR compliance.
 
 Raw data from these streams is collated using securely hosted internal tools, principally dedicated SharePoint pages, and analysed to build highly specific profiles for individual academic and support departments. Data is not collected for reporting alone; it drives what happens next. Analysing area profiles translates raw data into targeted action, deploying coaching resource precisely where the operational gaps sit, rather than relying on generic blanket training that never addresses a specific need.
+
+---
+
+## Risk Management (AC3.4)
+
+**Drafted — 344 words (budget 330).**
+
+Risk was assessed against what could realistically stop delivery rather than against a generic register. Three threats were real: volunteer disengagement, staff anxiety about being audited, and the absence of a formal budget or sponsor, which left the project exposed to shifting organisational priorities (PMI, 2021).
+
+One anticipated risk proved overstated. Inter-rater inconsistency was a lesser threat than expected, because baselining relies on standardised platforms rather than subjective human observation. Jisc Discovery and the Century diagnostics are adaptive: they alter the questions presented according to the responses given, and they are standardised against national digital skills frameworks. The instrument, not the assessor, carries the reliability.
+
+One risk was understated, and it is an administrative one. Securing a signed data processing agreement and data protection impact assessment for an external platform is a serious schedule risk capable of blocking execution entirely. Here it did not materialise, but for a reason that was fortunate rather than planned: the college holds a long-standing relationship with Century through its mathematics provision, so the agreements were already written and signed off. Aligning the digital skills diagnostic to an existing contracted platform removed a dependency that could otherwise have halted the project for months.
+
+Two mitigations were built into the design. To prevent baselining from feeling like a punitive performance audit, the staff-hold-their-own-data model means management reviews aggregated and anonymised trends only. Understanding the trend is sufficient to plan; individual data is neither needed nor sought. To mitigate volunteer dependency, the Framework was broken into modular, tiered phases so that volunteers could contribute in short bursts without their primary teaching load being overwhelmed.
+
+The risk that materialised was the shifting of organisational priorities. Lacking a formal charter or a ring-fenced budget, the overarching Framework had to be paused when restructures and departmental priorities moved. Naming a risk and then watching it occur is not a failure of project management; it demonstrates that the register was accurate. It also allowed a controlled pivot rather than a collapse, into SharePoint assets, teaching materials and guides addressing the areas of more urgent need.
+
+---
+
+## Stakeholder Analysis (AC3.1)
+
+**Drafted — 103 words of prose plus table (budget 280).**
+
+Stakeholder analysis here deliberately avoids a standard power and interest grid, and uses instead a resource dependency perspective, which holds that organisations and actors are governed by their dependence on resources controlled by others (Pfeffer, J. and Salancik, G.R. (1978) *The External Control of Organizations: A Resource Dependence Perspective*, Harper & Row, New York). This frame suits a project run without formal authority far better, because the operative question is not how powerful someone is but what they control that the project cannot proceed without.
+
+| Stakeholder | Resource they control | Impact of withdrawal |
+|---|---|---|
+| Assistant Principal, Quality (line manager) and Vice Principal, Quality | Authority, strategic alignment, integration into the Quality Handbook, and the direction of my time and resource | The project loses its organisational mandate and becomes an isolated, unfunded idea |
+| Heads of Area | Staff time, teaching timetables and area priorities | Without their permission teaching staff cannot participate, and the operational transition fails immediately |
+| Digital Leads and teaching staff | Peer-to-peer influence and classroom execution — they perform the practice the project exists to improve | The delivery mechanism collapses at grassroots level; no line management authority exists to compel participation |
+| Digital policy post holder | Platform, policy and governance environment the project operates within | Misalignment between skills work and policy direction; duplicated or contradictory activity |
+| Personal Development team | Ownership of learner RAG rating and progression reporting | Learner progression cannot be evidenced beyond the initial baseline |
+| Learners | Participation in diagnostics | No baseline, and therefore no measurable progression |
+| Jisc | The Discovery instrument, sector benchmarking and community expertise | Loss of a nationally standardised staff baselining tool and of external validation |
+| Century | Learner diagnostic platform, progression data, and the pre-existing data protection agreements | Loss of learner baselining capability and reintroduction of the DPIA schedule risk |
+| Ofsted | The regulatory judgement on the college's digital skills provision | If the Framework fails to satisfy inspection criteria, the project fails its primary strategic purpose |
+
+Each group requires a different mode of communication, reporting and relationship building, addressed in the communication plan below.
 
 ---
 
