@@ -70,8 +70,38 @@ The second is a termly meeting of all Digital Leads. This directly addresses the
 
 ## TASK 2 — Briefing paper: "Methods that can be used to monitor, manage and improve individual and team performance" (1,500 words)
 Four parts:
-1. Factors impacting L&D selection for **individuals** (AC2.1) — *not started*
-2. Factors impacting L&D selection for **teams** (AC2.1) — *not started*
+1. Factors impacting L&D selection for **individuals** (AC2.1) — **DONE ~370 words**
+2. Factors impacting L&D selection for **teams** (AC2.1) — **DONE ~380 words**
+
+*Running total Task 2: ~750. Remaining budget for 2.2 and 2.3: ~450 each (ceiling 1,650).*
+
+### AC2.1 Part 1 — Individuals
+
+Selection begins with diagnosis. The Digital Health Check data shows specifically what each Digital Lead has assessed and where the gaps sit, which allows intervention to be targeted at the right person, at the right level. It is entirely possible for a department to be strong overall while particular individuals are not, in which case those individuals can be trained rather than the whole team. The reverse also occurs, where the data shows an entire team, or a substantial part of it, making the same mistakes. Having the data allows the decision to be made accurately rather than by assumption.
+
+The most common error I have made in selecting activities is assuming a level of underlying knowledge that is not there, and pitching the activity too high as a result. This is a diagnostic failure rather than a delivery one: the activity may be well designed, but if it assumes basics the individual does not hold, it cannot land. It has required me to check more carefully what staff actually need before selecting the activity.
+
+Severity of need and available capacity then determine the form. Some individuals require only a nudge: a resource handed over, or a reminder to check that alt text is being applied consistently. Others need instructional coaching or mentoring to move towards working independently at the expected level. Staff with full timetables cannot regularly access one-to-one coaching or Teach Meets, so I maintain SharePoint sites containing guides, videos, advice and checklists supporting independent learning at a time that suits them. Where practice does not change over time, the process escalates to something more formal. For teams already working well, the discussion focuses instead on innovation and showcasing what they have achieved.
+
+Readiness is a further factor. Some staff, Digital Leads and Heads of Area will be defensive or resistant, and in terms of the adoption curve may sit among the laggards. These individuals need a different model of support to become ready and confident, rather than the same activity delivered more insistently.
+
+Varying the format also aligns with cognitive style. Sadler-Smith, E., Allinson, C.W. and Hayes, J. (2000) 'Learning Preferences and Cognitive Style: Some Implications for Continuing Professional Development', *Management Learning*, 31, pp. 239–256. One person may prefer video they can pause and rewind; another a checklist to work through against the expectations; another someone alongside them while they make the changes. Providing multiple routes meets differing capacity and preference, and it makes escalation defensible: where someone has had several accessible routes to the same learning and practice still has not changed, escalation rests on evidence rather than assumption.
+
+### AC2.1 Part 2 — Teams
+
+Several factors operate at team level that do not apply when working with an individual.
+
+The first is Head of Area buy-in. To work with an individual I need that person's consent; to work with a whole team I need their manager's. Without it, a session can take place but the practice that follows it will not be reinforced.
+
+The second is group dynamic. As in any classroom, one person can derail the tone of a session and change both how the content lands and the direction the work then takes. This makes the opening important: bringing everyone together to understand the journey and the overall arc before working through the detail.
+
+The third is timetable and cover cost. It is unlikely that lessons can be covered to release a whole team, and the most likely answer to that request is no. There are, however, times when teams already meet, and the practical response is for me to be flexible enough to meet them in the space they already have rather than asking the organisation to create one.
+
+Existing team culture matters. In one team an awkward relationship dynamic, compounded by significant changes in personnel, means learning and resources are not readily shared. I am working with that team alongside their Teaching, Learning and Assessment Manager, with the aim of moving towards a culture where resources are shared and peer support helps them develop as a group.
+
+Spread of need is a further consideration. The Health Check data shows whether an entire team, a portion of it, or specific individuals require training. Where only part of a team needs an intervention, that group can be worked with directly and the remainder's time protected, either for bespoke support later or for more innovative work.
+
+How a team arrives at the need also shapes what can be delivered. The Digital Lead for English raised accessibility following the audit, and I communicated the data to the Deputy Head of Area, who recognised that staff were not consistently embedding it. The point landed fully only once we discussed the specific cohort: learners who did not achieve a grade 4 in GCSE English, whose barriers are likely to be significant, and for whom some existing material actively creates further barriers. She then wanted to understand cognitive overload and how material design can nurture curiosity. The audit surfaced the issue; framing why it mattered for that cohort is where my role adds something the Digital Lead could not.
 3. Coaching and mentoring models (AC2.2) — *not started*
 4. Motivational techniques for high performing teams (AC2.3) — *not started*
 
