@@ -96,7 +96,21 @@ My intention is to report back to Digital Leads directly, so that they can repor
 ---
 
 ## AC2.3 — Assess the ethical requirements that influence an operational plan
-*Not started*
+*~600 words — trim at final pass if needed*
+
+**Equality of access.** The most significant ethical requirement is equality of access. Framed as making learning materials accessible by design, it can sound like a nice-to-have. Framed the other way round — understanding why those learners need assistive technology in the first place — the question becomes why we are not treating it as an absolute priority that everything we produce is built with them in mind. We are currently failing our most vulnerable learners, whether through time pressure, poor habits, or lack of knowledge. For me this is foundational: everything else sits above it, and until it is right, the work above it is compromised. That is not the current reality, but it is the central ethical issue in this plan.
+
+There is also a legal dimension. The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 apply to further education institutions, which are considered in scope through their dependence on public funding. Significantly, the regulations extend beyond public-facing websites to intranets, extranets, virtual learning environments and the digital content held on them, including documents, presentations and eLearning resources. The standard required is WCAG 2.1 AA. Content published before 23 September 2019 is exempt until it undergoes substantial revision, which means that material staff create or update now falls within scope. These regulations sit alongside the Equality Act 2010 duty to make anticipatory reasonable adjustments. Jisc (no date) Accessibility regulations – what you need to know. Available at: https://www.jisc.ac.uk/guides/accessibility-regulations-what-you-need-to-know (Accessed: 30 August 2026). I have had recent discussions with leaders who were not aware of these requirements, which is itself an ethical issue: we cannot expect staff to meet standards that the organisation has not clearly communicated.
+
+**Reporting on colleagues.** I find it difficult to report on colleagues without first having done everything I can to support them. This is one reason I keep communication lines open and offer help consistently and informally. It is also practical. When I hand a visible report to the Vice Principal and am asked why a department has completed none of the required actions, I need to be able to answer that question. So the obligation runs two ways: supporting colleagues to meet the requirements so that their departments and learners benefit and the organisational objective is advanced, and ensuring I cannot fairly be accused of failing to support colleagues over whom I have no management responsibility.
+
+**The volunteer relationship.** The Digital Lead role is voluntary, but it was put to Heads of Area that someone in their team would need to take it on, and that if nobody did, it would fall to them. It is unpaid, which creates an obligation to invest in those people in other ways. There are opportunities to attend educational conferences on digital learning in London and Birmingham, and ten members of staff will be offered coaching qualifications. I am also developing recognition: branded items such as hoodies or lanyard badges, a logo for email signatures, presence in the monthly staff newsletter, and a space on our internal SharePoint identifying the Digital Leads and showcasing their work.
+
+Alongside this, I want them to understand the significance of what they are doing. The way I explained it to one group drew on my previous work as a sound engineer: if I did not do my job with integrity and care, the artists on stage would not sound good. Nobody in the audience recognises the sound engineer's work, but it is the sound engineer who makes everything else work.
+
+**Honesty in the baseline.** I made clear in the baseline audit that we wanted to see the true state of things, including everything that was uncomfortable. An audit designed to produce reassuring results would be worthless, and would remove any ability to demonstrate improvement later. Being honest about the starting position is what allows even small improvements to be visible and meaningful.
+
+> **VERIFY:** Jisc page date. Check WCAG version currently expected (2.1 AA is the regulatory standard; 2.2 increasingly the sector expectation).
 
 ---
 
