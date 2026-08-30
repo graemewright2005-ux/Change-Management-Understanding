@@ -37,8 +37,36 @@ The clear limitation of this model in my context is time. An Ofsted inspection i
 
 Katzenbach and Smith distinguish between a working group and a real team, the difference being shared purpose and mutual accountability. Katzenbach, J.R. and Smith, D.K. (1993) *The Wisdom of Teams: Creating the High-Performance Organization*, Harvard Business School Press, Boston. Judged against that, the Digital Leads are currently a working group: a network of individuals with a common task rather than a team. My intention is that they become a community that shares good practice, shares progress, and supports each other through problem-solving, and from there a genuine team, because they recognise that what they are doing together drives improvement across the organisation.
 
-3. Analyse strategies for managing **team leaders** (AC1.2) — *not started*
-4. Develop approaches for **multiple and remote teams** (AC1.3) — *not started*
+3. Analyse strategies for managing **team leaders** (AC1.2) — **DONE ~420 words**
+4. Develop approaches for **multiple and remote teams** (AC1.3) — **DONE ~340 words**
+
+**TASK 1 TOTAL: ~1,690 words** (limit 1,500, ceiling at +10% = 1,650). Trim ~50 words at final pass — AC1.1 styles section is the fattest.
+
+### AC1.2 — Analyse strategies for managing team leaders
+
+Managing team leaders in this context means leading colleagues who are themselves responsible for others, albeit in a voluntary capacity, and doing so from a position where I hold no authority.
+
+The first strategy is building credibility rather than capability alone. Most Digital Leads can already carry out the technical work. What they need is standing within their own department. This is why I use the staff newsletter and the internal SharePoint to make their work visible, and why I push them towards leading Teach Meets and training sessions with their own teams rather than delivering those sessions myself. I am also developing them as future leaders by taking them to conferences and putting them forward for mentoring and coaching qualifications.
+
+The second strategy is deliberately not working around them. I hold the audit data, so I know which members of staff need support, and I could approach those individuals directly. Doing so would be faster, but it would undermine the Digital Lead's authority and credibility in their own department, which are the two things I most need them to have.
+
+This shapes how the action plans work. Rather than issuing an action plan, I present it to the Digital Lead for approval. I set out what I believe needs to happen and ask whether that is what they would like to happen. I then ask whether they would like to put forward any members of staff for me to work with directly. This gives them ownership of their team's development, with my support, rather than positioning me as the person who intervenes in their area.
+
+The limitation of this approach is pace. I hold the data and know which staff need support, so I could act directly and see rapid impact. Going through the Digital Lead is slower. But undercutting their authority for the sake of quick wins creates a longer-term problem: if I damage a Digital Lead's credibility, or lose their buy-in, there will be work later that I cannot do at all.
+
+This reflects Spillane's account of distributed leadership, where leadership is enacted through others rather than held by one person. Spillane, J.P. (2006) *Distributed Leadership*, Jossey-Bass, San Francisco. My leadership travels through the Digital Leads, and supporting them in that role, even as volunteers, achieves more over time than I could deliver alone. Wageman similarly finds that team leaders are most effective when they have autonomy, clear goals and support. Wageman, R. (2001) 'How Leaders Foster Self-Managing Team Effectiveness: Design Choices Versus Hands-On Coaching', *Organization Science*, 12(5), pp. 559–577. That is the basis of my approach: the more I develop Digital Leads as future leaders, the greater their impact on digital learning across the organisation.
+
+### AC1.3 — Develop approaches to respond to the challenges of managing and leading multiple and remote teams
+
+Working with the Digital Leads presents several challenges. They are geographically dispersed across nine sites. Most know very little about each other and many have never met. Everything operates asynchronously, because timetables differ and there is no common free period across the network. Sites also differ in their infrastructure, with variation in Wi-Fi reliability, device availability and the wider context in which staff work.
+
+Several approaches are already in place. A dedicated Teams space carries messages, resources, direction and deadlines. I maintain weekly or fortnightly contact with each Digital Lead individually. I travel to their site when asked. I use a differentiated approach according to what each person needs rather than applying a single method across the network.
+
+Two further approaches would strengthen this, both of which I have discussed with my line manager.
+
+The first is buddying areas together, so that Digital Leads have a counterpart to work alongside rather than operating in isolation. This is under discussion. Some areas are keen; others are less aligned to the idea, so it would need to be built where the willingness exists rather than imposed across the network.
+
+The second is a termly meeting of all Digital Leads. This directly addresses the point made earlier in this report: judged against Katzenbach and Smith, the network currently functions as a working group of individuals with a common task rather than a team, and remote working does not generate the shared purpose and mutual accountability that would change that. A face-to-face meeting would create the conditions for sharing practice and problem-solving together. It would need careful planning. Travel arrangements would be required for those coming from other sites, and lesson cover may need to be arranged where the meeting clashes with teaching commitments. These are practical costs that would need approval, but a face-to-face meeting is the most direct route to building the relationships that remote working does not generate on its own.
 
 ## TASK 2 — Briefing paper: "Methods that can be used to monitor, manage and improve individual and team performance" (1,500 words)
 Four parts:
