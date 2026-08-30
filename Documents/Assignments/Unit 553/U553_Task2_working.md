@@ -127,5 +127,19 @@ Digital learning environments are the next phase rather than part of this one. C
 
 > **LINK:** ties back to PDCA (Task 1, AC1.2) and to Brookfield's four lenses (used in U554 AC1.3) — self, learners, colleagues, theory. Consider naming triangulation explicitly.
 
-## AC4.2 — legal and organisational factors
-*Not started — parked material: Read&Write install friction with IT; leaders unaware of accessibility regulations; Ofsted inspection and restructuring as external factors outside Graeme's control*
+## AC4.2 — Assess the impact of legal and organisational factors on an operational plan
+*~600 words*
+
+**Legal factors.** The plan is shaped by WCAG 2.1 AA, the Public Sector Bodies Accessibility Regulations 2018, and the Equality Act 2010. Material published before September 2019 is not required to be compliant until substantially revised, but that is now seven years ago and most material has changed since. The practical impact is a sequencing decision: my plan is to ensure all newly created material meets the standard from now until January, then work back retrospectively through older material.
+
+An unresolved legal question has been raised by Digital Leads and Heads of Area. Some awarding bodies require the use of their own materials and assignment briefs. These are often legacy documents, they are inaccessible, and they do not meet the required standards. Our Accessibility Manager is keen to raise this with awarding bodies to ensure that what we provide meets standards regardless of origin. I have deliberately parked this until internal material is addressed, since it is outside our direct control and would divert effort from work we can complete.
+
+The Equality Act dimension is one of equity: some learners have better access than others. Learners are entitled to use Read&Write and we hold licences, but it is difficult to deploy to learner machines, so installation falls to the user. The learners most likely to need it are the least likely to have the digital confidence to install it, so they depend on teaching staff who are frequently unaware that Read&Write exists or how to find it. Organisationally this is difficult, because the communication and process sit with a different department. The impact on my plan is a dependency I cannot resolve directly.
+
+The audit has also surfaced a GDPR issue. Some tutors lack confidence in managing their Teams learning environment, and in one case learners' one-to-one notes were held where the whole team could access them. Not only view them, but edit them. This required immediate correction with the member of staff concerned. It illustrates that the plan's scope extends beyond accessibility into data compliance.
+
+**Organisational factors.** Legal compliance strengthens the argument for the work. Staff sometimes ask whether this is being done for Ofsted. It is not only for Ofsted, or to evidence inclusion more effectively. It is for learners, their experience and their confidence, which is the human argument. But providing non-compliant material through a virtual learning environment is also serious and urgent in its own right.
+
+My concern is how well this is understood by those in positions of power. Part of the purpose of this programme is to reach Vice Principals and Deputy Principals, and for that understanding to cascade to Heads of Area and Digital Leads. I need to inform those with authority that this is urgent, and to enable those in a position to act. I can then work with Heads of Area, Digital Leads and their staff to ensure people have the training and knowledge to make the changes.
+
+Competing priorities also affect the plan. An Ofsted inspection is expected, and will take precedence. Considerable additional evidence will be required on how we manage learners' education and monitor baseline skills and progress, particularly in English, maths and digital skills. This creates an opportunity as well as a pressure: digital now has a route into inclusion, and also into the baselining and monitoring of English, maths and digital skills progression.
