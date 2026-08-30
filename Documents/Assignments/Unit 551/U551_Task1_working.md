@@ -107,7 +107,33 @@ Substantial content on **learner digital literacy** was dictated during AC1.1 bu
 1. **Project Management Institute (2021)** *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*, 7th edn, Project Management Institute, Newtown Square PA. — Used for the definition of a project and for stakeholder engagement. PMBOK 7 is principles-based and lists twelve principles including *stewardship*, *stakeholders* and *tailoring*.
 2. **AXELOS (2017)** *Managing Successful Projects with PRINCE2*, 6th edn, TSO, London. — Used for tailoring and continued business justification, both of which are PRINCE2 principles. Note: *tailoring* appears in both PMBOK 7 and PRINCE2; attributing it to PRINCE2 is defensible and consistent.
 
+## Ofsted toolkit — VERIFIED 30 August 2026 against the primary source
+
+Source read in full: *Further education and skills inspection toolkit*, Ofsted, updated 9 September 2025, 58 pages. (The copy in project knowledge is a zip of page-by-page text extracts, not a corrupt file — it is readable.) Operating guide is for use from November 2025.
+
+**Correct title:** *Further education and skills inspection toolkit*. **Do not write "EIF toolkit"** — the Education Inspection Framework is the superseded predecessor.
+
+**Verified count:** "digital" appears **six** times, not seven. Five of those six are "digital skills".
+
+**The finding that matters.** Every one of the five uses the identical formulation — **"English, mathematical and digital skills"**. Digital is bracketed with English and maths in the same phrase, every time. This evidences the parity claim far better than a count does.
+
+**Location.** All five sit in **Achievement** (pp. 41–48), a graded provision-type-level evaluation area — not in Curriculum, teaching and training.
+
+| Page | Context |
+|---|---|
+| 41 | Evidence gathering: inspectors evaluate *leaders' actions to secure learners' development of English, mathematical and digital skills* to help them access learning and take next steps |
+| 43 | Whether leaders support learners and apprentices to gain the English, mathematics and digital skills needed for study and future progression |
+| 45 | Grading descriptor, expected standard: learners broadly develop the English, mathematical and digital skills needed to study the curriculum and achieve their learning goals |
+| 46 | Grading descriptor, needs attention: learners do not develop English, mathematical and digital skills well enough for their learning goals or qualification |
+| 47 | Grading descriptor: learners cannot progress in courses and qualifications because they do not gain the necessary English, mathematical or digital skills |
+| 32 | The sixth mention — providers' use of technology and *digital platforms* for teaching and learning. Curriculum, teaching and training. A different point; do not conflate. |
+
+**Defensible claim for the assignment:** digital skills appear in the Ofsted inspection toolkit only ever bracketed with English and mathematics, and they appear within the graded descriptors for Achievement — including as a named reason a provider falls below the expected standard. There is therefore a graded inspection judgement partly dependent on learners' digital skills development, and the toolkit names leaders' actions as the evidence for it.
+
+**Reference:** Ofsted (2025) *Further education and skills inspection toolkit*, updated 9 September 2025, Ofsted, Manchester.
+
+**Use this in AC1.2**, not AC1.1 — it is the organisational-goal and competitive-advantage argument.
+
 ## Flags — must be resolved before submission
 
-1. **Ofsted precision (raised in dictation, not yet used in the draft).** The claim as dictated was that the "EIF toolkit launched November 2025" refers to digital skills roughly seven times, giving digital skills parity with English and maths. Three problems: (a) the document is the *Further education and skills inspection toolkit*, not the EIF — the EIF is the superseded framework and using the wrong name in a Level 5 submission is an easy mark to lose; (b) it was published 9 September 2025 and came into force 10 November 2025; (c) the "seven mentions" and the "equal parity with English and maths" claims need either a verified count and page references or softening to something defensible. Graeme to confirm — his sector knowledge on this has been right before.
-2. **AC1.1 is 63 words over budget.** Not yet paid for.
+1. **AC1.1 is 63 words over budget** (483 against 420). Not yet paid for. Absorb into the +10% margin or take it back from AC1.4 at the final pass.
