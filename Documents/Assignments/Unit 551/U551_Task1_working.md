@@ -23,9 +23,9 @@ Status: **paused, and partly descoped** — parts of it are no longer in the rem
 | 3. Project Contribution to Organisational Goals | AC1.2 | 400 | **428** (+28) |
 | 4. Process for Initiating Projects | AC1.3 | 420 | **438** |
 | 5. Examination of Tools and Techniques | AC1.4 | 520 | **543** |
-| 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | — |
+| 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | **509** |
 | 7. Conclusion | — | 150 | — |
-| **Total** | | **2,500** | **1892** |
+| **Total** | | **2,500** | **2401** |
 
 Ceiling is 2,750 (+10%). AC1.1 is 63 over budget. Not paid for yet — either absorb it into the margin or take it back from AC1.4. Decide at the final pass, not now.
 
@@ -111,9 +111,19 @@ The distinction is ultimately this. In a predictive context a project is managed
 
 ## 6. Impact of Legal, Organisational and Ethical Factors (AC2.1)
 
-*Command verb: examine (AC) / evaluate (task heading) — treat as evaluate: strengths, limitations, judgement, with examples.*
+*Command verb: examine (AC) / evaluate (task heading) — treated as evaluate: weighed impact, judgement, with examples.*
 
-*Not yet drafted.*
+**Drafted — 509 words (budget 470).**
+
+Projects do not exist in a vacuum; they are constrained by the external and internal conditions around them, described in project management as enterprise environmental factors (PMI, 2021). For this project those factors shaped both its scope and its survival. Externally, the Ofsted requirement set the direction and sector bodies such as Jisc shaped what a credible response looked like. Internally, the position was unusual: another senior post holds digital across the college, but that role steers the policy direction of digital rather than the specific skills staff and learners need to develop. The Digital Skills Framework occupies that gap, and each curriculum area needs its own industry-aligned set of skills within it.
+
+**Legal factors** created non-negotiable boundaries. The Equality Act 2010 and the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 make the college accountable not only for the materials produced for learners but for the digital environments those learners work in, including Microsoft Teams and the content held within it. The regulations require conformance with WCAG 2.1 AA; I apply WCAG 2.2 AA as an internal standard, since it is the current W3C recommendation. Accessibility remains an area of concern for us and for many other colleges. Data protection was equally material. Century is a third-party platform with access to learner data, so the Data Protection Act 2018 and UK GDPR require a data processing agreement and a data protection impact assessment. Those are in place; had they not been, the project could not have proceeded in that form.
+
+**Ethical factors** centred on the collection and use of staff capability data. Baselining staff digital skills through the Jisc Discovery tool creates a dataset about individual competence. I resolved this by ensuring staff retain their own data and share only their development priorities with their Digital Lead, their line manager and me. As a coach I do not need to see the scores; I need to understand the direction someone wants to move in. The boundary is that the data supports development and is not repurposed as performance management. This is not theoretical: a member of staff left the Digital Leads programme because they were uncomfortable auditing colleagues. Without psychological safety, staff will not engage, and the project fails for want of data.
+
+**Organisational factors** determined how the project was managed. Lacking budget control and line management authority, I aligned the project's objectives directly to the Quality Handbook to secure internal buy-in and ensure the scope sat correctly within the Quality function. Shifting organisational priorities and restructuring then altered the timeline and contributed to the decision to pause elements of the Framework and concentrate on others.
+
+On balance, the legal factors set hard limits and directly influenced the decision to pause, because compliance on accessibility had to be secured before building further. The ethical factors determined whether staff would participate at all. But it is the organisational factors — the absence of formal authority, competing departmental priorities and structural change — that have had the greatest impact on how this project has moved forward.
 
 ---
 
@@ -167,4 +177,5 @@ Source read in full: *Further education and skills inspection toolkit*, Ofsted, 
 ## Flags — must be resolved before submission
 
 1. **Running overspend: +91 words** (AC1.1 +63, AC1.2 +28). Target 2,500, ceiling 2,750, so 250 of headroom remains. Not a problem yet. It becomes one if AC1.3 and AC1.4 also run over — decide at the final pass.
-2. **Conclusion must reuse, not repeat.** Graeme's dictated closing line for AC1.2 — that the strategic purpose was to equip staff to evidence digital competency for Ofsted and ensure learners graduate with the skills local employers demand, protecting the college's reputation and long-term mandate — has been held back deliberately. It is a conclusion sentence, not an AC1.2 sentence. Use it in section 7.
+2. **WCAG version — corrected in draft, confirm you are happy.** The dictation said PSBAR requires WCAG 2.2 AA. PSBAR 2018 mandates **WCAG 2.1 AA**; WCAG 2.2 is the current W3C recommendation and your own internal build gate. The draft now states 2.1 AA as the legal requirement and 2.2 AA as the standard you apply. This is both accurate and to your credit.
+3. **Conclusion must reuse, not repeat.** Graeme's dictated closing line for AC1.2 — that the strategic purpose was to equip staff to evidence digital competency for Ofsted and ensure learners graduate with the skills local employers demand, protecting the college's reputation and long-term mandate — has been held back deliberately. It is a conclusion sentence, not an AC1.2 sentence. Use it in section 7.
