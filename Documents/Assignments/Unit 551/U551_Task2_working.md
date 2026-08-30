@@ -19,10 +19,10 @@ Target: 3,500 words (+/- 10%). Tables, figures and references are excluded from 
 | Stakeholder Analysis | AC3.1 | 280 | **103** + table |
 | Communication Plan | AC3.2 | 380 | **369** |
 | Quality Assurance / Control | AC4.1 | 380 | **353** |
-| Evaluation / Measurement | AC4.1 | 400 | — |
-| Problem Solving and Decision Making | AC4.2 | 400 | — |
-| Project Closure | AC4.3 | 380 | — |
-| **Total** | | **3,500 target** | **2252** |
+| Evaluation / Measurement | AC4.1 | 400 | **424** |
+| Problem Solving and Decision Making | AC4.2 | 400 | **354** |
+| Project Closure | AC4.3 | 380 | **354** |
+| **Total** | | **3,500 target** | **3384** — TASK 2 COMPLETE |
 
 Timeline, budget, resources and the stakeholder map should carry their detail in **tables**, which are excluded from the word count. Keep the surrounding prose lean.
 
@@ -244,4 +244,42 @@ The review with my line manager illustrates why control remains necessary even w
 
 ---
 
-*Remaining: Evaluation/Measurement (AC4.1), Problem Solving and Decision Making (AC4.2), Project Closure (AC4.3).*
+## Evaluation / Measurement (AC4.1)
+
+**Drafted — 424 words.**
+
+Project evaluation requires comparing actual performance against planned objectives (APM, 2019). Success would be measured principally through baseline-to-reassessment comparison on the Jisc Discovery tool for staff, and progression data from the Century platform for learners, allowing the movement of both groups to be mapped over time. Staff complete Discovery, a collegiate picture is produced, and reassessment establishes whether that picture has shifted. Century provides the learner starting point and then individual progression across their time at college. Operationally, success would also be measured through diagnostic completion rates, through Head of Area progression reporting — where each area sees its own data and completion position and takes it forward with me — and through movement in departmental RAG ratings across the academic year.
+
+Every one of those methods carries a limitation that has to be acknowledged. Jisc Discovery is a self-assessment instrument, and self-assessment measures confidence rather than competence: a member of staff may score highly precisely because they do not know what they do not know. This is not hypothetical. Staff at Weston College presented as knowledgeable about accessibility and inclusion, yet the Digital Lead audits established that a substantial number did not know how to apply it. Confidence and capability had separated. Completion rates are weaker still, since logins and module completions measure participation only, and prove neither learning nor behavioural change — which is precisely why qualitative data must sit alongside the quantitative. RAG ratings and Head of Area reporting are largely subjective management judgements, and are therefore vulnerable to bias and to inconsistent application between departments, between points in the year, and between competing local priorities. Finally there is the attribution problem: even if digital skills improve across the college, it is analytically difficult to demonstrate that the Framework caused the improvement rather than external factors or ordinary operational coaching.
+
+The pause limits evaluation scope sharply, because the project halted before the operational transition. What can be evaluated is the outputs: the quality and accessibility of the SharePoint assets produced, initial participation in the December pilot diagnostics, and the foundations finding itself, which established that the college was not compliant on accessibility and inclusion and therefore could not build above that level. What cannot yet be evaluated are the outcomes or the benefits. I cannot demonstrate that the Framework shifted long-term digital capability or removed barriers to learning, because the project stopped before those benefits could be realised. What I would argue is that proceeding deliberately — securing the foundation before resuming the wider Framework — makes the removal of those barriers more likely, not less.
+
+---
+
+## Problem Solving and Decision Making (AC4.2)
+
+**Drafted — 354 words.**
+
+The most significant problem encountered was the foundations non-compliance finding. Early diagnostic data revealed that foundational digital skills were missing among staff, which immediately threatened the viability of the higher-level pedagogical goals the Framework was built on. Very few staff were positioned to move to the Inclusion or Innovation tiers, because the base they would move from was not secure. Continuing to build upward would have produced provision that only a small minority could access.
+
+The decision to pivot the project scope was made collaboratively rather than unilaterally. I gathered the evidence from the December Jisc Discovery results and presented it to my line manager and the Quality team, securing their agreement to address the basic gaps first. This mattered procedurally as well as practically: in the absence of a traditional project board, that conversation was the only mechanism through which a scope change could be formally authorised.
+
+Two techniques underpinned the decision. The first was root cause analysis. Poor adoption of advanced platforms initially presented as a training problem, and the obvious response would have been to deliver more training. Analysis established that it was not a training issue at all but a symptom of missing foundational digital literacy — treating the symptom would have consumed resource without moving anything. The same analysis holds for learners: the assumption that arriving learners are digital natives with embedded digital literacy is a myth, and provision has to be built from the ground up rather than layered onto a competence that is not there.
+
+The second was the check and act stages of the Plan–Do–Check–Act cycle (Deming, 1986). Checking the initial reality against the plan produced a finding the plan had not anticipated, and acting on it meant escalating to my line manager so that the change of scope was authorised rather than assumed. The value of a structured cycle in a project with no formal governance is that it creates a defined moment at which evidence is compared to intention, and a decision must be taken. Without that discipline, the temptation is to continue delivering the original plan because it is the plan.
+
+---
+
+## Project Closure (AC4.3)
+
+**Drafted — 354 words.**
+
+A paused project must still undergo a formal closure process, both to prevent work being wasted and to secure institutional memory (AXELOS, 2017). Closure here is partial rather than terminal: the wider Framework is suspended, but its constituent elements remain live and are being progressed more slowly and with a tighter focus.
+
+The first closure activity is documentation and handover. The drafted Digital Skills Framework document persists as a founding reference, and its elements now direct two active streams of work: the Digital Leads programme, and the support given to teachers in developing their understanding of accessibility and inclusion in order to secure the Digital Foundations tier. Handing those elements into ongoing operational work, rather than shelving them with the parent project, is what allows the investment already made to continue producing value.
+
+The second is capturing lessons learned. This report documents the structural initiation failures directly — specifically, the danger of proceeding without a ring-fenced budget or a formal sponsor, and the consequence that a project sustained by one person has little resilience when organisational priorities move. Recording that honestly is more useful than recording a clean account of a project that stopped.
+
+The third is the mitigation this closure provides against the single most serious risk in the register: that I am the central point of both contact and knowledge. If the college's capacity grows and the project restarts, or if I move on from the role, the intelligence gathered and the work completed can be resumed rather than rebuilt from nothing. That is the practical test of good closure — not whether a project finished, but whether the next person to pick it up can do so without repeating it.
+
+Formal closure would also include confirming with the Assistant Principal and Vice Principal for Quality that the suspension is recorded and understood, releasing the Digital Leads from Framework-specific commitments so that their capacity transfers cleanly to the foundational accessibility work, and agreeing the conditions under which the wider Framework would be reactivated. Defining those conditions at closure matters, because a project paused without stated resumption criteria is in practice a project cancelled quietly.
