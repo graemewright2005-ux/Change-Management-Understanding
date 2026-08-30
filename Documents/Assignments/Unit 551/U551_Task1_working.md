@@ -20,12 +20,12 @@ Status: **paused, and partly descoped** — parts of it are no longer in the rem
 |---|---|---|---|
 | 1. Introduction | — | 120 | — |
 | 2. Defining Project Management Principles | AC1.1 | 420 | **483** (+63) |
-| 3. Project Contribution to Organisational Goals | AC1.2 | 400 | — |
+| 3. Project Contribution to Organisational Goals | AC1.2 | 400 | **428** (+28) |
 | 4. Process for Initiating Projects | AC1.3 | 420 | — |
 | 5. Examination of Tools and Techniques | AC1.4 | 520 | — |
 | 6. Impact of Legal, Organisational and Ethical Factors | AC2.1 | 470 | — |
 | 7. Conclusion | — | 150 | — |
-| **Total** | | **2,500** | **483** |
+| **Total** | | **2,500** | **911** |
 
 Ceiling is 2,750 (+10%). AC1.1 is 63 over budget. Not paid for yet — either absorb it into the margin or take it back from AC1.4. Decide at the final pass, not now.
 
@@ -57,9 +57,19 @@ A project is a temporary endeavour undertaken to create a unique product, servic
 
 ## 3. Project Contribution to Organisational Goals (AC1.2)
 
-*Command verb: explain — make clear, give reasons.*
+*Command verb: explain — make clear, give reasons. Task heading adds "and sustaining competitive advantage", which must be addressed explicitly.*
 
-*Not yet drafted.*
+**Drafted — 428 words (budget 400, over by 28).**
+
+The fundamental purpose of a project is to move an organisation from its current state to a desired future state in order to meet strategic goals. In this case the strategic driver is external and graded. Inspectors evaluate leaders' actions to secure learners' development of English, mathematical and digital skills, to help them access learning and take their next steps (Ofsted (2025) *Further education and skills inspection toolkit*, updated 9 September 2025, Ofsted, Manchester, p. 41). Digital skills are referenced only ever alongside English and mathematics, and they appear within the grading descriptors for Achievement itself — including as a stated reason learners cannot progress. Aligning a project to that requirement is not optional positioning; it addresses a graded judgement.
+
+Bradley distinguishes outputs, outcomes and benefits, and argues that benefits are realised after a project closes and must be owned by the business rather than the project manager (Bradley, G. (2016) *Benefit Realisation Management*, 2nd edn, Routledge, London). The output is the tangible deliverable. The outcome is the operational or behavioural change that the output makes possible. The benefit is the organisational gain that justifies the investment.
+
+Applied to this project, the output was the completed Digital Skills Framework document. The intended outcome was a change in operational practice: staff routinely using the Jisc Discovery tool and Century to baseline both their learners' digital capability and their own. Staff capability is not a secondary concern here — if staff do not hold the digital skills required to develop them in learners, the gap simply relocates rather than closes. The intended benefit was a measurable removal of digital barriers to learning, directly supporting the college objective on embedding the SEND Framework.
+
+The pause is instructive rather than embarrassing. Because the project halted at the output stage, it demonstrates Bradley's central point: a project can deliver its scope in full and still fail to realise organisational goals if the transition into operations is interrupted.
+
+Competitive advantage in further education is not market share. It is learner recruitment, funding security, employer partnerships and inspection outcomes. The resource-based view holds that sustained advantage derives from resources that are valuable, rare and difficult to imitate (Barney, J. (1991) 'Firm Resources and Sustained Competitive Advantage', *Journal of Management*, 17(1), pp. 99–120). Any college can purchase the same software licences. What cannot be bought is staff capability built around this college's context, its curriculum areas and the skills South West employers actually require. The Framework positions digital skills within our own three-tier model of Digital Foundations, Inclusion and Innovation, which makes it both rare and difficult to imitate.
 
 ---
 
@@ -136,4 +146,5 @@ Source read in full: *Further education and skills inspection toolkit*, Ofsted, 
 
 ## Flags — must be resolved before submission
 
-1. **AC1.1 is 63 words over budget** (483 against 420). Not yet paid for. Absorb into the +10% margin or take it back from AC1.4 at the final pass.
+1. **Running overspend: +91 words** (AC1.1 +63, AC1.2 +28). Target 2,500, ceiling 2,750, so 250 of headroom remains. Not a problem yet. It becomes one if AC1.3 and AC1.4 also run over — decide at the final pass.
+2. **Conclusion must reuse, not repeat.** Graeme's dictated closing line for AC1.2 — that the strategic purpose was to equip staff to evidence digital competency for Ofsted and ensure learners graduate with the skills local employers demand, protecting the college's reputation and long-term mandate — has been held back deliberately. It is a conclusion sentence, not an AC1.2 sentence. Use it in section 7.
