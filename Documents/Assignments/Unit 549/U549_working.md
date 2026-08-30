@@ -102,7 +102,19 @@ Existing team culture matters. In one team an awkward relationship dynamic, comp
 Spread of need is a further consideration. The Health Check data shows whether an entire team, a portion of it, or specific individuals require training. Where only part of a team needs an intervention, that group can be worked with directly and the remainder's time protected, either for bespoke support later or for more innovative work.
 
 How a team arrives at the need also shapes what can be delivered. The Digital Lead for English raised accessibility following the audit, and I communicated the data to the Deputy Head of Area, who recognised that staff were not consistently embedding it. The point landed fully only once we discussed the specific cohort: learners who did not achieve a grade 4 in GCSE English, whose barriers are likely to be significant, and for whom some existing material actively creates further barriers. She then wanted to understand cognitive overload and how material design can nurture curiosity. The audit surfaced the issue; framing why it mattered for that cohort is where my role adds something the Digital Lead could not.
-3. Coaching and mentoring models (AC2.2) — *not started*
+3. Coaching and mentoring models (AC2.2) — **DONE ~400 words**
+
+### AC2.2 — Coaching and mentoring models
+
+Coaching and mentoring are related but distinct. Coaching assumes the coachee already holds the answer, and the coach's role is to draw it out so that the person has full ownership of the response. Mentoring assumes greater experience on the mentor's part, and involves offering advice, guidance and direction where it is needed.
+
+In the work with Digital Leads both are necessary, and which applies depends on where the individual is in their development rather than on a fixed preference.
+
+Mentoring applies where a Digital Lead does not yet hold the answer, which is the case with accessibility. Most have not previously worked in this area in any depth, so guiding them through it is appropriate. For those with less experience, this most closely resembles Knight's instructional coaching model, developed for educational settings and focused specifically on classroom practice. Knight, J. (2007) *Instructional Coaching: A Partnership Approach to Improving Instruction*, Corwin Press, Thousand Oaks CA. That model suits the work on accessible resources by design, because the conversation is about concrete teaching practice and how it affects the learners in the room.
+
+Coaching applies once a Digital Lead holds their own direction and ambition for how digital learning develops in their department. At that point Whitmore's GROW model becomes more useful. Whitmore, J. (2009) *Coaching for Performance: GROWing Human Potential and Purpose*, 4th edn, Nicholas Brealey, London. Working through goal, reality, options and will allows a Digital Lead to set out what they want to achieve in the short, medium and long term, examine the context they work in daily, and determine their own route forward. My role in that space is genuinely coaching rather than instructing.
+
+The two therefore operate as a sequence rather than an either/or. Mentoring builds the underlying knowledge; coaching takes over once the Digital Lead has enough of it to lead their own agenda. The risk in this is misjudging where someone sits: coaching a person who does not yet have the knowledge produces frustration rather than ownership, which returns to the diagnostic error identified earlier of pitching an activity too high.
 4. Motivational techniques for high performing teams (AC2.3) — *not started*
 
 ## TASK 3 — Good practice guide: "Approaches to achieving a balance of skills and experience in a team" (1,000 words)
