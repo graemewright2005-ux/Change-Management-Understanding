@@ -106,8 +106,26 @@ Scale: 1 Urgent · 2 Challenged · 3 Developing · 4 On Track · 5 Confident
 - If a Digital Lead drops out, the Head of Area picks up the responsibility until a replacement is found. Already happened in several departments — some HoAs could not find or persuade anyone; one Digital Lead withdrew rather than be accountable to an audit.
 - If November shows no visible improvement: re-examine the issue and barriers, escalate. Currently the operating assumption is "dirty kitchen, but we know how to clean it — we just need to start." If the November data shows people genuinely don't know how, the assumption shifts: move from nudging towards correct behaviour to teaching at a basic level. *This is a change of operating model, not just more of the same — worth stating explicitly.*
 
-## AC4.1 — monitoring and evaluation methods
-*Not started*
+## AC4.1 — Discuss methods used to monitor and evaluate the operational plan
+*~460 words*
+
+Monitoring is designed as a repeating cycle rather than a single before-and-after comparison. The June–August audit establishes the baseline; November is the first re-audit point, with further cycles in February and May, so each round measures against the last rather than against a one-off snapshot.
+
+Monitoring and evaluation does not rest on the November re-audit alone, although that is the primary instrument. Re-auditing against the same Health Check indicators produces a directly comparable data set: revised RAG ratings by area, improvement scores for individual members of staff, and area averages against the June–August baseline.
+
+Relying on that alone would be a weakness. The audit is a self-assessment carried out by Digital Leads, and improvement in scores could reflect changed practice or simply changed judgement on a second pass. Evaluation is therefore triangulated through several lenses. Learning walks provide observation of practice by someone other than the Digital Lead. Learner feedback samples test whether changes have been experienced by the people they are intended to benefit. Direct sampling of resources allows the materials themselves to be examined rather than reported on. Alongside this, the wider Quality team will pick up an element of this work with a quality focus, which places the evidence outside my own function.
+
+These arrangements are currently in discussion with my line manager rather than confirmed. The intention is that improvement is visible through a variety of lenses, rather than resting on a single self-assessment instrument.
+
+Where a re-audit shows a department has gone backwards, the Quality team has an established escalation route. We work intensively with the area, bringing the Head of Area into the discussion, agreeing an intensive action plan, and arranging Teach Meets and other required activity. The area is then seen very regularly over a short period, so that practice can be corrected quickly rather than left until the next cycle.
+
+The baseline audit ran across July and August, though some areas are still completing it against an expected end-of-July deadline. This is itself a compliance issue, and one with a real consequence: an area that has not established a baseline cannot demonstrate improvement in November, and its non-completion becomes visible at the point when the Quality team looks at the data. Operationally, however, the staggered completion has an advantage, since receiving every audit simultaneously would create a workload peak in producing action plans for all areas at once.
+
+Beyond November, the plan runs on a recurring cycle, with further audit points around February and again in May or June. The intention by the end of the academic year is that teaching areas across the college know how to design learning materials accessibly, that learners know how to use the assistive technology available to them, and that barriers to learning are reduced through improved inclusive practice.
+
+Digital learning environments are the next phase rather than part of this one. Current practice varies considerably: some areas maintain well-structured Teams spaces, others use a single channel containing everything, others barely use them, and in some cases all documents sit in one folder with editing permissions open to the whole team including learners. Addressing that follows the work on learning materials, after November.
+
+> **LINK:** ties back to PDCA (Task 1, AC1.2) and to Brookfield's four lenses (used in U554 AC1.3) — self, learners, colleagues, theory. Consider naming triangulation explicitly.
 
 ## AC4.2 — legal and organisational factors
 *Not started — parked material: Read&Write install friction with IT; leaders unaware of accessibility regulations; Ofsted inspection and restructuring as external factors outside Graeme's control*
