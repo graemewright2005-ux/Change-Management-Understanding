@@ -133,8 +133,44 @@ The limitation running through all of this is the same distrust identified above
 
 ## TASK 3 — Good practice guide: "Approaches to achieving a balance of skills and experience in a team" (1,000 words)
 Two parts:
-1. Analyse the process for recruiting team members (AC3.1) — *not started*
-2. Discuss methods to monitor and manage individual and team performance (AC3.2) — *not started*
+1. Analyse the process for recruiting team members (AC3.1) — **DONE ~640 words**
+2. Discuss methods to monitor and manage individual and team performance (AC3.2) — **DONE ~430 words**
+
+**TASK 3 TOTAL: ~1,070 words** (limit 1,000, ceiling 1,100). Inside tolerance.
+
+### AC3.1 — Analysing a process for recruiting team members
+
+The recruitment of thirty-six Digital Leads followed five stages. Each carried a trade-off, and setting these out is more useful than presenting the process as a model to copy.
+
+**Stage 1: define the role before recruiting.** In the months before recruitment I set out exactly what Digital Leads would do, the accountability they would hold and the authority they would have within their departments. This was reviewed and approved by my line manager, the Assistant Principal for Quality Improvement, and signed off by the Vice Principal. Securing that endorsement before approaching anyone meant the role carried organisational weight rather than being a personal request.
+
+**Stage 2: recruit through managers rather than directly.** I presented to Heads of Area, setting out the role, how I wanted Digital Leads recruited, the impact they would have and how I would train and work with them. I asked each Head of Area to identify someone in their team, ideally a member of teaching staff, and made clear that if nobody came forward the responsibility would fall to them. This guaranteed coverage of every area, but it also meant some Digital Leads were volunteered rather than volunteering.
+
+**Stage 3: selection by the manager, against my criteria.** I specified the role and the kind of person needed, but Heads of Area chose. The limitation is inconsistency: some are confident, others much less so. What it delivers in return is subject specialism, knowledge of the team, and understanding of the context they work in. On balance this is the stronger trade, because that local knowledge cannot be recruited for centrally.
+
+**Stage 4: no formal application or interview.** There was no CV, shortlisting or evidence of capability before people started, which means every relationship begins on a blank canvas. Some Digital Leads are forthcoming and we have moved quickly through their action plans with meaningful impact already. With others, communication has been limited and the relationship still needs building. Heads of Area who absorbed the role tend to be less available for additional meetings, though as the role grows some may find it easier to identify a colleague better placed to take it on.
+
+**Stage 5: onboarding as selection.** The three-part CPD in June was training, but it also functioned as selection. It clarified for everyone what the role actually involved, and one Digital Lead withdrew as a result, her area then being covered by the Head of Area. This is selection through onboarding rather than selection before it.
+
+**What the process achieves and what it costs.** Manager-led recruitment gave speed and complete coverage, at the cost of variable quality. The absence of a formal process removed any barrier to volunteering, which suits an unpaid role, but meant no screening for capability or willingness. Volunteering is itself a filter, and arguably a good one, since people who put themselves forward for unpaid work generally understand what they want from it. What could not be selected for was confidence, which has proved to matter more than technical skill.
+
+**Recommendation for future recruitment.** I would keep the manager-led model. Heads of Area know their staff, know who is ready to take on responsibility as part of their own development towards leadership, and can judge whether someone has the capacity, capability and subject knowledge the role requires. Selecting the person themselves also gives the manager greater confidence in the appointment. What I would add is a short conversation with each nominee before the CPD begins. Not an interview, but a discussion of what the role actually involves, held either with the Head of Area present or without them. Better still would be attending team meetings to talk about the role directly and answer questions, which both recruits and explains the work to the wider department. Either approach would surface, before appointment rather than after, those who discover on closer inspection that the role is not for them.
+
+### AC3.2 — Methods used to monitor and manage individual and team performance
+
+The core problem in this programme is that I monitor performance of people I do not manage. Appraisal, targets and supervision are not available to me. Four methods operate in their place.
+
+**Diagnostic data.** The Health Check produces individual-level scores across five indicators. This is performance information that most managers do not hold, and it can be shared with Heads of Area so they can direct improvement using authority I do not have.
+
+**Repeated measurement.** The June baseline captured a snapshot. Re-audits in November, February and at the end of the academic year turn that into a trend for both individuals and teams. This is less intrusive than asking people to prove improvement, because the work should be happening anyway and the audit simply records whether it has.
+
+**Triangulation.** Learning walks, resource sampling and Quality team involvement test the self-assessment, and the conversations that follow with Teaching, Learning and Assessment Managers and Heads of Area keep the work visible rather than allowing it to become a once-a-term data exercise.
+
+**Visibility and borrowed authority.** Completion rates and RAG ratings are reported to the Vice Principal for Quality, who can see which areas are engaged and which are not. He does not usually act directly, but he permits me to use his name where work needs to happen, holding direct escalation in reserve for cases that do not resolve. He also mentors me in this, asking questions that improve the quality of how I hold areas to account. The method is therefore borrowed authority rather than delegated authority.
+
+**Framing.** The audit is developmental rather than judgemental. It exists to identify what support is needed, not to catch people out. This matters practically: general CPD on accessibility has not landed, so the value of the data is in identifying precisely what an individual needs, whether that is alt text, heading structure or colour contrast, and targeting support accordingly. If Digital Leads believed the audit were a performance management instrument, they would score generously and the data would be worthless.
+
+**The tension.** That framing sits uncomfortably alongside the fact that the data does reach senior leaders. I hold both positions: the audit is developmental, and it is also the evidence base by which areas become visible to the executive. I address this by being explicit that improvement in accessibility and inclusion is something the whole organisation needs to own. No part of the college is untouched by it, because the organisational objective is that the SEND Framework permeates the entire organisation rather than teaching alone.
 
 ## TASK 4 — Report: "Skills and approaches in managing talent and performance" (1,500 words)
 Three parts:
