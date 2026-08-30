@@ -208,7 +208,23 @@ Beyond that, four areas of capability are required.
 **Techniques for assessing capability.** Assessment operates through several instruments. The Digital Health Check provides indicator-level data on individual practice. Learning walks provide observation independent of self-report. The RAG framework aggregates this to area level across weighted dimensions. The Jisc Discovery Tool is being released to staff shortly after induction, and will indicate what staff understand, what they are working towards and where they want to improve, giving both a capability picture and a gap analysis.
 
 Each has a weakness. The Health Check is a self-assessment carried out by Digital Leads of varying confidence, so inter-rater consistency is not assured. Coverage is uneven, with some dimensions substantially under-scored in the baseline. The Jisc Discovery Tool relies on self-report. Learning walks provide independent observation but sample only a fraction of practice. Used together they compensate for one another; used singly, any one of them would give a misleading picture.
-3. Good practice for enabling and supporting high performing teams (AC4.3) — *not started*
+3. Good practice for enabling and supporting high performing teams (AC4.3) — **DONE ~470 words**
+
+**TASK 4 TOTAL: ~1,530 words** (limit 1,500, ceiling 1,650). Inside tolerance.
+
+### AC4.3 — Good practices for enabling and supporting high performing teams
+
+**Clarity of role.** Everyone now understands what a Digital Lead does and why it matters. The role was defined and signed off at Vice Principal level, and recruited through Heads of Area. Its limitation is that clarity of role is not the same as clarity of shared purpose, which returns to the distinction drawn earlier between a working group and a team.
+
+**Psychological safety.** The audit is deliberately designed as developmental and framed as an honest opening to a conversation about improving practice from the foundations upward. It is also honest about the fact that this is something we should already know and have not attended to for some time. Edmondson argues that teams perform best where people can admit not knowing something. Edmondson, A. (1999) 'Psychological Safety and Learning Behavior in Work Teams', *Administrative Science Quarterly*, 44(2), pp. 350–383. The Jisc Discovery data from December showed that staff do know about accessibility and about Immersive Reader; what they are not doing is delivering on it day to day, and being able to say that openly is what makes improvement possible.
+
+The limitation is that this depends on people believing the framing, and on the data actually influencing organisational decisions. It is also why I am working with the executive team. If staff are asked to improve accessibility while communications from the executive do not meet the same standard, the framing erodes and so does buy-in.
+
+**Baselining before training.** I captured what learning material looked like before delivering CPD to all staff. This gives a clear view of the current picture and, more importantly, allows staff to see the impact of their own CPD time when the position improves. The limitation is that it requires openness. The baseline will not look good, and some staff are sensitive to being held to account for something they did not know. This is why building trust matters, why I support Digital Leads in how they deliver the training, and why the message has to be that we are growing together rather than being measured.
+
+**Relatedness.** This is the acknowledged gap. The buddying system requires knowing which teams need support and which are strong enough to offer it. The termly meeting would allow Digital Leads to feel part of a collective rather than working in silo, sharing good practice, bringing problems to solve together, and recognising that they are on the same journey even at different stages. Neither is yet in place.
+
+**Judgement.** On balance, the practices that establish safety and capability are secure, and the practice that would convert a network into a team is not. The Digital Leads are supported but not yet high performing, and closing the relatedness gap is the condition for that changing.
 
 ---
 
