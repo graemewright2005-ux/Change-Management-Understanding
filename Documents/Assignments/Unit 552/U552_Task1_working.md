@@ -15,13 +15,13 @@ Critical framing point: Graeme experienced this change rather than led it. That 
 
 | Section | AC | Budget | Actual |
 |---|---|---|---|
-| Introduction | - | 110 | **133** |
+| Introduction | - | 110 | **115** |
 | 1. External factors influencing change | AC1.1 | 500 | **478** |
 | 2. Internal factors driving change | AC1.2 | 520 | **534** |
 | 3. Evaluation of theoretical models | AC1.3 | 520 | **484** |
 | 4. Potential impact of change | AC1.4 | 450 | **468** |
-| Conclusion | - | 120 | **139** |
-| **Total** | | **2,000 target** | **2236** - TASK 1 COMPLETE, ceiling 2,200 |
+| Conclusion | - | 120 | **127** |
+| **Total** | | **2,000 target** | **2206** - TASK 1 COMPLETE, inside 2,200 ceiling |
 
 Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
 
@@ -38,7 +38,7 @@ Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requir
 
 **Drafted - 133 words (budget 110).**
 
-Organisational change is not episodic disruption but a continuous reality, particularly within the heavily regulated further education sector. At Weston College, recent structural change was driven by a collision of external economic pressure and shifting regulatory demand from Ofsted, which exposed internal fragilities and forced a redistribution of digital learning support. That redistribution is not full decentralisation: specialist knowledge remains centrally held, but now reaches into departments through subject experts who carry it to their own staff. This report examines the drivers of that change, analysing both the external environmental factors and the internal capability gaps that made restructuring unavoidable. It then evaluates established change models against the reality of a project delivered without formal authority, and assesses the impact of organisational transition on teaching staff, managers, learners and the college's strategic mandate.
+Organisational change is not episodic disruption but a continuous reality, particularly within the heavily regulated further education sector. At Weston College, recent structural change was driven by a collision of external economic pressure and shifting regulatory demand from Ofsted, which exposed internal fragilities and forced a redistribution of digital learning support. That redistribution is not full decentralisation: specialist knowledge remains centrally held, but now reaches into departments through subject experts who carry it to their staff. This report analyses the external factors and internal capability gaps that made restructuring unavoidable, evaluates established change models against a project delivered without formal authority, and assesses the impact on staff, managers, learners and the college's strategic mandate.
 
 ---
 
@@ -112,7 +112,7 @@ On balance, the change caused genuine disruption, knowledge loss and the pausing
 
 **Drafted - 139 words (budget 120).**
 
-The most important lesson I take from this restructure is that textbook change management relies on an illusion of control and positional authority that rarely exists in practice. I previously viewed change as a sequential process to be planned and executed. I now understand that in further education it is something to be navigated opportunistically. When the restructure paused the Digital Skills Framework and removed the Digital Education Manager, it initially felt like failure. It left me as the single point of expertise for over 600 staff across 35 departments and nine campuses, each with different priorities and specialisms, which no individual can sustain. Forcing the creation of the Digital Leads programme began to dismantle that fragility by building specialist capability into the areas themselves. Successful change may require surrendering formal control in order to build genuine distributed resilience.
+The most important lesson I take from this restructure is that textbook change management relies on an illusion of control and positional authority that rarely exists in practice. I previously viewed change as a sequential process to be planned and executed. I now understand that in further education it must be navigated opportunistically. When the restructure paused the Framework and removed the Digital Education Manager it felt like failure, leaving me as the single point of expertise for over 600 staff across 35 departments and nine campuses, which no individual can sustain. Forcing the creation of the Digital Leads programme began to dismantle that fragility by building specialist capability into the areas themselves. Successful change may require surrendering formal control in order to build genuine distributed resilience.
 
 ---
 
