@@ -23,8 +23,8 @@ Securing accessible and inclusive digital practice as business as usual, so that
 | 3. Practical methods to support individuals | AC3.3 | 430 | **548** |
 | 4. Tools for implementing and monitoring change | AC3.4 | 400 | **419** + table |
 | 5. Approaches to overcome risks and barriers | AC3.5 | 400 | **439** + table |
-| 6. Methods for measuring and monitoring impact | AC3.6 | 390 | - |
-| **Total** | | **3,000** | **2540** |
+| 6. Methods for measuring and monitoring impact | AC3.6 | 390 | **509** |
+| **Total** | | **3,000 target** | **3049** - TASK 3 COMPLETE, inside 3,300 ceiling |
 
 AC3.1 must cover: background context, purpose of the change, objectives, approach, steps, roles and responsibilities, timeline, and resources required. Put timeline, roles, resources, the communication plan and the risk register in **tables**, which are excluded from the count. That protects the prose budget for analysis, exactly as it did in Unit 551.
 
@@ -194,9 +194,17 @@ Proactive risk management requires threats to be identified and addressed before
 
 ## 6. Methods for Measuring and Monitoring Impact (AC3.6)
 
-*Command verb: analyse. Methods and metrics, on the organisation, its stakeholders and its performance.*
+**Drafted - 509 words (budget 390).**
 
-*Not yet drafted.*
+It is vital to distinguish project outputs from actual business impact (Kirkpatrick, D.L. (1994) *Evaluating Training Programs: The Four Levels*, Berrett-Koehler, San Francisco). Launching the SharePoint assets proves only that the change happened. Impact is demonstrated when a sustained behavioural shift is observable in how staff construct their digital pedagogy over time. The accessibility checker provides exactly such a measure: behaviour has changed when materials opened during work scrutiny consistently raise no flags, and changed further still when that practice transfers to the work learners themselves produce.
+
+**Three levels of impact.** At organisational level, impact is measured through strategic compliance: whether the college achieves systemic WCAG 2.2 AA conformance, and whether it can produce the evidence of digital skills progression an inspection now requires. At stakeholder level, impact on teaching staff is measured by reduced audit anxiety alongside increased objective technical capability, which is the knowing-doing gap closing: staff can now do the thing they previously only understood. Impact on the Digital Leads is measured by how effectively they identify the support their area needs, align digital learning with their Head of Area's priorities and strategic direction, and manage the resources available to them, including my time. At performance level the ultimate metric sits with learners, measured by whether they encounter fewer digital barriers when working with VLE materials, and whether that translates into improved outcomes and greater confidence in learning.
+
+**Limitations of each method.** Jisc Discovery is a self-assessment and therefore measures confidence rather than objective competence. A teacher may score highly because they understand accessibility deeply at a theoretical level, having encountered it in induction for years, while technical competence remains low. SharePoint analytics record page views and module completions, which evidence participation but not cognitive engagement or applied practice; only learning walks, work scrutiny, and staff and learner feedback can establish that. Departmental RAG ratings rest on subjective judgements by Heads of Area, leaving them vulnerable to internal bias and inconsistent application between areas. The mitigation for all three is triangulation: a RAG rating supported by health check data, self-assessment, learning walks and engagement measures is considerably more defensible than any single input.
+
+**The attribution problem.** Even where college-wide accessibility demonstrably improves, isolating the contribution of this project is analytically complex. If VLE conformance rises, it is difficult to establish whether the cause is this change, a separate departmental initiative, a background software update, or staff upskilling independently. Attribution can be inferred but not proven, and the proposal should claim contribution rather than causation.
+
+**Leading and lagging indicators.** Leading indicators signal early whether the project is on track: Jisc baseline completion rates and initial engagement with the Digital Leads. Lagging indicators reveal success only at the end: learner progression data, annual learner voice, and ultimately an inspection grade. Lagging indicators measure the true strategic benefit but arrive too late for operational correction, which is why the Digital Health Check runs four times a year, why measures are phased across the project, and why the analysis is triangulated rather than resting on any single point.
 
 ---
 
