@@ -15,13 +15,13 @@ Critical framing point: Graeme experienced this change rather than led it. That 
 
 | Section | AC | Budget | Actual |
 |---|---|---|---|
-| Introduction | - | 110 | **115** |
+| Introduction | - | 110 | **112** |
 | 1. External factors influencing change | AC1.1 | 500 | **478** |
 | 2. Internal factors driving change | AC1.2 | 520 | **534** |
 | 3. Evaluation of theoretical models | AC1.3 | 520 | **484** |
 | 4. Potential impact of change | AC1.4 | 450 | **468** |
 | Conclusion | - | 120 | **127** |
-| **Total** | | **2,000 target** | **2206** - TASK 1 COMPLETE, inside 2,200 ceiling |
+| **Total** | | **2,000 target** | **2203** - TASK 1 COMPLETE, inside 2,200 ceiling |
 
 Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
 
@@ -38,7 +38,7 @@ Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requir
 
 **Drafted - 133 words (budget 110).**
 
-Organisational change is not episodic disruption but a continuous reality, particularly within the heavily regulated further education sector. At Weston College, recent structural change was driven by a collision of external economic pressure and shifting regulatory demand from Ofsted, which exposed internal fragilities and forced a redistribution of digital learning support. That redistribution is not full decentralisation: specialist knowledge remains centrally held, but now reaches into departments through subject experts who carry it to their staff. This report analyses the external factors and internal capability gaps that made restructuring unavoidable, evaluates established change models against a project delivered without formal authority, and assesses the impact on staff, managers, learners and the college's strategic mandate.
+Organisational change is not episodic disruption but a continuous reality, particularly within the heavily regulated further education sector. At Weston College, recent structural change was driven by a collision of external economic pressure and shifting regulatory demand from Ofsted, which exposed internal fragilities and forced a redistribution of digital learning support. That redistribution is not full decentralisation: specialist knowledge remains centrally held, but now reaches into departments through subject experts who carry it to their staff. This report analyses the external and internal drivers that made restructuring unavoidable, evaluates change models against a project delivered without formal authority, and assesses the impact on staff, managers, learners and the college's strategic mandate.
 
 ---
 
