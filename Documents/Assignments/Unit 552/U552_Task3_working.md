@@ -22,9 +22,9 @@ Securing accessible and inclusive digital practice as business as usual, so that
 | 2. Strategies for communicating planned change | AC3.2 | 430 | **436** + table |
 | 3. Practical methods to support individuals | AC3.3 | 430 | **548** |
 | 4. Tools for implementing and monitoring change | AC3.4 | 400 | **419** + table |
-| 5. Approaches to overcome risks and barriers | AC3.5 | 400 | - |
+| 5. Approaches to overcome risks and barriers | AC3.5 | 400 | **439** + table |
 | 6. Methods for measuring and monitoring impact | AC3.6 | 390 | - |
-| **Total** | | **3,000** | **2101** |
+| **Total** | | **3,000** | **2540** |
 
 AC3.1 must cover: background context, purpose of the change, objectives, approach, steps, roles and responsibilities, timeline, and resources required. Put timeline, roles, resources, the communication plan and the risk register in **tables**, which are excluded from the count. That protects the prose budget for analysis, exactly as it did in Unit 551.
 
@@ -165,9 +165,30 @@ Effective management requires a strict distinction between delivery mechanisms a
 
 ## 5. Approaches to Overcome Risks and Barriers (AC3.5)
 
-*Command verb: recommend. Proactive approaches and strategies.*
+**Drafted - 439 words of prose plus a risk register (budget 400).**
 
-*Not yet drafted.*
+Proactive risk management requires threats to be identified and addressed before they disrupt delivery (Project Management Institute (2021) *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*, 7th edn, Project Management Institute, Newtown Square PA). The principal threats to this change are operational and cultural rather than technical: volunteer burnout among the Digital Leads, deep-rooted change fatigue, anxiety surrounding diagnostic auditing, the absence of a dedicated budget, and the systemic risk of a further institutional restructure.
+
+**Volunteer burnout and dependency.** The change is designed in modular, bite-sized components rather than as an all-or-nothing programme, so that Digital Leads can contribute in short, manageable bursts around their teaching. I also retain delivery of the training itself, which allows the Leads to concentrate on what their area needs and on organising when and with whom it happens, rather than on preparing material.
+
+**Absence of budget and authority.** The project deliberately leverages infrastructure the college already holds, principally Microsoft 365 and SharePoint, avoiding capital expenditure and procurement approval entirely. A change that costs nothing to start cannot be stopped on cost grounds.
+
+**Staff resistance.** The barrier expected from teaching staff is defensive resistance, driven by anxiety about capability auditing and by the accumulated weight of constant change. The proactive answer is structural rather than persuasive: enforcing the staff-hold-their-own-data principle. Individual Jisc Discovery outputs are never visible to line managers, who see only the aggregated pattern for their department, which reframes the audit as personal development rather than punitive monitoring. Delivering support asynchronously through SharePoint removes the barrier of timetable clashes, and signposting Jisc learning pathways preserves autonomy over how each individual progresses.
+
+**The champion problem.** Initiatives collapse when the individuals carrying them depart, as this college has already experienced. The proposal therefore codifies knowledge into permanent organisational systems rather than leaving it with people. The structured SharePoint assets exist independently of my role, and embedding accessibility metrics into the Quality Handbook converts the change into an institutional requirement that survives turnover. Working alongside the SEND department extends this further, embedding accessibility within the SEND framework so that it permeates the organisation rather than remaining a digital initiative.
+
+**The risk that must be accepted.** A macro-level institutional restructure or an acute funding cut driven by national policy cannot be mitigated from this position. As a change agent without a formal charter or executive authority, I cannot influence senior decisions about departmental remits. This is an enterprise environmental factor, and the honest response is to accept it as an operational constraint while ensuring that everything produced is documented and archived, so that a future restructure interrupts the work rather than erasing it.
+
+**Table 6. Proactive risk register**
+
+| Risk | Category | Impact | Proactive mitigation | Owner |
+|---|---|---|---|---|
+| Volunteer disengagement or burnout | Operational | High | Modular interventions; supportive Teams community of practice; formal CPD recognition sought | Project lead |
+| Staff audit anxiety and resistance | Cultural | High | Staff-hold-their-own-data model enforced; peer Digital Leads as messengers rather than central management | Digital Leads |
+| Knowledge loss on champion departure | Structural | Medium | Guidance codified into permanent SharePoint assets; standards embedded in the Quality Handbook | Project lead and AP Quality |
+| Timetable friction and change fatigue | Operational | Medium | Mandatory synchronous workshops replaced with self-paced asynchronous micro-learning | Project lead |
+| Institutional restructure or policy shift | Strategic | High | Accepted as uncontrollable; all assets documented and archived so the work can resume rather than restart | Project lead |
+
 
 ---
 
@@ -186,4 +207,5 @@ Effective management requires a strict distinction between delivery mechanisms a
 3. **A financial row added to the resources table** stating no devolved budget. Its absence would look like an oversight; stated plainly it becomes an honest constraint, as it did in Unit 551.
 4. **WCAG 2.2 AA used in objective two,** consistent with your internal standard. The legal minimum under PSBAR 2018 remains 2.1 AA.
 5. **"Under the radar" reframed.** Your dictation described bringing the change in "almost undetected". The unit brief states on page 2 that this unit is about managing change "with open and honest communication throughout the entire process". The draft now says that nothing is concealed, the work is simply not staged as an event, and gives the reason: a launch invites defended positions from a fatigued workforce. Same decision, framing that will not be challenged.
-6. **New detail captured:** thirteen structured SharePoint assets. First time you have given me that number.
+6. **Dictation slip corrected in AC3.5.** You said the model guarantees "complete non anonymity anonymity". Written as: individual Jisc Discovery outputs are never visible to line managers, who see only the aggregated departmental pattern. Confirm that is what you meant.
+7. **New detail captured:** thirteen structured SharePoint assets. First time you have given me that number.
