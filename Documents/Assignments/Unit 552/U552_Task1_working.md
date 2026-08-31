@@ -18,10 +18,10 @@ Critical framing point: Graeme experienced this change rather than led it. That 
 | Introduction | - | 110 | - |
 | 1. External factors influencing change | AC1.1 | 500 | **478** |
 | 2. Internal factors driving change | AC1.2 | 520 | **534** |
-| 3. Evaluation of theoretical models | AC1.3 | 520 | - |
+| 3. Evaluation of theoretical models | AC1.3 | 520 | **484** |
 | 4. Potential impact of change | AC1.4 | 450 | - |
 | Conclusion | - | 120 | - |
-| **Total** | | **2,198** | **1012** |
+| **Total** | | **2,198** | **1496** |
 
 Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
 
@@ -72,9 +72,19 @@ A third internal factor, change fatigue, dictates not whether change happens but
 
 ## 3. Evaluation of Theoretical Models for Managing Change (AC1.3)
 
-*Command verb: evaluate. Exactly two models. Strengths, weaknesses, and applicability to real scenarios.*
+**Drafted - 484 words (budget 520).**
 
-*Not yet drafted.*
+Two contrasting models illustrate how change is managed in practice: Lewin's three-stage model and Kotter's eight-step process.
+
+**Lewin.** The model breaks change into three phases: unfreeze, change, refreeze (Lewin, K. (1947) 'Frontiers in Group Dynamics', *Human Relations*, 1(1), pp. 5-41). Applied to the college, the unfreeze stage is the recognition that SEND reform cannot be implemented across the institution while accessibility and inclusion remain unresolved at a basic level. The change stage is the work now underway on what accessibility means for the learner rather than for the organisation, including the cultural shift toward supportive mutual accountability, where a colleague can be asked to correct an inaccessible document without it being experienced as performance management. Refreeze would establish that as settled behaviour.
+
+The model's strength is its simplicity and its insistence on preparation. The unfreeze stage addresses the knowing-doing gap precisely, because staff practice cannot change until false confidence is dismantled and the need for change is demonstrated. Its weakness is that it treats change as episodic and concludes in a stable end state. In further education that is demonstrably false. Refreeze is close to impossible, because the next funding or inspection-driven restructure is already on the horizon and the ground shifts continually.
+
+**Kotter.** The model offers an operational eight-step sequence beginning with establishing urgency (Kotter, J.P. (1996) *Leading Change*, Harvard Business School Press, Boston). Its strength is practical momentum, and step one maps directly onto how the updated inspection toolkit functioned as an external driver forcing the college to address digital skills immediately. Its weakness is that it is rigidly top-down, assuming the change leader holds formal positional authority and budget control. I held neither. Because I had become the single point of specialist knowledge, and those above me did not hold enough subject knowledge to direct the work, change had to be driven upwards rather than cascaded downwards, and delivery depended entirely on influence over volunteer Digital Leads. Kotter's model breaks down when applied by someone without line management power.
+
+Applicability therefore differs by context. For the wider organisational restructure, driven by senior leaders holding authority, budget and institutional overview, Kotter is highly applicable: executives can build a guiding coalition and sequence events to meet financial realities. For the pedagogical and cultural shift required by the Digital Skills Framework, Lewin is far more applicable, because entrenched staff attitudes toward their own capability had to be unfrozen before any new tool could be introduced. It is worth noting that the specialist digital knowledge needed to judge that distinction was not fully held by those making the structural decisions.
+
+Evaluated against reality, both reveal blind spots. Lewin assumes a stable end state that does not exist in an environment of change fatigue and continual policy shift. Kotter assumes positional authority I did not possess. Neither can be applied universally; both require deliberate tailoring to the constraints of the organisation and the role.
 
 ---
 
