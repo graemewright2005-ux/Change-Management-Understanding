@@ -15,15 +15,15 @@ Critical framing point: Graeme experienced this change rather than led it. That 
 
 | Section | AC | Budget | Actual |
 |---|---|---|---|
-| Introduction | - | 120 | - |
+| Introduction | - | 110 | - |
 | 1. External factors influencing change | AC1.1 | 500 | **478** |
-| 2. Internal factors driving change | AC1.2 | 500 | - |
-| 3. Evaluation of theoretical models | AC1.3 | 550 | - |
-| 4. Potential impact of change | AC1.4 | 480 | - |
-| Conclusion | - | 130 | - |
-| **Total** | | **2,280** | **478** |
+| 2. Internal factors driving change | AC1.2 | 520 | **534** |
+| 3. Evaluation of theoretical models | AC1.3 | 520 | - |
+| 4. Potential impact of change | AC1.4 | 450 | - |
+| Conclusion | - | 120 | - |
+| **Total** | | **2,198** | **1012** |
 
-Trim to 2,200 at final pass. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
+Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
 
 ## Standing rules carried forward
 
@@ -56,9 +56,17 @@ The clearest moment at which these two forces landed simultaneously was the paus
 
 ## 2. Internal Factors Driving Change (AC1.2)
 
-*Command verb: analyse. At least two factors, with an explanation of how they contribute to the need for change.*
+**Drafted - 534 words (budget 520).**
 
-*Not yet drafted.*
+Internal drivers emerge from misalignments within an organisation's operating model, which the McKinsey 7S framework is designed to expose (Waterman, R.H., Peters, T.J. and Phillips, J.R. (1980) 'Structure Is Not Organization', *Business Horizons*, 23(3), pp. 14-26). Independent of funding or regulation, Weston College faced two such misalignments: structural fragility, and an entrenched cultural gap regarding digital pedagogy. Both meant the college was failing against its own quality standards, and would have required change regardless of external pressure.
+
+**Structural fragility.** Shortly before the restructure, three post holders carried substantive knowledge of digital learning: the Assistant Principal who sets direction on policy, AI, infrastructure and contracts; my own role as Digital Pedagogy Coach, developing staff capability and identifying where that development is needed; and the Digital Education Manager, who held the institutional history, the external relationships, and the judgement to set the pace of transformation. The removal of that third post left two, one of whom sits in a different part of the college structure with no responsibility for my role. Moving my post into Quality was the correct decision, but no one within that team understood digital in terms of teaching, learning and assessment, or its bearing on the inspection toolkit. Where knowledge is held by individuals rather than embedded in organisational systems, the structure is inherently fragile, and the college lost operational capability the moment the post went. That fragility drove the need to distribute digital capability across the wider workforce rather than concentrate it, which is the origin of the Digital Leads programme and its train-the-trainer model.
+
+**The knowing-doing gap.** Culturally, staff exhibit a pronounced gap between what they know and what they do (Pfeffer, J. and Sutton, R.I. (2000) *The Knowing-Doing Gap*, Harvard Business School Press, Boston). Diagnostic data from the Digital Health Check baseline evidences this: awareness-based indicators score significantly higher than indicators requiring learned technical action. Learning walks and audits of learning material suggest the gap is wider still, because the knowledge itself is surface level. A member of staff may decline accessibility training on the basis that they already know about Immersive Reader. The position collapses under three questions: do your learners know about it, are your resources built so that it functions, and can a learner with a situational need access your material at all?
+
+These are drivers rather than problems, and the distinction matters. A problem is a static issue; a driver is an unsustainable reality. Removing the Digital Education Manager appeared to resolve a static issue while creating a far larger one. The structural silo drove change because the college could not function without that post unless capability was decentralised, and the cultural gap drove change because staff will not voluntarily upskill while they believe themselves already proficient. Together they meant the college was drifting out of compliance with its own Quality Handbook.
+
+A third internal factor, change fatigue, dictates not whether change happens but how. Continual restructuring across departments has produced a workforce that is willing but exhausted, which forced the Digital Skills Framework to pivot from a college-wide rollout to targeted, asynchronous SharePoint resources, and forced the argument itself to shift from organisational objectives to learner experience and outcomes.
 
 ---
 
@@ -88,4 +96,5 @@ The clearest moment at which these two forces landed simultaneously was the paus
 
 1. **Financial oversight history: deliberately omitted, your decision.** You mentioned the college was previously under external financial control following historical financial irregularities, and has since exited that oversight. I have left it out. It is a reputational statement about your employer in a document going to an external awarding body, and the analysis stands without it. If you want it in, it can be added in one measured sentence and it does strengthen the economic factor. Your call, not mine.
 2. **Contract non-renewal reasoning is marked as your inference,** because you flagged it as such yourself. The phrase used is "My own reading, rather than something formally communicated to me". That is good academic practice and worth keeping.
-3. **Aguilar (1967) needs verifying** before submission. PESTLE has no single agreed originator; Aguilar's *Scanning the Business Environment* is the conventional attribution for environmental scanning and is defensible, but check the wording sits comfortably with you.
+3. **McKinsey 7S attribution.** Your dictation gave "Peters and Waterman, 1982". 7S was first set out in Waterman, Peters and Phillips (1980), 'Structure Is Not Organization', and popularised in *In Search of Excellence* (1982). I have used the 1980 paper as the primary source, which is the more accurate attribution.
+4. **Aguilar (1967) needs verifying** before submission. PESTLE has no single agreed originator; Aguilar's *Scanning the Business Environment* is the conventional attribution for environmental scanning and is defensible, but check the wording sits comfortably with you.
