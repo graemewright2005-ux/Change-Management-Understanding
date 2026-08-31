@@ -20,11 +20,11 @@ Securing accessible and inclusive digital practice as business as usual, so that
 | Background and context | - | 250 | - |
 | 1. Plan for change | AC3.1 | 700 | **698** + tables |
 | 2. Strategies for communicating planned change | AC3.2 | 430 | **436** + table |
-| 3. Practical methods to support individuals | AC3.3 | 430 | - |
+| 3. Practical methods to support individuals | AC3.3 | 430 | **548** |
 | 4. Tools for implementing and monitoring change | AC3.4 | 400 | - |
 | 5. Approaches to overcome risks and barriers | AC3.5 | 400 | - |
 | 6. Methods for measuring and monitoring impact | AC3.6 | 390 | - |
-| **Total** | | **3,000** | **1134** |
+| **Total** | | **3,000** | **1682** |
 
 AC3.1 must cover: background context, purpose of the change, objectives, approach, steps, roles and responsibilities, timeline, and resources required. Put timeline, roles, resources, the communication plan and the risk register in **tables**, which are excluded from the count. That protects the prose budget for analysis, exactly as it did in Unit 551.
 
@@ -118,9 +118,19 @@ A communication strategy must be tailored to the specific needs and motivations 
 
 ## 3. Practical Methods to Support Individuals (AC3.3)
 
-*Command verb: recommend. Practical methods and support mechanisms for coping and adapting.*
+**Drafted - 548 words (budget 430, plus 250 released from the background section folded into AC3.1).**
 
-*Not yet drafted.*
+It is critical to distinguish the external organisational change from the internal psychological transition individuals experience, since the second runs on its own timescale and cannot be mandated (Bridges, W. (2003) *Managing Transitions: Making the Most of Change*, 2nd edn, Nicholas Brealey, London).
+
+When the Jisc Discovery tool reveals a capability gap, it creates a moment of high vulnerability. The essential support method at that point is strict enforcement of the staff-hold-their-own-data rule, which keeps an uncomfortable realisation a private diagnostic moment rather than a public performance failure. Staff must also leave that moment knowing where to go next: Jisc learning pathways recommended on completion of the diagnostic, SharePoint resources, TeachMeets, and one-to-one coaching. The cultural intent is developmental rather than accountability-driven, consistent with the direction the Quality team is already taking with teaching and learning, so that identifying a gap opens a question about how to close it rather than closing down the conversation (Dweck, C.S. (2006) *Mindset: The New Psychology of Success*, Random House, New York).
+
+**Matching method to individual.** For the anxious or resistant, private one-to-one coaching with a departmental Digital Lead or with me provides a space to ask fundamental questions without judgement. For the willing but overloaded, area profiles ensure that intervention is targeted only at actual gaps: if a colleague already handles heading styles, colour contrast and workflow well, and the single gap is alternative text on images, that is the one thing to address. Requiring them to sit through training covering what they already know wastes the scarcest resource they have. For the already confident and competent, TeachMeets provide a platform to share practice, which validates their expertise and converts them into advocates. Recognition through newsletters and cross-departmental peer mentoring would extend this further.
+
+**Support at the point of need.** Scheduled training frequently fails because it rarely coincides with the moment a teacher meets a technical barrier. I therefore recommend the thirteen structured SharePoint assets as the primary asynchronous mechanism, supporting learning in the flow of work: printable checklists for building VLE materials and digital classrooms, video guides demonstrating specific configurations, and underpinning material on designing for accessibility from the outset. Staff access guidance while building, rather than waiting weeks for a workshop.
+
+**Supporting the Digital Leads.** Volunteers absorbing additional cognitive load without authority will burn out or quietly disengage unless supported. Provision is therefore tiered to confidence: frequent one-to-one coaching for those new to the role, termly conversations for those who mainly want a sounding board, and lighter contact for the most confident. Alongside this I remain available by phone and chat, and co-plan the materials and advice they intend to share. A closed Microsoft Teams environment operates as a community of practice where Leads can raise resistance they encounter and seek peer advice; extending this to a termly face-to-face meeting would strengthen it. Ten Digital Leads will train as advanced coaches and mentors, and attendance at digital learning conferences is planned.
+
+**What does not yet exist.** Because delivery depends entirely on a volunteer network, goodwill alone is not sustainable. I recommend instituting formal recognition: working with the Assistant Principal for Quality to allocate dedicated CPD time to Digital Leads, recognising their peer coaching within annual appraisal, and remunerating the role either through timetabled time returned or through pay.
 
 ---
 
