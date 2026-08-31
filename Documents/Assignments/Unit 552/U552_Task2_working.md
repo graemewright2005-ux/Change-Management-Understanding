@@ -12,13 +12,13 @@ Only the notes count toward the word limit. Slides themselves are excluded.
 | 2 | Why change was necessary: external drivers | AC2.1 | 120 | **119** |
 | 3 | Why change was necessary: internal drivers | AC2.1 | 120 | **105** |
 | 4 | Embedding change: from project to business as usual | AC2.2 | 130 | **143** |
-| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **149** |
+| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **146** |
 | 6 | Leadership without authority: influence over mandate | AC2.3 | 120 | **117** |
 | 7 | Leadership: diagnosing the real barrier | AC2.3 | 120 | **121** |
 | 8 | Why engage stakeholders throughout | AC2.4 | 120 | **138** |
 | 9 | Engaging each stakeholder group | AC2.4 | 100 | **124** |
 | 10 | Close | - | 30 | **53** |
-| **Total** | | | **1,000 target** | **1109** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
+| **Total** | | | **1,000 target** | **1106** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
 
 ## Standing rules
 
@@ -41,7 +41,7 @@ Accessibility illustrates this. Assistive technology such as Immersive Reader ha
 
 **Drafted.**
 
-Not every mechanism embeds behaviour. Publishing SharePoint assets delivers content; it does not change practice. Two mechanisms do. Aligning digital skills to the Quality Handbook makes the change structural rather than optional, and brings existing assurance activity to bear: work scrutiny, learning walks and learner voice, which together triangulate whether behaviour has actually changed. The Digital Leads programme socialises the change, reinforcing habits peer-to-peer within departments, which is more durable than directive.
+Not every mechanism embeds behaviour. Publishing SharePoint assets delivers content; it does not change practice. Two mechanisms do. Aligning digital skills to the Quality Handbook makes the change structural rather than optional, and brings existing assurance activity to bear: work scrutiny, learning walks and learner voice triangulate whether behaviour has changed. The Digital Leads programme socialises the change, reinforcing habits peer-to-peer within departments, which is more durable than directive.
 
 Change fails to stick for two reasons: change fatigue after eighteen months of restructuring, and reliance on a single champion. When the Digital Education Manager post went, the framework lost its champion and ownership passed to a colleague who had to be brought up to speed, slowing the work considerably. Change must therefore be institutionalised rather than personalised, which is why the annual Digital Health Check cycle forces the college to revisit and measure it every year.
 
