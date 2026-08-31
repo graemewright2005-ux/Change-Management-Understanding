@@ -11,14 +11,14 @@ Only the notes count toward the word limit. Slides themselves are excluded.
 | 1 | Title | - | 30 | **42** |
 | 2 | Why change was necessary: external drivers | AC2.1 | 120 | **119** |
 | 3 | Why change was necessary: internal drivers | AC2.1 | 120 | **108** |
-| 4 | Embedding change: from project to business as usual | AC2.2 | 130 | **146** |
-| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **156** |
-| 6 | Leadership without authority: influence over mandate | AC2.3 | 120 | **127** |
+| 4 | Embedding change: from project to business as usual | AC2.2 | 130 | **143** |
+| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **149** |
+| 6 | Leadership without authority: influence over mandate | AC2.3 | 120 | **117** |
 | 7 | Leadership: diagnosing the real barrier | AC2.3 | 120 | **121** |
 | 8 | Why engage stakeholders throughout | AC2.4 | 120 | **138** |
 | 9 | Engaging each stakeholder group | AC2.4 | 100 | **127** |
 | 10 | Close | - | 30 | **53** |
-| **Total** | | | **1,000 target** | **1137** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
+| **Total** | | | **1,000 target** | **1117** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
 
 ## Standing rules
 
@@ -35,7 +35,7 @@ Only the notes count toward the word limit. Slides themselves are excluded.
 
 For change to survive in a college it must stop being a project and become business as usual. Change quietly dies when it is delivered as a one-off training event, and survives only when anchored into culture and operational process (Kotter, J.P. (1996) *Leading Change*, Harvard Business School Press, Boston).
 
-Accessibility illustrates this precisely. Assistive technology such as Immersive Reader has historically been introduced once, at induction, alongside everything else a learner must absorb at an overwhelming point in the year. It therefore never becomes normal practice. That matters beyond preference, because examination access arrangements must reflect a learner's normal way of working. A learner cannot be given a laptop in an examination if they have never used one. Teaching a tool once a year does not embed it, so the evidence required to secure the adaptation never exists, and the learner loses an entitlement.
+Accessibility illustrates this. Assistive technology such as Immersive Reader has historically been introduced once, at induction, alongside everything else a learner must absorb at an overwhelming point in the year, so it never becomes normal practice. That matters because examination access arrangements must reflect a learner's normal way of working: a learner cannot be given a laptop in an examination if they have never used one. Teaching a tool once a year does not embed it, so the evidence needed to secure the adaptation never exists and the learner loses an entitlement.
 
 ## Slide 5: Sustaining change - mechanisms and institutionalisation (AC2.2)
 
@@ -43,7 +43,7 @@ Accessibility illustrates this precisely. Assistive technology such as Immersive
 
 Not every mechanism embeds behaviour. Publishing SharePoint assets delivers content; it does not change practice. Two mechanisms do. Aligning digital skills to the Quality Handbook makes the change structural rather than optional, and brings existing assurance activity to bear: work scrutiny, learning walks and learner voice, which together triangulate whether behaviour has actually changed. The Digital Leads programme socialises the change, reinforcing habits peer-to-peer within departments, which is more durable than directive.
 
-Change fails to stick here for two reasons: change fatigue after eighteen months of restructuring and rising evidence requirements, and reliance on a single champion. When the Digital Education Manager post was removed, the framework lost its champion and ownership passed to a colleague who had to be brought up to speed, slowing the work considerably. Sustained change must therefore be institutionalised rather than personalised, which is why the annual Digital Health Check cycle forces the college to revisit and measure it every year.
+Change fails to stick for two reasons: change fatigue after eighteen months of restructuring, and reliance on a single champion. When the Digital Education Manager post went, the framework lost its champion and ownership passed to a colleague who had to be brought up to speed, slowing the work considerably. Change must therefore be institutionalised rather than personalised, which is why the annual Digital Health Check cycle forces the college to revisit and measure it every year.
 
 ## Slide 6: Leadership without authority - influence over mandate (AC2.3)
 
@@ -51,7 +51,7 @@ Change fails to stick here for two reasons: change fatigue after eighteen months
 
 Traditional models assume leaders overcome barriers through positional authority and mandate. Leading the Digital Skills Framework without line management control meant relying instead on influence and emotional intelligence (Goleman, D. (2004) 'What Makes a Leader?', *Harvard Business Review*, 82(1), pp. 82-91).
 
-When staff anxiety about the diagnostic audits emerged as a barrier, a manager with authority could simply have ordered compliance. That option was not available, and it would not have worked. Overcoming the barrier instead required listening to the fear and responding structurally, through the staff-hold-their-own-data model, which built the psychological safety needed for honest engagement. The objective is not compliance but curiosity: staff who want to improve their practice, and who will tell me where in their own development I can be useful.
+When staff anxiety about the diagnostic audits emerged as a barrier, a manager with authority could have ordered compliance. That option was not available, and would not have worked. Overcoming it required listening to the fear and responding structurally, through the staff-hold-their-own-data model, which built the psychological safety needed for honest engagement. The objective is not compliance but curiosity: staff who want to improve, and who will tell me where I can be useful.
 
 ## Slide 7: Leadership - diagnosing the real barrier (AC2.3)
 
