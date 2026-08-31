@@ -8,17 +8,17 @@ Only the notes count toward the word limit. Slides themselves are excluded.
 
 | Slide | Content | AC | Notes budget | Actual |
 |---|---|---|---|---|
-| 1 | Title | - | 30 | **42** |
+| 1 | Title | - | 30 | **40** |
 | 2 | Why change was necessary: external drivers | AC2.1 | 120 | **119** |
-| 3 | Why change was necessary: internal drivers | AC2.1 | 120 | **108** |
+| 3 | Why change was necessary: internal drivers | AC2.1 | 120 | **105** |
 | 4 | Embedding change: from project to business as usual | AC2.2 | 130 | **143** |
 | 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **149** |
 | 6 | Leadership without authority: influence over mandate | AC2.3 | 120 | **117** |
 | 7 | Leadership: diagnosing the real barrier | AC2.3 | 120 | **121** |
 | 8 | Why engage stakeholders throughout | AC2.4 | 120 | **138** |
-| 9 | Engaging each stakeholder group | AC2.4 | 100 | **127** |
+| 9 | Engaging each stakeholder group | AC2.4 | 100 | **124** |
 | 10 | Close | - | 30 | **53** |
-| **Total** | | | **1,000 target** | **1117** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
+| **Total** | | | **1,000 target** | **1109** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
 
 ## Standing rules
 
@@ -67,7 +67,7 @@ Baseline diagnostics established something different. The real barrier was a fou
 
 **Drafted.**
 
-This presentation examines recent structural change at Weston College, focusing on the transition of digital skills support: why the change was initiated, how it can be embedded and sustained, the role of leadership in overcoming barriers, and why stakeholder engagement runs throughout.
+This presentation examines recent structural change at Weston College and the transition of digital skills support: why the change was initiated, how it is embedded and sustained, the role of leadership in overcoming barriers, and why stakeholder engagement runs throughout.
 
 ## Slide 2: Why change was necessary: external drivers (AC2.1)
 
@@ -83,9 +83,7 @@ Economic pressure followed. Flat funding settlements meant the college could not
 
 **Drafted.**
 
-Internally, capability and structural gaps made change inevitable regardless of external pressure.
-
-Structurally, digital pedagogy expertise was concentrated in a single specialist post, now sitting within Quality, which created a critical single point of failure across an organisation of this size.
+Internally, capability and structural gaps made change inevitable regardless of external pressure. Digital pedagogy expertise was concentrated in a single specialist post, now within Quality, creating a critical single point of failure across an organisation of this size.
 
 Culturally, baseline data revealed a pronounced knowing-doing gap (Pfeffer, J. and Sutton, R.I. (2000) *The Knowing-Doing Gap*, Harvard Business School Press, Boston). The Jisc Discovery data gathered in December showed high staff confidence in digital capability alongside limited objective competence. Staff did not know how to do what they believed they understood, which meant the college was drifting out of alignment with its own Quality Handbook.
 
@@ -103,7 +101,7 @@ Engagement was also the only currency available to me. Without positional author
 
 **Drafted.**
 
-Stakeholder theory requires communication to address the specific needs of each constituency (Freeman, R.E. (1984) *Strategic Management: A Stakeholder Approach*, Pitman, Boston). A Vice Principal needs strategic alignment and inspection compliance. A Head of Area needs operational efficiency and minimal disruption. A teacher needs psychological safety and practical time saving.
+Communication must address the specific needs of each constituency (Freeman, R.E. (1984) *Strategic Management: A Stakeholder Approach*, Pitman, Boston). A Vice Principal needs strategic alignment and inspection compliance; a Head of Area needs operational efficiency and minimal disruption; a teacher needs psychological safety and practical time saving.
 
 The strongest argument for engaging throughout, however, is that stakeholders are a feedback loop. Engagement is a source of intelligence, not a courtesy. It was through engaging staff during the initial Jisc Discovery phase that the foundational skills gap was identified. That engagement did not simply communicate the plan; it changed it, forcing a pivot toward the digital foundations work on accessibility and inclusion, and toward asynchronous SharePoint resources staff could use in their own time.
 
