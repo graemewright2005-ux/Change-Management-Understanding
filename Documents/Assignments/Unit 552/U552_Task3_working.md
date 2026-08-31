@@ -21,10 +21,10 @@ Securing accessible and inclusive digital practice as business as usual, so that
 | 1. Plan for change | AC3.1 | 700 | **698** + tables |
 | 2. Strategies for communicating planned change | AC3.2 | 430 | **436** + table |
 | 3. Practical methods to support individuals | AC3.3 | 430 | **548** |
-| 4. Tools for implementing and monitoring change | AC3.4 | 400 | - |
+| 4. Tools for implementing and monitoring change | AC3.4 | 400 | **419** + table |
 | 5. Approaches to overcome risks and barriers | AC3.5 | 400 | - |
 | 6. Methods for measuring and monitoring impact | AC3.6 | 390 | - |
-| **Total** | | **3,000** | **1682** |
+| **Total** | | **3,000** | **2101** |
 
 AC3.1 must cover: background context, purpose of the change, objectives, approach, steps, roles and responsibilities, timeline, and resources required. Put timeline, roles, resources, the communication plan and the risk register in **tables**, which are excluded from the count. That protects the prose budget for analysis, exactly as it did in Unit 551.
 
@@ -136,9 +136,30 @@ When the Jisc Discovery tool reveals a capability gap, it creates a moment of hi
 
 ## 4. Tools for Implementing and Monitoring Change (AC3.4)
 
-*Command verb: identify and justify. Tools and techniques, with justification.*
+**Drafted - 419 words of prose plus a table (budget 400).**
 
-*Not yet drafted.*
+Effective management requires a strict distinction between delivery mechanisms and control mechanisms (Association for Project Management (2019) *APM Body of Knowledge*, 7th edn, APM, Princes Risborough). Implementation tools actively deliver the change: the structured SharePoint assets, and the dedicated Microsoft Teams channel coordinating the volunteer Digital Leads. Monitoring tools establish whether the change is taking root: the Digital Health Check cycle, learning walks, work scrutiny of learning materials, and learner voice, triangulated rather than read in isolation.
+
+**Justification for the diagnostic platforms.** Jisc Discovery and Century are selected for reliability. Both are externally validated, nationally standardised instruments backed by established expertise and sector communities, which avoids the bias and unreliability inherent in a locally built questionnaire, as well as the cost and time of constructing one. Both are also adaptive, branching according to the responses given, which produces a fuller and more accurate diagnostic picture than a fixed question set could. SharePoint is justified for implementation because it sits within the college's existing Microsoft 365 infrastructure, so nothing must be procured and no new system must be learned.
+
+**Non-platform tools.** Monitoring a change of this kind cannot rest on dashboards alone, because the change must ultimately be visible in practice rather than in reported data. I therefore rely on tools already embedded in the Quality Handbook: formal work scrutiny, routine learning walks, and structured learner voice sessions. These qualitative instruments are what establish whether digital accessibility standards are translating into pedagogical reality in the classroom.
+
+**Reporting.** Jisc Discovery generates termly aggregated data for Heads of Area, which over successive rounds also reveals trends. Learning walks produce continuous qualitative feedback to the Quality team. The Digital Health Check provides an overview of how far departments have improved the accessibility of their own learning materials. It is the triangulation of these points, rather than any single one, that produces a defensible RAG rating for the Vice Principal for Quality, reported alongside action plans and identified improvement points.
+
+**What is missing.** I would recommend an automated VLE accessibility analytics dashboard. Conformance is currently checked through manual work scrutiny and self-reporting; a background diagnostic would supply real-time, objective data without adding to the administrative burden on teaching staff. Alongside this, the accessibility checker already built into Microsoft products is applied inconsistently. The standard to aim for is that its use becomes business as usual, evidenced by learning materials that consistently raise no flags when opened during work scrutiny, and ultimately by learners producing their own reports and assignments in an accessibly designed form.
+
+**Table 5. Implementation and monitoring tools**
+
+| Tool or technique | Category | Justification for selection | Reporting frequency and audience |
+|---|---|---|---|
+| Jisc Discovery | Monitoring | Externally validated, adaptive instrument providing reliable staff baseline data without internal bias | Termly, aggregated to Heads of Area |
+| Century | Monitoring | Nationally standardised learner diagnostic, already contracted, with data protection instruments in place | Termly, to teaching staff and Personal Development team |
+| SharePoint assets | Implementation | Asynchronous access at the point of need, using existing college infrastructure | Continuously available to staff and Digital Leads |
+| Microsoft Teams channel | Implementation | Closed, secure community of practice supporting the volunteer Digital Leads | Continuous, project lead and Digital Leads |
+| Learning walks and work scrutiny | Monitoring | Qualitative measure of whether accessibility is reaching actual classroom practice | Ongoing, to AP Quality and project lead |
+| Learner voice | Monitoring | Tests the change against the experience it is intended to improve | Termly, to the Quality team |
+| Digital Health Check | Monitoring | Institutionalises the change through scheduled review of digital maturity across all areas | Annually, to VP Quality |
+
 
 ---
 
