@@ -19,9 +19,9 @@ Critical framing point: Graeme experienced this change rather than led it. That 
 | 1. External factors influencing change | AC1.1 | 500 | **478** |
 | 2. Internal factors driving change | AC1.2 | 520 | **534** |
 | 3. Evaluation of theoretical models | AC1.3 | 520 | **484** |
-| 4. Potential impact of change | AC1.4 | 450 | - |
+| 4. Potential impact of change | AC1.4 | 450 | **468** |
 | Conclusion | - | 120 | - |
-| **Total** | | **2,198** | **1496** |
+| **Total** | | **2,198** | **1964** |
 
 Budget rebalanced after AC1.2 to land inside the 2,200 ceiling. The brief requires at least two external factors, at least two internal factors, and exactly two theoretical models evaluated for strengths, weaknesses and applicability.
 
@@ -90,9 +90,19 @@ Evaluated against reality, both reveal blind spots. Lewin assumes a stable end s
 
 ## 4. Potential Impact of Change in Organisations (AC1.4)
 
-*Command verb: examine. Effects on different stakeholder groups, with benefits and challenges.*
+**Drafted - 468 words (budget 450).**
 
-*Not yet drafted.*
+Examining impact accurately requires stakeholder theory to be translated into a further education context (Freeman, R.E. (1984) *Strategic Management: A Stakeholder Approach*, Pitman, Boston). A college has no shareholders and no customers in the commercial sense. The equivalents are Ofsted, funding bodies and the governing body; Heads of Area as managers; teaching staff and Digital Leads as employees; and learners.
+
+**Employees.** The removal of the central specialist post left teaching staff without an immediate expert safety net, which exacerbated change fatigue and increased anxiety, particularly around diagnostic baselining of their own skills. In conversation, some Heads of Area were clear that they had been through this before, were frustrated, or were unsure why they were doing it. I was also operating on an assumed relationship that did not yet exist, and had to build trust and credibility first. The offsetting benefit is that the structural void forced the creation of the volunteer Digital Leads programme. One specialist cannot reach nine sites, 35 curriculum areas and over 600 staff, so distributing capability peer-to-peer rather than holding it in a single office is a material gain.
+
+**Managers.** Heads of Area carried the heaviest operational burden, absorbing responsibilities of the removed post into existing departmental workloads without additional budget while managing staff pushback. The resulting resistance is rational: they will not commit their teams' time unless they can see a categorical benefit to their operational plan and to their learners.
+
+**Learners.** The intended benefit is an accessible, WCAG-compliant learning environment in which digital barriers are removed, so that any learner, whether their need is situational or formally recorded, can navigate and personalise their material and build confidence. Once that foundation is secure, the inclusion layer can support genuinely independent learning. The honest challenge is that because the wider Framework was paused, this impact remains potential rather than visible.
+
+**Governing body, funders and Ofsted.** The restructure aligns the operational model with the inspection toolkit and provides strategic assurance that digital skills progression can be evidenced, through the work now underway with Heads of Area on industry-specific skills, baselining and monitoring, held by Quality and reported upward. The corresponding challenge is that the governing body now carries the strategic risk if a decentralised delivery model fails to take root, and it remains accountable to the regulator. That risk is not hypothetical: had the Framework not triggered the discovery of the foundational accessibility position, the compliance gap would have surfaced far more slowly.
+
+On balance, the change caused genuine disruption, knowledge loss and the pausing of a live project, and it concentrated specialist risk onto a single post. Its lasting benefit is that the response to that concentration, the Digital Leads programme, has begun to distribute capability and to build leadership experience that will remain in the college whether or not I do.
 
 ---
 
@@ -106,5 +116,7 @@ Evaluated against reality, both reveal blind spots. Lewin assumes a stable end s
 
 1. **Financial oversight history: deliberately omitted, your decision.** You mentioned the college was previously under external financial control following historical financial irregularities, and has since exited that oversight. I have left it out. It is a reputational statement about your employer in a document going to an external awarding body, and the analysis stands without it. If you want it in, it can be added in one measured sentence and it does strengthen the economic factor. Your call, not mine.
 2. **Contract non-renewal reasoning is marked as your inference,** because you flagged it as such yourself. The phrase used is "My own reading, rather than something formally communicated to me". That is good academic practice and worth keeping.
-3. **McKinsey 7S attribution.** Your dictation gave "Peters and Waterman, 1982". 7S was first set out in Waterman, Peters and Phillips (1980), 'Structure Is Not Organization', and popularised in *In Search of Excellence* (1982). I have used the 1980 paper as the primary source, which is the more accurate attribution.
-4. **Aguilar (1967) needs verifying** before submission. PESTLE has no single agreed originator; Aguilar's *Scanning the Business Environment* is the conventional attribution for environmental scanning and is defensible, but check the wording sits comfortably with you.
+3. **Consistency fix you should know about.** AC1.2 states that the restructure created a single point of failure resting on my role. Your dictation for AC1.4 said the change "eradicated a critical single point of failure", which contradicts it. I have written AC1.4 as: the change concentrated specialist risk onto one post, and the Digital Leads programme, created in response, has begun to distribute it. That reconciles the two and is closer to what actually happened. Confirm or correct.
+4. **Two dictation words I could not resolve.** "We can then build in last in learning" became "the inclusion layer can support genuinely independent learning". And "I needed to build that come puts us in my own role" became "trust and credibility". Check both say what you meant.
+5. **McKinsey 7S attribution.** Your dictation gave "Peters and Waterman, 1982". 7S was first set out in Waterman, Peters and Phillips (1980), 'Structure Is Not Organization', and popularised in *In Search of Excellence* (1982). I have used the 1980 paper as the primary source, which is the more accurate attribution.
+6. **Aguilar (1967) needs verifying** before submission. PESTLE has no single agreed originator; Aguilar's *Scanning the Business Environment* is the conventional attribution for environmental scanning and is defensible, but check the wording sits comfortably with you.
