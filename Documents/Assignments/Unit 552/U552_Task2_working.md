@@ -9,16 +9,16 @@ Only the notes count toward the word limit. Slides themselves are excluded.
 | Slide | Content | AC | Notes budget | Actual |
 |---|---|---|---|---|
 | 1 | Title | - | 30 | **42** |
-| 2 | Why change was necessary: external drivers | AC2.1 | 120 | **137** |
+| 2 | Why change was necessary: external drivers | AC2.1 | 120 | **119** |
 | 3 | Why change was necessary: internal drivers | AC2.1 | 120 | **108** |
 | 4 | Embedding change: from project to business as usual | AC2.2 | 130 | **146** |
-| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **193** |
+| 5 | Sustaining change: mechanisms and institutionalisation | AC2.2 | 130 | **156** |
 | 6 | Leadership without authority: influence over mandate | AC2.3 | 120 | **127** |
 | 7 | Leadership: diagnosing the real barrier | AC2.3 | 120 | **121** |
-| 8 | Why engage stakeholders throughout | AC2.4 | 120 | **155** |
+| 8 | Why engage stakeholders throughout | AC2.4 | 120 | **138** |
 | 9 | Engaging each stakeholder group | AC2.4 | 100 | **127** |
 | 10 | Close | - | 30 | **53** |
-| **Total** | | | **1,020** | **1209** |
+| **Total** | | | **1,000 target** | **1137** - TASK 2 NOTES COMPLETE, inside 1,100 ceiling |
 
 ## Standing rules
 
@@ -41,9 +41,9 @@ Accessibility illustrates this precisely. Assistive technology such as Immersive
 
 **Drafted.**
 
-Not every mechanism embeds behaviour. Publishing SharePoint assets delivers content; it does not by itself change practice. Two mechanisms do. Aligning digital skills to the college Quality Handbook makes the change structural rather than optional, because it writes the expectation into formal quality standards and brings existing assurance activity to bear: work scrutiny of resources, learning walks and observations, and learner voice, which together triangulate whether behaviour has actually changed. The volunteer Digital Leads programme socialises the change, reinforcing new habits peer-to-peer within departments, which is more durable than top-down directive.
+Not every mechanism embeds behaviour. Publishing SharePoint assets delivers content; it does not change practice. Two mechanisms do. Aligning digital skills to the Quality Handbook makes the change structural rather than optional, and brings existing assurance activity to bear: work scrutiny, learning walks and learner voice, which together triangulate whether behaviour has actually changed. The Digital Leads programme socialises the change, reinforcing habits peer-to-peer within departments, which is more durable than directive.
 
-Change fails to stick here for two reasons: severe change fatigue after eighteen months of structural change, new directives and rising evidence requirements; and reliance on a single champion. When the Digital Education Manager post was removed, the framework lost its champion, enthusiasm waned, and ownership passed to a colleague with less experience in the field who had to be brought up to speed, which slowed the work considerably. Sustained change must therefore be institutionalised rather than personalised. The annual Digital Health Check cycle forces the college to revisit and measure the change every year, with in-year rounds keeping it on track.
+Change fails to stick here for two reasons: change fatigue after eighteen months of restructuring and rising evidence requirements, and reliance on a single champion. When the Digital Education Manager post was removed, the framework lost its champion and ownership passed to a colleague who had to be brought up to speed, slowing the work considerably. Sustained change must therefore be institutionalised rather than personalised, which is why the annual Digital Health Check cycle forces the college to revisit and measure it every year.
 
 ## Slide 6: Leadership without authority - influence over mandate (AC2.3)
 
@@ -75,9 +75,9 @@ This presentation examines recent structural change at Weston College, focusing 
 
 The rationale for change came from a collision of external pressures, analysed here using PESTLE (Aguilar, F.J. (1967) *Scanning the Business Environment*, Macmillan, New York).
 
-Regulatory pressure came first. Ofsted's updated inspection toolkit embedded digital skills directly into the graded Achievement descriptors, and inclusion gained its own standing within the toolkit. Alongside the SEND framework, WCAG 2.1 AA and the Equality Act 2010, this required the college to assure the quality of the material it produces and of the digital learning environment itself, principally Microsoft Teams.
+Regulatory pressure came first. Ofsted's updated toolkit embedded digital skills into the graded Achievement descriptors, and inclusion gained its own standing. Alongside the SEND framework, WCAG 2.1 AA and the Equality Act 2010, this required assurance over both the material we produce and the digital learning environment itself, principally Microsoft Teams.
 
-Economic pressure followed. Flat funding settlements across the sector meant the college could not buy its way into compliance, and a strategic decision not to renew a substantial contract meant savings had to be found internally. The college therefore had to restructure in order to meet new external demands.
+Economic pressure followed. Flat funding settlements meant the college could not buy its way into compliance, and a decision not to renew a substantial contract meant savings had to be found internally. Restructuring became the route to meeting new external demands.
 
 ## Slide 3: Why change was necessary: internal drivers (AC2.1)
 
@@ -95,9 +95,9 @@ Culturally, baseline data revealed a pronounced knowing-doing gap (Pfeffer, J. a
 
 Engaging stakeholders only at launch and closure is management by broadcast rather than by influence. Continuous engagement matters because operational realities in a college shift daily, and the moment you stop engaging you lose sight of those shifts.
 
-Regular contact with Heads of Area and Digital Leads is how I understand the pressures they are under, keep priorities visible, and adjust timelines and support to match what is actually happening in their areas.
+Regular contact with Heads of Area and Digital Leads is how I understand the pressures they face and adjust timelines and support accordingly.
 
-Engagement was also the only currency available to me. Without positional authority, nothing could be mandated; it had to be negotiated. Engaging Heads of Area unlocked access to departmental time. Engaging Digital Leads secured a volunteer workforce and a specialist route into each area, able to translate departmental need to me and translate the direction of travel back into terms that fit local priorities. Engaging Century and Jisc provided diagnostic infrastructure and access to how other colleges had approached the same work.
+Engagement was also the only currency available to me. Without positional authority nothing could be mandated; it had to be negotiated. Engaging Heads of Area unlocked departmental time. Engaging Digital Leads secured a volunteer workforce and a specialist route into each area, translating local need to me and the direction of travel back into terms that fit local priorities. Engaging Century and Jisc provided diagnostic infrastructure and insight into how other colleges had approached the same work.
 
 ## Slide 9: Engaging each group, and engagement that changed the plan (AC2.4)
 
